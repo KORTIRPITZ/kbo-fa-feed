@@ -143,9 +143,14 @@ def dcinside(gallery, keyword, gallery_name, minor=False):
 
 
 def naver(kind_path, query, cid, secret):
-    url = f"https://openapi.naver.com/v1/search/{kind_path}.json?" + urllib.parse.urlencode(
-        {"query": query, "display": 30, "sort": "date"})
-    data = json.loads(get(url, {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": secret}))
+    params = urllib.parse.urlencode({"query": query, "display": 30, "sort": "date"})
+    # 2026-07부터 새 키는 NAVER API HUB(네이버 클라우드)에서만 발급됨 → HUB 먼저, 실패하면 예전 개발자센터 주소
+    try:
+        data = json.loads(get(f"https://naverapihub.apigw.ntruss.com/search/v1/{kind_path}?{params}",
+                              {"X-NCP-APIGW-API-KEY-ID": cid, "X-NCP-APIGW-API-KEY": secret}, tries=1))
+    except Exception:
+        data = json.loads(get(f"https://openapi.naver.com/v1/search/{kind_path}.json?{params}",
+                              {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": secret}, tries=1))
     for it in data.get("items", []):
         if kind_path == "news":
             pub = to_iso(parse_rfc822(it.get("pubDate")))
@@ -208,7 +213,9 @@ def main():
             except Exception as e:  # 한 검색이 실패해도 나머지는 계속
                 errors.append(f"{name} {q}: {e}")
             time.sleep(1)
-        if cid and secret:
+        if cid and secret and (q in cfg["market_queries"] or datetime.now(KST).minute < 10 or
+                               any(n in q for n in cfg.get("naver_every_run", []))):
+            # 하루 25,000회 한도: 시장 검색어·삼성 선수는 매번, 나머지 선수는 시간당 1~2번
             for path in ("news", "cafearticle", "blog"):
                 try:
                     found.extend(naver(path, q, cid, secret))

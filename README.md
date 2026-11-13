@@ -14,7 +14,7 @@
 1. **GitHub Pages 켜기**: 저장소 Settings → Pages → Source를 "Deploy from a branch", Branch를 `main` / `/docs`로 두고 Save.
    몇 분 뒤 `https://kortirpitz.github.io/kbo-fa-feed/` 에서 열립니다.
 2. **Actions 켜기**: Actions 탭에서 워크플로 사용을 허용하고, "FA 소식 수집" → Run workflow로 한 번 실행해 보세요.
-3. **(선택) 네이버 키**: https://developers.naver.com 에서 애플리케이션 등록(검색 API) → Client ID/Secret 발급 →
+3. **(선택) 네이버 키**: 2026년 7월부터 새 검색 API 키는 네이버 클라우드 플랫폼의 NAVER API HUB에서 발급 (콘솔 → NAVER API HUB → 이용 신청 → 검색 API 구독 → Application 등록 → 인증 정보) →
    저장소 Settings → Secrets and variables → Actions → New repository secret으로
    `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET` 두 개를 추가. 그다음 실행부터 네이버 카페·블로그 글도 들어옵니다.
 
