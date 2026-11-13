@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -22,7 +23,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG = os.path.join(ROOT, "config.json")
 OUT = os.path.join(ROOT, "docs", "data", "news.json")
 KST = timezone(timedelta(hours=9))
-UA = "Mozilla/5.0 (compatible; kbo-fa-feed/1.0; +https://github.com/KORTIRPITZ/kbo-fa-feed)"
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 TIMEOUT = 20
 
 
@@ -31,10 +33,17 @@ def load_config():
         return json.load(f)
 
 
-def get(url, headers=None):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return r.read()
+def get(url, headers=None, tries=2):
+    h = {"User-Agent": UA, "Accept-Language": "ko-KR,ko;q=0.9", **(headers or {})}
+    for n in range(tries):
+        try:
+            req = urllib.request.Request(url, headers=h)
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                return r.read()
+        except Exception:
+            if n == tries - 1:
+                raise
+            time.sleep(3)
 
 
 def clean(text):
@@ -74,6 +83,28 @@ def google_news(query):
             "published": to_iso(parse_rfc822(it.findtext("pubDate"))),
             "summary": "",
             "via": "google_news",
+        }
+
+
+def bing_news(query):
+    url = "https://www.bing.com/news/search?" + urllib.parse.urlencode(
+        {"q": query, "format": "rss", "setlang": "ko-KR", "cc": "KR", "qft": 'sortbydate="1"'})
+    root = ET.fromstring(get(url))
+    for it in root.iter("item"):
+        link = it.findtext("link") or ""
+        real = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
+        src = ""
+        for child in it:
+            if child.tag.lower().endswith("source"):
+                src = clean(child.text)
+        yield {
+            "title": clean(it.findtext("title")),
+            "url": real,
+            "source": src or urllib.parse.urlparse(real).netloc.replace("www.", ""),
+            "kind": "기사",
+            "published": to_iso(parse_rfc822(it.findtext("pubDate"))),
+            "summary": clean(it.findtext("description"))[:140],
+            "via": "bing_news",
         }
 
 
@@ -130,10 +161,12 @@ def main():
     queries = list(cfg["market_queries"]) + [f'"{p["name"]}" FA' for p in players]
     found, errors = [], []
     for q in queries:
-        try:
-            found.extend(google_news(q))
-        except Exception as e:  # 한 검색이 실패해도 나머지는 계속
-            errors.append(f"google {q}: {e}")
+        for name, fn in (("google", google_news), ("bing", bing_news)):
+            try:
+                found.extend(fn(q))
+            except Exception as e:  # 한 검색이 실패해도 나머지는 계속
+                errors.append(f"{name} {q}: {e}")
+            time.sleep(1)
         if cid and secret:
             for path in ("news", "cafearticle", "blog"):
                 try:
@@ -171,6 +204,10 @@ def main():
         items.append(it)
     items = items[: cfg.get("max_items", 800)]
 
+    status = {"checked": to_iso(now), "added": added, "found": len(found), "errors": len(errors),
+              "sample_errors": errors[:5]}
+    with open(os.path.join(ROOT, "docs", "data", "status.json"), "w", encoding="utf-8") as f:
+        json.dump(status, f, ensure_ascii=False, indent=1)
     if added == 0 and old.get("items"):
         # 새 글이 없으면 파일을 건드리지 않음 → 커밋도 생기지 않음
         print(f"no new items (errors {len(errors)})")
