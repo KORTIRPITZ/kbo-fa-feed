@@ -2,7 +2,8 @@
 """KBO FA 소식 수집기.
 
 GitHub Actions에서 5분마다 실행된다.
-- 구글 뉴스 RSS (키 필요 없음)
+- 빙 뉴스 RSS (키 필요 없음, robots.txt 허용)
+- 디시인사이드 갤러리 제목 검색
 - 네이버 검색 API: 뉴스·카페·블로그 (NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 시크릿이 있을 때만)
 결과는 docs/data/news.json 에 쌓이고, docs/index.html 이 그것을 보여 준다.
 표준 라이브러리만 쓴다(설치할 패키지 없음).
@@ -201,7 +202,7 @@ def main():
     queries = list(cfg["market_queries"]) + [f'"{p["name"]}" FA' for p in players]
     found, errors = [], []
     for q in queries:
-        for name, fn in (("google", google_news), ("bing", bing_news)):
+        for name, fn in (("bing", bing_news),):  # 구글 뉴스 RSS 검색은 robots.txt가 금지해 끔
             try:
                 found.extend(fn(q))
             except Exception as e:  # 한 검색이 실패해도 나머지는 계속
