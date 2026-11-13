@@ -1,0 +1,205 @@
+{
+ "market_queries": [
+  "KBO FA",
+  "프로야구 FA 시장",
+  "FA 계약 KBO",
+  "FA 보상선수"
+ ],
+ "must_words": [
+  "FA",
+  "자유계약",
+  "계약",
+  "잔류",
+  "이적",
+  "보상",
+  "몸값",
+  "협상",
+  "다년",
+  "에이전트",
+  "영입"
+ ],
+ "teams": [
+  "삼성",
+  "KT",
+  "KIA",
+  "LG",
+  "두산",
+  "SSG",
+  "롯데",
+  "NC",
+  "한화",
+  "키움"
+ ],
+ "players": [
+  {
+   "name": "원태인",
+   "team": "삼성",
+   "position": "투수",
+   "grade": "A"
+  },
+  {
+   "name": "전병우",
+   "team": "삼성",
+   "position": "내야수",
+   "grade": "C"
+  },
+  {
+   "name": "구자욱",
+   "team": "삼성",
+   "position": "외야수",
+   "grade": "A"
+  },
+  {
+   "name": "김민수",
+   "team": "KT",
+   "position": "투수",
+   "grade": "B"
+  },
+  {
+   "name": "한승혁",
+   "team": "KT",
+   "position": "투수",
+   "grade": "B"
+  },
+  {
+   "name": "김상수",
+   "team": "KT",
+   "position": "내야수",
+   "grade": "C"
+  },
+  {
+   "name": "오윤석",
+   "team": "KT",
+   "position": "내야수",
+   "grade": "B"
+  },
+  {
+   "name": "김민혁",
+   "team": "KT",
+   "position": "외야수",
+   "grade": "A"
+  },
+  {
+   "name": "배정대",
+   "team": "KT",
+   "position": "외야수",
+   "grade": "A"
+  },
+  {
+   "name": "김태군",
+   "team": "KIA",
+   "position": "포수",
+   "grade": "B"
+  },
+  {
+   "name": "김호령",
+   "team": "KIA",
+   "position": "외야수",
+   "grade": "C"
+  },
+  {
+   "name": "박동원",
+   "team": "LG",
+   "position": "포수",
+   "grade": "B"
+  },
+  {
+   "name": "홍창기",
+   "team": "LG",
+   "position": "외야수",
+   "grade": "A"
+  },
+  {
+   "name": "박치국",
+   "team": "두산",
+   "position": "투수",
+   "grade": "B"
+  },
+  {
+   "name": "양의지",
+   "team": "두산",
+   "position": "포수",
+   "grade": "C"
+  },
+  {
+   "name": "정수빈",
+   "team": "두산",
+   "position": "외야수",
+   "grade": "B"
+  },
+  {
+   "name": "문승원",
+   "team": "SSG",
+   "position": "투수",
+   "grade": "C"
+  },
+  {
+   "name": "서진용",
+   "team": "SSG",
+   "position": "투수",
+   "grade": "B"
+  },
+  {
+   "name": "김성현",
+   "team": "SSG",
+   "position": "내야수",
+   "grade": "B"
+  },
+  {
+   "name": "오태곤",
+   "team": "SSG",
+   "position": "외야수",
+   "grade": "C"
+  },
+  {
+   "name": "최지훈",
+   "team": "SSG",
+   "position": "외야수",
+   "grade": "B"
+  },
+  {
+   "name": "한유섬",
+   "team": "SSG",
+   "position": "외야수",
+   "grade": "C"
+  },
+  {
+   "name": "박승욱",
+   "team": "롯데",
+   "position": "내야수",
+   "grade": "C"
+  },
+  {
+   "name": "권희동",
+   "team": "NC",
+   "position": "외야수",
+   "grade": "B"
+  },
+  {
+   "name": "박상원",
+   "team": "한화",
+   "position": "투수",
+   "grade": "A"
+  },
+  {
+   "name": "이재원",
+   "team": "한화",
+   "position": "포수",
+   "grade": "B"
+  },
+  {
+   "name": "최재훈",
+   "team": "한화",
+   "position": "포수",
+   "grade": "B"
+  },
+  {
+   "name": "최주환",
+   "team": "키움",
+   "position": "내야수",
+   "grade": "B"
+  }
+ ],
+ "highlight_team": "삼성",
+ "max_items": 800
+}

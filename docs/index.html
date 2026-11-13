@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2027 KBO FA 실시간 소식</title>
+<style>
+  :root { --bg:#fafaf8; --panel:#fff; --fg:#1d1d1b; --muted:#6b6b66; --line:#e6e4de; --ss:#1f5fbf; --warn:#b26b00; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#171716; --panel:#211f1d; --fg:#ecebe6; --muted:#a3a19a; --line:#34322e; --ss:#6ea2ff; --warn:#e0a23c; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.55 -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; }
+  main { max-width: 860px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 26px; margin: 0 0 4px; font-weight: 600; }
+  .lede { color: var(--muted); margin: 0 0 20px; }
+  .lede b { color: var(--fg); font-weight: 600; }
+  .bar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:12px; }
+  .chip { border:1px solid var(--line); background:var(--panel); color:var(--fg); border-radius:999px; padding:4px 12px; font:inherit; font-size:13px; cursor:pointer; }
+  .chip[aria-pressed="true"] { background:var(--fg); color:var(--bg); border-color:var(--fg); }
+  select, input[type=search] { font:inherit; font-size:14px; padding:5px 10px; border:1px solid var(--line); border-radius:8px; background:var(--panel); color:var(--fg); }
+  input[type=search] { flex:1; min-width:160px; }
+  ul { list-style:none; margin:0; padding:0; background:var(--panel); border:1px solid var(--line); border-radius:12px; }
+  li { padding:12px 16px; border-bottom:1px solid var(--line); }
+  li:last-child { border-bottom:0; }
+  li.ss { box-shadow: inset 3px 0 0 var(--ss); }
+  li.new .when { color: var(--ss); font-weight: 600; }
+  .meta { display:flex; flex-wrap:wrap; gap:6px; align-items:center; font-size:12.5px; color:var(--muted); margin-bottom:2px; }
+  .badge { border:1px solid var(--line); border-radius:6px; padding:0 6px; }
+  .badge.comm { border-color: var(--warn); color: var(--warn); }
+  .pl { color: var(--ss); }
+  a { color: var(--fg); text-decoration: none; font-weight: 600; }
+  a:hover { text-decoration: underline; }
+  .sum { color: var(--muted); font-size: 13.5px; margin-top: 2px; }
+  .empty { padding: 24px 16px; color: var(--muted); }
+  .more { margin: 12px 0; }
+  footer { color: var(--muted); font-size: 12.5px; margin-top: 24px; }
+  footer a { font-weight: 400; text-decoration: underline; }
+</style>
+</head>
+<body>
+<main>
+  <h1>2027 KBO FA 실시간 소식</h1>
+  <p class="lede" id="lede">불러오는 중…</p>
+
+  <div class="bar" role="group" aria-label="종류">
+    <button class="chip" data-kind="" aria-pressed="true">전체</button>
+    <button class="chip" data-kind="기사" aria-pressed="false">기사</button>
+    <button class="chip" data-kind="comm" aria-pressed="false">커뮤니티·블로그·SNS 썰</button>
+    <button class="chip" id="ss" aria-pressed="false">삼성 관련만</button>
+  </div>
+  <div class="bar">
+    <select id="player" aria-label="선수"><option value="">모든 선수</option></select>
+    <input type="search" id="q" placeholder="제목·요약 검색" aria-label="검색">
+  </div>
+
+  <ul id="list"><li class="empty">불러오는 중…</li></ul>
+  <div class="more"><button class="chip" id="more" hidden>더 보기</button></div>
+
+  <footer>
+    5분마다 구글 뉴스 RSS<span id="nv"></span>에서 FA 관련 새 글을 자동으로 모읍니다. 이 페이지는 열어 둔 상태에서도 3분마다 새로 읽어 와요.
+    제목과 링크만 모으며, 내용은 원문에서 확인하세요. 커뮤니티·블로그 글은 확인되지 않은 이야기일 수 있습니다.
+    선수별 스탯·보상금·예상 금액은 <a href="https://claude.ai/artifact/2E1qWHAYVmnjFUq8zdBWEg" target="_blank" rel="noopener">Claude FA 대시보드</a>에서 볼 수 있어요.
+  </footer>
+</main>
+
+<script>
+const SS_PLAYERS = ['원태인', '구자욱', '전병우'];
+const COMM = ['커뮤니티', '블로그', 'SNS'];
+const state = { kind: '', ss: false, player: '', q: '', limit: 40, data: null, lastSeen: null };
+try { state.lastSeen = localStorage.getItem('lastSeen'); } catch (e) {}
+
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+function ago(iso) {
+  if (!iso) return '';
+  const d = new Date(iso); const m = Math.round((Date.now() - d) / 60000);
+  if (m < 1) return '방금'; if (m < 60) return m + '분 전'; if (m < 1440) return Math.round(m / 60) + '시간 전';
+  return (d.getMonth() + 1) + '월 ' + d.getDate() + '일';
+}
+function isSS(it) { return (it.teams || []).includes('삼성') || (it.players || []).some((p) => SS_PLAYERS.includes(p)); }
+
+function render() {
+  const d = state.data; if (!d) return;
+  const q = state.q.trim();
+  const rows = d.items.filter((it) =>
+    (!state.kind || (state.kind === 'comm' ? COMM.includes(it.kind) : it.kind === state.kind)) &&
+    (!state.ss || isSS(it)) &&
+    (!state.player || (it.players || []).includes(state.player)) &&
+    (!q || (it.title + ' ' + (it.summary || '')).includes(q)));
+  const ul = document.getElementById('list'); ul.replaceChildren();
+  if (!rows.length) { ul.append(el('li', 'empty', '조건에 맞는 소식이 없습니다.')); }
+  rows.slice(0, state.limit).forEach((it) => {
+    const li = el('li', (isSS(it) ? 'ss ' : '') + (state.lastSeen && it.collected && new Date(it.collected) > new Date(state.lastSeen) ? 'new' : ''));
+    const meta = el('div', 'meta');
+    meta.append(el('span', 'badge' + (COMM.includes(it.kind) ? ' comm' : ''), it.kind || '기사'));
+    meta.append(el('span', '', it.source || ''));
+    meta.append(el('span', 'when', ago(it.published || it.collected)));
+    if ((it.players || []).length) meta.append(el('span', 'pl', it.players.join(' · ')));
+    const a = el('a', '', it.title);
+    if (/^https?:\/\//.test(it.url)) { a.href = it.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+    li.append(meta, a);
+    if (it.summary) li.append(el('div', 'sum', it.summary));
+    ul.append(li);
+  });
+  const more = document.getElementById('more');
+  more.hidden = rows.length <= state.limit;
+  more.textContent = '더 보기 (' + (rows.length - state.limit) + '건 남음)';
+}
+
+function fillPlayers(items) {
+  const sel = document.getElementById('player'); if (sel.options.length > 1) return;
+  const counts = {}; items.forEach((it) => (it.players || []).forEach((p) => { counts[p] = (counts[p] || 0) + 1; }));
+  Object.keys(counts).sort((a, b) => (SS_PLAYERS.includes(b) - SS_PLAYERS.includes(a)) || counts[b] - counts[a])
+    .forEach((p) => sel.append(new Option(p + ' (' + counts[p] + ')', p)));
+}
+
+async function load() {
+  try {
+    const r = await fetch('data/news.json?t=' + Date.now(), { cache: 'no-store' });
+    const d = await r.json(); state.data = d;
+    fillPlayers(d.items);
+    const lede = document.getElementById('lede'); lede.replaceChildren();
+    lede.append('모은 소식 ', el('b', '', d.count + '건'), ' · 마지막으로 새 글이 들어온 때 ', el('b', '', ago(d.updated)),
+      ' (' + new Date(d.updated).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' }) + ')');
+    document.getElementById('nv').textContent = d.naver ? '와 네이버 뉴스·카페·블로그' : '';
+    render();
+  } catch (e) {
+    document.getElementById('lede').textContent = '소식을 불러오지 못했습니다. 잠시 뒤 새로고침해 주세요.';
+  }
+}
+
+document.querySelectorAll('[data-kind]').forEach((b) => b.addEventListener('click', () => {
+  state.kind = b.dataset.kind; state.limit = 40;
+  document.querySelectorAll('[data-kind]').forEach((x) => x.setAttribute('aria-pressed', String(x === b))); render();
+}));
+document.getElementById('ss').addEventListener('click', (e) => { state.ss = !state.ss; e.currentTarget.setAttribute('aria-pressed', String(state.ss)); render(); });
+document.getElementById('player').addEventListener('change', (e) => { state.player = e.target.value; render(); });
+document.getElementById('q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+document.getElementById('more').addEventListener('click', () => { state.limit += 40; render(); });
+window.addEventListener('beforeunload', () => { try { localStorage.setItem('lastSeen', new Date().toISOString()); } catch (e) {} });
+
+load();
+setInterval(load, 3 * 60 * 1000);
+</script>
+</body>
+</html>

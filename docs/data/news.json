@@ -1,0 +1,1940 @@
+{
+ "updated": "2026-11-13T20:00+09:00",
+ "count": 128,
+ "added": 128,
+ "naver": false,
+ "errors": [],
+ "items": [
+  {
+   "title": "[오피셜] 구자욱 원태인 박동원 홍창기…FA 자격 선수 28명 공시, 15일 신청→16일 승인→17일 FA 시장 열린다",
+   "url": "https://spotvnews.co.kr/news/articleView.html?idxno=1019638",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "KBO가 FA 자격자 28명을 공시했고 박상원은 A등급으로 분류됐다. 신청은 15일, 승인 공시는 16일, 교섭은 17일부터다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "프로야구 FA 시장 개장…원태인·구자욱 포함 28명 자격 공시",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275838",
+   "source": "톱스타뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "박상원이 생애 첫 FA 자격(신규)을 얻었고 A등급으로 공시됐다고 전했다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "최주환"
+   ],
+   "teams": []
+  },
+  {
+   "title": "KBO 2027년 FA 자격 선수 28명 공시…17일부터 협상",
+   "url": "https://news.jkn.co.kr/post/1091425",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "한화 박상원이 A등급 FA 자격자 명단에 포함됐다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "이재원",
+    "최재훈",
+    "최주환"
+   ],
+   "teams": []
+  },
+  {
+   "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+   "url": "https://sports.khan.co.kr/article/202611131627013",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "한화 FA 자격자 3명(박상원·이재원·최재훈) 가운데 이재원은 은퇴할 예정이라고 전했다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "박동원 65억원→최재훈 54억원→양의지 42억원→김태군 25억원→FA 포수 대이동? 이 몸값 전부 넘어서나",
+   "url": "https://www.mydaily.co.kr/page/view/2026111310371384849",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "베테랑 FA 포수 4명이 모두 전성기는 지났지만 포수 특성상 다년계약이 가능해 직전 계약 수준의 대우를 받을 수 있다고 전망.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최재훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[프로야구] KBO, FA 명단 공시…삼성 구자욱·원태인 'A등급', KIA 김호령 'C등급'",
+   "url": "https://www.newspim.com/news/view/20261113001241",
+   "source": "뉴스핌",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "KBO가 28명 등급을 공시. KT·SSG가 6명으로 가장 많고 삼성·두산·한화가 3명씩.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "원태인",
+    "김호령",
+    "홍창기"
+   ],
+   "teams": [
+    "삼성",
+    "KIA"
+   ]
+  },
+  {
+   "title": "2027년 프로야구 FA 자격 선수 28명 명단 공개",
+   "url": "https://www.etoday.co.kr/news/view/2647969",
+   "source": "이투데이",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "신규 15·재자격 6·자격유지 7명. A등급 6명은 모두 첫 FA이며 양의지·김상수는 세 번째 FA로 C등급.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "원태인",
+    "홍창기",
+    "김민혁",
+    "배정대",
+    "박상원",
+    "양의지",
+    "김상수",
+    "박동원",
+    "권희동",
+    "최지훈",
+    "박치국"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'이럴 수가' KIA 보상선수 사라졌다! 김호령, 왜 'B등급 아닌 C등급' 됐나",
+   "url": "https://www.starnewskorea.com/sports/2026/11/13/2026111316162411970",
+   "source": "스타뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "연봉 순위 산정에서 근소하게 밀려 C등급이 되면서 보상선수 없이 데려갈 수 있는 카드가 됐다는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "어느 단장의 고백 \"FA 구자욱 원태인? 모든 단장의 꿈, 그러나 삼성이 놓칠 리 없다\"",
+   "url": "https://mhnse.com/news/articleView.html?idxno=1695223",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "APBC 현장에서 한 구단 단장이 두 선수를 원하지만 삼성이 잡을 것이라 사실상 영입을 반쯤 포기했다고 전함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"모두가 구자욱 원태인의 대박을 말하지만 배정대 김상수의 삶도 있다\"",
+   "url": "https://mhnse.com/news/articleView.html?idxno=1695760",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T00:00+09:00",
+   "summary": "등급별 보상 구조를 배정대(A)와 김상수(C) 사례로 비교. 배정대 영입 시 선수+5억2천만원 또는 7억8천만원.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "배정대",
+    "김상수"
+   ],
+   "teams": [
+    "KT"
+   ]
+  },
+  {
+   "title": "야구)나는 개인적으로 놀란게..",
+   "url": "https://bbs.ruliweb.com/community/board/300148/read/38813497",
+   "source": "루리웹",
+   "kind": "커뮤니티",
+   "published": "2026-11-12T00:00+09:00",
+   "summary": "원태인을 비FA로 묶지 않은 게 의외라는 글. 댓글에선 구자욱은 잔류, 원태인은 이적할 것 같다는 의견.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'20→85' 왕조의 안방마님 공식발표, \"저 은퇴합니다\"→'플레잉' 사라진다 [미야자키 인터뷰]",
+   "url": "https://sports.news.nate.com/view/20261111n01987",
+   "source": "네이트 스포츠(원 매체 미확인)",
+   "kind": "기사",
+   "published": "2026-11-11T00:00+09:00",
+   "summary": "제목상 이재원이 마무리캠프 인터뷰에서 은퇴를 공식화하고 플레잉코치에서 코치로 전환한다는 내용(본문은 열람 차단).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "175억! SK가 '질렀던' 그 금액, 삼성이 가볍게 제친다?…구자욱-원태인 FA에 얼마까지 쓸 수 있나",
+   "url": "https://www.xportsnews.com/article/2218065",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "KS 우승 직후 삼성이 원태인·구자욱 둘 다 잡으려면 250억 이상 필요하다는 전망과 샐러리캡·래리버드 룰 변수를 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"MLB 가도 선발은 어렵다\" 원태인, 해외 진출 꿈꾸며 FA 시장 나서는데…",
+   "url": "https://www.xportsnews.com/article/2217754",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "해외 에이전트를 선임한 원태인에 대해 미국 기자가 MLB에선 불펜 역할이 현실적이고 삼성 복귀 가능성도 크다고 평가.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "구자욱의 편지 '무섭고 두려웠고, 속상하고 슬펐다...'",
+   "url": "https://isplus.com/article/view/isp202611100015",
+   "source": "구자욱 SNS(일간스포츠 보도)",
+   "kind": "SNS",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "우승 다음 날 팬들에게 감사 편지를 올렸고, 에이전트 없이 협상하며 미국 시장 도전도 원한다고 언급.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[IS 포커스] 최소 두 번의 손짓에도 고개 저었다…김호령, FA 시장서 새 둥지 찾나",
+   "url": "https://isplus.com/article/view/isp202611100065",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "이번 FA 시장에서 관심을 끌 외야수 중 하나로 이름이 거론됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "홍창기",
+    "김호령",
+    "최지훈",
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'푸른 새 시대' 열려면 붙잡아야 한다…삼성의 고민, 구자욱·원태인과 샐러리캡",
+   "url": "https://isplus.com/article/view/isp202611100050",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "연봉 총액 1위 삼성이 캡 부담 속에 두 선수를 지켜야 하며, KBO가 13일 FA 자격 공시·16일 신청 선수 승인 일정을 잡았다고 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'작별 인사?' 구자욱, 절절한 손 편지·의미심장한 표현",
+   "url": "https://www.nocutnews.co.kr/news/6604520",
+   "source": "CBS노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "구자욱이 에이전트 없이 직접 협상해야 한다며 거취 즉답을 피했고, 타선 보강을 노리는 타 구단들의 관심도 거론됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "LG 송찬의 \"FA 홍창기, 같이 훈련하자니 웃기만 하네요\"",
+   "url": "https://isplus.com/article/view/isp202611100036",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "첫 FA를 맞은 홍창기에게 동료들이 잔류를 권하지만, 박동원까지 FA인 LG는 샐러리캡 부담으로 고민이 크다는 내용.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "홍창기",
+    "박동원"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "얼마가 들까? 원태인-구자욱 둘 다 잡으려면",
+   "url": "https://sports.khan.co.kr/article/202611102200006/",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-11-10T00:00+09:00",
+   "summary": "삼성이 원태인 연봉을 10억으로 올려 보상 장벽(선수+20억 또는 30억)을 쳐 둔 점과 두 선수의 우승 직후 발언을 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "타격왕→KS MVP...주가 전고점 예고한 구자욱 \"나도 설렌다\"",
+   "url": "https://isplus.com/article/view/isp202611080423",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "KS 타율 5할로 MVP를 받으며 12년 만의 우승을 이끌었고, 타 구단 관심 속 FA 시장에 나선다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "구자욱 연봉, 정말 억 소리 난다… FA 몸값 전망까지 살펴봤더니",
+   "url": "https://www.wikitree.co.kr/articles/1173016",
+   "source": "위키트리",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "최소 두 구단이 영입을 준비 중이라는 얘기와 200억 가능성 소문을 전함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"우승 약속 지켰으니 사장님 믿습니다\" 원태인·구자욱, V9 축포 속 '해외 진출' 깜짝 선언",
+   "url": "https://www.fnnews.com/news/202611090823330028",
+   "source": "파이낸셜뉴스",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "KS 우승 직후 원태인은 이미 해외 에이전트를 선임했다고 밝혔고, 구자욱도 미국 무대에 관심이 있다고 말함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"해외 에이전트 선임\" 푸피에 원태인의 꿈 시작, 그런데 구자욱도? \"저도 미국 관심 있어, 진심입니다\"",
+   "url": "https://isplus.com/article/view/isp202611090190",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "원태인은 시즌 중 부진 탓에 에이전트 선임 사실을 숨겨왔다고 했고, 두 선수 모두 우선 구단 제안을 기다리겠다는 입장.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 잔류냐, 해외 도전이냐…왕조 부활 이끈 원태인·구자욱의 '행복한 FA 겨울'",
+   "url": "https://www.nocutnews.co.kr/news/6603864",
+   "source": "CBS노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "박진만 감독은 두 선수 잔류를 기대했고, 구자욱의 5년 120억 비FA 계약 만료와 원태인이 들은 구단의 보상 약속이 함께 정리됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[IS 이슈] \"양의지 152억 깬다\" KS 우승에 MVP까지…타격왕 구자욱, FA 역대 최고액 정조준",
+   "url": "https://isplus.com/article/view/isp202611090034",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "타격왕·KS MVP 구자욱이 FA 역대 최고액(양의지 152억) 경신 후보로 거론되며, 원태인과 누가 먼저 계약하느냐가 기준점이 될 것으로 봄.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "원태인",
+    "양의지"
+   ],
+   "teams": [
+    "삼성",
+    "두산"
+   ]
+  },
+  {
+   "title": "[삼성 V9 ④] '이제 단장의 시간' 박석민·최형우·차우찬 놓쳤던 삼성의 암흑기, 구자욱·원태인은?",
+   "url": "https://isplus.com/article/view/isp202611090009",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "과거 주축 FA 유출 후 침체를 겪은 삼성이 원태인·구자욱·전병우 내부 FA를 지켜야 왕조를 이어갈 수 있다는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 최대어 'TOP2' 구자욱-원태인의 유쾌한 꺼드럭!",
+   "url": "https://www.segye.com/newsView/20261109511454",
+   "source": "세계일보",
+   "kind": "기사",
+   "published": "2026-11-09T00:00+09:00",
+   "summary": "구자욱은 에이전트 없이 직접 협상하겠다고, 원태인은 협상을 에이전트에 맡기겠다고 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'MLB.com'이 눈여겨본다고? '푸른 피의 에이스' 원태인의 머릿속엔 오직 삼성뿐",
+   "url": "https://www.koreadaily.com/article/20261107141112113",
+   "source": "OSEN(미주중앙일보 전재)",
+   "kind": "기사",
+   "published": "2026-11-07T00:00+09:00",
+   "summary": "MLB.com이 빅리그 진출 후보로 꼽았지만 본인은 KS 우승에만 집중하겠다며 FA 얘기를 미뤘다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다",
+   "url": "https://www.koreadaily.com/article/20261103114311303",
+   "source": "OSEN(미주중앙일보 전재)",
+   "kind": "기사",
+   "published": "2026-11-03T00:00+09:00",
+   "summary": "시즌 전 다년계약을 거절한 뒤 부진했고, 단장은 잔류 방침을 확언하지 않았다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
+   "url": "https://v.daum.net/v/3HNTpTd8BQ",
+   "source": "Daum 야구기록소",
+   "kind": "기사",
+   "published": "2026-11-03T00:00+09:00",
+   "summary": "이주헌과 출전을 나누는 상황이지만 장타력·투수 호흡을 근거로 잔류가 합리적이라는 분석, KT 관심 언급.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "38억 그 이상? '홀드 1위' 98년생 FA 사이드암 잔류할까",
+   "url": "https://www.xportsnews.com/article/2212795",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-10-29T00:00+09:00",
+   "summary": "구단 통산 홀드 1위에 오른 박치국의 첫 FA를 앞두고 최원준 계약이 비교 기준으로 언급되고, 동료들이 잔류를 바란다는 내용.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박치국"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[IS 포커스] 가을은 뜨겁고, 몸값은 뛴다…예비 FA들의 쇼케이스도 열린다",
+   "url": "https://isplus.com/article/view/isp202610260070",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-10-26T00:00+09:00",
+   "summary": "타격왕으로 대형 FA 평가는 확실하나 매년 반복된 하체 부상이 협상 부담으로 지적됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱",
+    "김호령",
+    "김태군",
+    "원태인",
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "부상만의 문제였을까? '디펜딩 챔피언'의 추락, 왜 이렇게 허무하게 마감했나",
+   "url": "https://isplus.com/article/view/isp202610210157",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-10-21T00:00+09:00",
+   "summary": "LG 시즌 실패 원인으로 박동원 등 주축 야수 동반 부진이 꼽혔다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[IS 인터뷰] 주장 오태곤의 약속 \"6위 다음 시즌은 뭐다?…좋은 징크스 이어 더 높은 곳으로\"",
+   "url": "https://isplus.com/article/view/isp202610110055",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-10-11T00:00+09:00",
+   "summary": "시즌 중 주장을 맡은 오태곤이 막판 반등으로 6위를 마친 팀을 돌아보며 다음 시즌 더 높은 순위를 다짐.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "오태곤"
+   ],
+   "teams": []
+  },
+  {
+   "title": "Perhaps his final game in front of Incheon fans, 'prospective FA' Choi Ji-hoon's three-hit surge",
+   "url": "https://www.starnewskorea.com/en/sports/2026/10/09/2026100915035990891",
+   "source": "스타뉴스",
+   "kind": "기사",
+   "published": "2026-10-09T00:00+09:00",
+   "summary": "첫 FA를 앞둔 최지훈이 홈 최종전에서 3안타로 활약했고, 인천 팬 앞 마지막 경기일 수 있다는 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최지훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "원태인 기아 가면 야구 외적으로 재밋겠노 ㅋㅋ",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=18838834",
+   "source": "디시인사이드 삼성 라이온즈 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-10-05T00:00+09:00",
+   "summary": "원태인의 KIA 이적을 가정한 가벼운 농담성 글.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성",
+    "KIA"
+   ]
+  },
+  {
+   "title": "'예비 FA' 홍창기 진짜 안 풀리네... 허리 근육통으로 시즌 첫 1군 말소!",
+   "url": "https://www.mt.co.kr/sports/2026/09/21/2026092117261847218",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-09-21T00:00+09:00",
+   "summary": "허리 통증으로 시즌 처음 엔트리에서 빠졌고 당시 시즌 홈런이 하나도 없었다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'FA 대박은 포기 못해!' 예비 FA 중견수 최대어, 3안타 1홈런 5타점 대폭발",
+   "url": "https://www.koreadaily.com/article/20260920054021523",
+   "source": "OSEN(미주중앙일보 게재)",
+   "kind": "기사",
+   "published": "2026-09-20T00:00+09:00",
+   "summary": "시즌 초 부진했던 최지훈이 커리어 최다 홈런 페이스로 막판 FA 가치를 끌어올리는 중.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최지훈"
+   ],
+   "teams": [
+    "SSG"
+   ]
+  },
+  {
+   "title": "\"우리도 출혈 커요!\" 엄살 아니었다…삼성, 어수선한 수비로 뼈아픈 패배",
+   "url": "https://isplus.com/article/view/isp202609160179",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-09-16T00:00+09:00",
+   "summary": "두산전 1-3 패배에서 2회 솔로포로 팀 유일한 타점을 올렸다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'끝내 눈시울 붉혔다' 21년 원클럽맨 김성현, 그라운드와 작별",
+   "url": "https://www.xportsnews.com/article/2192591",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-09-06T00:00+09:00",
+   "summary": "9월 5일 두산전에 특별 엔트리로 선발 출전한 뒤 은퇴식을 치르고 지도자로 팀에 남겠다고 밝힌 현장 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김성현",
+    "오태곤"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"팬분들 덕분에 행복하게 야구했습니다\"…'21년 원클럽맨' 김성현의 마지막 인사",
+   "url": "https://www.xportsnews.com/article/2192457",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-09-05T00:00+09:00",
+   "summary": "은퇴식 직후 일문일답으로, 2025시즌 뒤 플레잉코치가 된 김성현이 커리어 회고와 지도자 포부를 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김성현"
+   ],
+   "teams": []
+  },
+  {
+   "title": "김민혁은 KT 형제들에게 고맙다, 1위 싸움의 동력",
+   "url": "https://www.mydaily.co.kr/page/view/2026090312542244267",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-09-03T00:00+09:00",
+   "summary": "한화전 결승타 뒤 후반기 타격이 다소 처졌지만 최원준의 조언과 전력분석 도움에 고마움을 표함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김민혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"지금도 매일 운동합니다\" 김성현 5일 은퇴식 2루 선발 출전!",
+   "url": "https://www.mt.co.kr/sports/2026/08/28/2026082815362893927",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-08-28T00:00+09:00",
+   "summary": "SSG가 9월 5일 김성현 은퇴식을 열고 그를 2루수로 선발 기용할 예정이라는 예고 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김성현"
+   ],
+   "teams": []
+  },
+  {
+   "title": "김민수(1992)",
+   "url": "https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%88%98(1992)",
+   "source": "나무위키",
+   "kind": "커뮤니티",
+   "published": "2026-08-26T00:00+09:00",
+   "summary": "2026 연봉이 전년 대비 소폭 깎인 2억 원으로 정리돼 있고, 2023 시즌아웃 뒤 구속 회복이 더디다는 서술이 있음.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김민수"
+   ],
+   "teams": []
+  },
+  {
+   "title": "박동원ㆍ김태군ㆍ최재훈 FA 시장으로⋯포수 '대이동' 벌어질까",
+   "url": "https://www.etoday.co.kr/news/view/2616834",
+   "source": "이투데이",
+   "kind": "기사",
+   "published": "2026-08-21T00:00+09:00",
+   "summary": "유튜브 채널 '크보오프너' 토론을 정리한 기사로, 최재훈 수요는 있겠지만 허인서 성장에도 한화가 잔류를 노릴 것이라고 봤다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최재훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[IS 대구] '영웅'의 빈자리, 7타점 전병우가 채웠다",
+   "url": "https://isplus.com/article/view/isp202608200097",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-08-20T00:00+09:00",
+   "summary": "SSG전 3안타 7타점으로 개인 한 경기 최다 타점, 시즌 8호포로 커리어 최다 홈런 타이.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'인천 좌타 홈런 1위' 한유섬의 첫 아치가 8월에 터지다니!",
+   "url": "https://www.mt.co.kr/sports/2026/08/17/2026081622272270082",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-08-17T00:00+09:00",
+   "summary": "5년 계약 마지막 해에 극심한 부진과 2군행을 겪은 한유섬이 8월 중순에야 시즌 첫 홈런을 치고 2연속 홈런을 기록.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한유섬"
+   ],
+   "teams": []
+  },
+  {
+   "title": "사흘간 3홈런 11안타로 타율 0.339→0.357...삼성 '캡틴' 구자욱, FA 앞두고 몸값이 실시간으로 오르네",
+   "url": "https://www.segye.com/newsView/20260816500945",
+   "source": "세계일보",
+   "kind": "기사",
+   "published": "2026-08-16T00:00+09:00",
+   "summary": "8월 맹타로 타격 1위에 올라 100억 이상 계약이 유력하다는 전망.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'6년 만의 최악투' 원태인 해외진출 물 건너 갔다고? \"ML의 판단은 다르던데요\"",
+   "url": "https://v.daum.net/v/20260806101813520",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-08-06T00:00+09:00",
+   "summary": "시즌 부진에도 MLB 스카우트는 세부 지표를 근거로 관심을 유지 중이며, MLB 노사 협상이 변수로 거론됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'삼성 제치고' 70일 만의 1위 탈환! 34세 예비 FA 방망이 끝에서 이뤄졌다",
+   "url": "https://www.mt.co.kr/sports/2026/08/02/2026080115043579813",
+   "source": "머니투데이(스타뉴스)",
+   "kind": "기사",
+   "published": "2026-08-02T00:00+09:00",
+   "summary": "1루수로 선발 출전해 만루 싹쓸이 2루타를 치며 KT의 한화전 승리와 1위 복귀를 이끈 예비 FA.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "오윤석"
+   ],
+   "teams": []
+  },
+  {
+   "title": "‘FA로이드’ 맞은 구자욱…7월 대폭발에 몸값도 활활",
+   "url": "https://www.dailian.co.kr/news/view/1672324/",
+   "source": "데일리안",
+   "kind": "기사",
+   "published": "2026-07-30T00:00+09:00",
+   "summary": "7월 폭발로 5년 120억 비FA 다년계약을 넘는 대형 계약이 예상된다는 관측.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "홍창기·원태인도 주춤…'FA 로이드' 아닌 'FA 중압감'?",
+   "url": "https://www.nocutnews.co.kr/news/6551113",
+   "source": "CBS노컷뉴스",
+   "kind": "기사",
+   "published": "2026-07-21T00:00+09:00",
+   "summary": "전반기 LG 이적 후 가장 낮은 타율과 도루저지율을 기록 중이라고 지적.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기",
+    "원태인",
+    "최재훈",
+    "최지훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"주전에서 밀려난 후 정체성이 흔들렸다\"…1군 복귀後 5안타 폭발",
+   "url": "https://v.daum.net/v/20260712060051125",
+   "source": "스포츠조선(다음)",
+   "kind": "기사",
+   "published": "2026-07-12T00:00+09:00",
+   "summary": "최원준 합류로 주전을 내주고 2군을 다녀온 뒤 키움전 2경기 5안타로 반등 신호를 보임.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "배정대"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'전경기 출전 철인→부진 터널' 배정대 \"선수로서 정체성 흔들렸던 것 사실\"",
+   "url": "https://www.mt.co.kr/sports/2026/07/09/2026070822150948269",
+   "source": "머니투데이(스타뉴스)",
+   "kind": "기사",
+   "published": "2026-07-09T00:00+09:00",
+   "summary": "전 경기 출전하던 시절 이후 부진과 주전 경쟁 밀림을 털어놓은 인터뷰(제목·검색 결과 기준).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "배정대"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"448일만의 1군 복귀, 출근 시간도 잊어버렸다\" 팔꿈치 수술 → FA 재수 → 잊혀졌던 이름…'구원왕' 서진용이 돌아왔다",
+   "url": "https://v.daum.net/v/20260629123147062",
+   "source": "스포츠조선(다음)",
+   "kind": "기사",
+   "published": "2026-06-29T00:00+09:00",
+   "summary": "팔꿈치 수술 후유증과 FA 미신청을 거친 서진용이 448일 만에 1군에 복귀한 소감을 전한 인터뷰.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "서진용"
+   ],
+   "teams": []
+  },
+  {
+   "title": "KIA 초비상, '이 선수' 얼마에 붙잡아야하나…몸값 폭등 중인데 왜 수줍게 웃었나",
+   "url": "https://osen.co.kr/article/G1112830553",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-06-29T00:00+09:00",
+   "summary": "김호령이 예비 FA 시즌 장타력까지 뽐내며 몸값을 올리고 있어 KIA의 재계약 고민이 커짐.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "세이브왕 출신 SSG 서진용이 던진 2경기, 사령탑의 평가는 \"본인도 마지막 기회라 생각할 것\"",
+   "url": "https://sports.khan.co.kr/article/202606281511003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-06-28T00:00+09:00",
+   "summary": "이숭용 감독이 복귀한 서진용의 포크볼은 살아나는 중이나 구속 회복이 과제라며 추격조부터 기용하겠다고 평가.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "서진용"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화 고민이네! '0.358+9홈런→0.231+0홈런' 차세대 포수, 신인왕 페이스 사라졌나…'54억 베테랑' 다시 기회 받을까",
+   "url": "https://www.xportsnews.com/article/2160704",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-06-16T00:00+09:00",
+   "summary": "허인서가 6월 들어 타격이 식으면서 출전이 줄었던 최재훈(34경기 .167)에게 다시 기회가 갈 수 있다는 내용.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최재훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'이럴 수가' 갈 길 바쁜 10연패 SSG, 또 부상 악재라니…\"문승원, 어깨 무겁다고 해서 검진 예정\"",
+   "url": "https://www.xportsnews.com/article/2155063",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-05-30T00:00+09:00",
+   "summary": "불펜에서 평균자책 0점대로 호투하던 문승원이 오른쪽 어깨 불편감으로 병원 검진을 받게 됐다는 소식.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "문승원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "대형 FA 영입 효과 못지 않네! 전병우 뜨자…삼성 2차 드래프트 완전 초대박",
+   "url": "https://osen.co.kr/article/G1112801710",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-05-15T00:00+09:00",
+   "summary": "2차 드래프트 이적 성공 사례로 꼽히며 김영웅 공백을 메우는 핵심 자원으로 평가.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "김영웅은 잠시 잊어요…‘만루의 시련’ 이겨낸 해결사 전병우",
+   "url": "https://sports.khan.co.kr/article/202605131229003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-05-13T00:00+09:00",
+   "summary": "LG전 8회 역전 만루포로 팀 8연승을 이끌었고 감독이 없어선 안 될 선수라고 칭찬.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "몸무게 3kg 빠지고 유니폼 흙투성이 됐지만 이겨서 행복한 전병우",
+   "url": "https://v.daum.net/v/20260510010116745",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-05-10T00:00+09:00",
+   "summary": "NC전 결승 2타점 2루타, 3루 주전 부담으로 체중이 줄어 관리에 신경 쓰는 중.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'유망주로 바글바글' 두산 외야, '정수빈 후계자' 전다민의 생존 투쟁",
+   "url": "https://sports.khan.co.kr/article/202605071124003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-05-07T00:00+09:00",
+   "summary": "정수빈이 후배 전다민을 자신의 후계자로 지목하며 조언하고 있다는 두산 외야 세대교체 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "정수빈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화가 포기한 필승조, 100억 FA 보상선수 왜 이러나…ERA 1.93→18.90 폭등",
+   "url": "https://osen.co.kr/article/G1112792646",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-05-01T00:00+09:00",
+   "summary": "4월 말 LG 3연전에서 연이어 무너지며 첫 패전을 안았고 시즌 초 좋던 평균자책점이 급등.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한승혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "KIA 김호령이 중견수 FA 최대어? WAR 1위, 유쾌한 반란 도전…최지훈 부진, 배정대 백업, 정수빈 36세",
+   "url": "https://v.daum.net/v/20260430061107321",
+   "source": "마이데일리(다음)",
+   "kind": "기사",
+   "published": "2026-04-30T00:00+09:00",
+   "summary": "중견수 FA 후보 비교 기사에서 배정대는 KT에서 주전이 아니라 꾸준히 보여주기 어렵다고 평가.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "배정대",
+    "김호령",
+    "최지훈",
+    "정수빈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화 안방이 흔들린다, FA도 앞뒀는데 아직도… 최재훈 치명적 실수, 공 놓치고 홈 막다니",
+   "url": "https://v.daum.net/v/20260428230112141",
+   "source": "스포티비뉴스",
+   "kind": "기사",
+   "published": "2026-04-28T00:00+09:00",
+   "summary": "캠프 손가락 부상으로 WBC가 무산된 뒤 시즌 초 타율 .136으로 부진했고 SSG전 홈 수비 실수까지 나왔다는 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최재훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "원태인 구자욱 둘다 시즌중 재계약 원했지만",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=16901338",
+   "source": "디시인사이드 삼성 라이온즈 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-04-28T00:00+09:00",
+   "summary": "시즌 중 재계약 협상이 지지부진해 구자욱은 FA 시장에 나올 것 같다는 팬의 추측.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "홀로 남은 한화 마당쇠, FA 앞두고 'ERA 12.00'라니…헌신하고 대박은 물건너 가나",
+   "url": "https://osen.co.kr/article/G1112788468",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-04-25T00:00+09:00",
+   "summary": "시즌 초 12경기 평균자책 12.00으로 크게 흔들리며 포크볼·슬라이더 위력이 떨어졌고, FA를 앞두고 몸값에 악재가 됐다는 분석. 김범수·한승혁이 떠나 불펜 내 비중은 커졌다고 짚었다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "한승혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "“1군 당연한 줄 알았다” 끝내기로 KIA 울려놓고 왜 반성부터 했나",
+   "url": "https://osen.co.kr/article/G1112786459",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-04-22T00:00+09:00",
+   "summary": "회전근 부상으로 2군에서 시작해 콜업 당일 연장 끝내기 홈런을 쳤고, 초심을 되찾겠다고 다짐.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김민혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'명품 조연' 전병우에게 봄이 왔다. 4할 불방망이 OPS 1.095 대폭발",
+   "url": "https://osen.co.kr/article/G1112784780",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-04-19T00:00+09:00",
+   "summary": "시즌 초 11경기 타율 4할대로 백업에서 주전 3루수로 존재감을 키웠다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": []
+  },
+  {
+   "title": "이숭용 감독 \"오태곤 같은 '주전급 백업' 있어 팀이 탄탄한 것\"",
+   "url": "https://sports.khan.co.kr/article/202603291305003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-03-29T00:00+09:00",
+   "summary": "개막전 대타로 2안타 3타점을 올린 오태곤을 감독이 꼭 필요한 백업 자원으로 평가했다는 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "오태곤"
+   ],
+   "teams": []
+  },
+  {
+   "title": "8년 전 AG 金 잠수함, 예비 FA 됐다…52억, 38억 선배들 뒤따를까",
+   "url": "https://osen.co.kr/article/G1112767593",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-03-26T00:00+09:00",
+   "summary": "예비 FA 시즌을 맞은 박치국이 두산 잔류를 1순위로 두고 이영하·최원준 같은 대우를 희망한다고 밝힌 인터뷰.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박치국"
+   ],
+   "teams": []
+  },
+  {
+   "title": "이숭용 SSG 감독, 한유섬 개막전 못 뛰는데도 \"양반이다\"라고 한 이유",
+   "url": "https://sports.khan.co.kr/article/202603241435003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-03-24T00:00+09:00",
+   "summary": "허리 불편감으로 개막전에 빠지게 됐지만 큰 부상은 아니라고 감독이 설명.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한유섬"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'16억원→42억원' 양의지, 2026시즌 프로야구 최고 연봉",
+   "url": "https://sports.khan.co.kr/article/202603181513003/",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-03-18T00:00+09:00",
+   "summary": "4+2년 계약 구조상 2026년 연봉이 42억으로 뛰며 리그 최고 연봉이자 21년차 최고 기록을 세웠다는 KBO 연봉 자료 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": []
+  },
+  {
+   "title": "이재원은 은퇴 예약, 최재훈은 FA 예약…김경문이 홈런치는 한화 23세 안방마님을 주목 안 할 수 없다",
+   "url": "https://v.daum.net/v/b7Pp6ghDIX",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-03-18T00:00+09:00",
+   "summary": "5년 54억 계약 마지막 해를 맞은 최재훈은 잡아야 할 자원이지만, 허인서 성장이 변수라는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최재훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "현실로 다가온 '3루수 최주환' 시나리오...윤곽 드러난 2026 키움 내야진 구성",
+   "url": "https://isplus.com/article/view/isp202603160030",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-03-16T00:00+09:00",
+   "summary": "송성문이 MLB로 떠나 빈 3루를 최주환에게 맡기는 구상이 시범경기에서 구체화됐다는 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최주환"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"코치님이라 해야 되나?\" 20년 지기 최정도 '아직 어색'…지도자 전격 변신 김성현",
+   "url": "https://v.daum.net/v/20260304001144628",
+   "source": "엑스포츠뉴스(다음)",
+   "kind": "기사",
+   "published": "2026-03-04T00:00+09:00",
+   "summary": "2025년 10월 플레잉코치로 선임된 김성현이 캠프에서 수비 보조코치로 지도자 생활을 시작한 근황.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김성현"
+   ],
+   "teams": []
+  },
+  {
+   "title": "구원왕이 2군 캠프 신세라고? 투지가 불타오른다… 0부터 다시 시작",
+   "url": "https://v.daum.net/v/20260301065159114",
+   "source": "스포티비뉴스(다음)",
+   "kind": "기사",
+   "published": "2026-03-01T00:00+09:00",
+   "summary": "1군 캠프 명단에서 빠진 서진용이 체중 감량 후 구속을 끌어올리며 재기를 준비 중이라는 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "서진용"
+   ],
+   "teams": []
+  },
+  {
+   "title": "노시환 307억원 때문에 삼성·LG·SSG 난감하다? …최지훈 비FA 계약협상 '난이도↑'",
+   "url": "https://v.daum.net/v/20260224193214433",
+   "source": "마이데일리(다음)",
+   "kind": "기사",
+   "published": "2026-02-24T00:00+09:00",
+   "summary": "노시환 초대형 계약 이후 최지훈 등 비FA 다년계약 협상이 더 어려워졌다는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최지훈",
+    "원태인",
+    "구자욱",
+    "박동원",
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화 '20억 좌완' 못 잡은 이유 있네!…'16홀드 필승조' 생애 첫 FA 도전",
+   "url": "https://www.xportsnews.com/article/2113984",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-02-20T00:00+09:00",
+   "summary": "한화가 김범수를 놓친 배경에 박상원·최재훈 등 예비 FA와 노시환 계약 부담이 있었다는 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "최재훈",
+    "한승혁"
+   ],
+   "teams": [
+    "한화",
+    "KIA"
+   ]
+  },
+  {
+   "title": "\"야구 지겨워요, 진짜 너무 많이 했습니다\" 한화 이재원 은퇴 예고…다시 태어나면 야구는 안 해도 포수는 합니다",
+   "url": "https://v.daum.net/v/20260219153123361",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-02-19T00:00+09:00",
+   "summary": "2026시즌을 현역 마지막으로 보고 2군 캠프에서 사실상 코치로 후배 포수 육성을 맡는다는 인터뷰.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화 '이 선수' 대체 왜 포기했나, 연봉 3억 도장→FA 대박까지 꿈꾼다",
+   "url": "https://osen.co.kr/article/G1112742121",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-02-10T00:00+09:00",
+   "summary": "캠프 인터뷰에서 셋업맨으로서 1이닝을 잘 막아 FA에서 좋은 대우를 받고 싶다는 뜻을 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한승혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'다년계약 추진' 최지훈, 일단 2026 연봉 3억7천에 사인했다",
+   "url": "https://osen.co.kr/article/G1112737552",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-01-31T00:00+09:00",
+   "summary": "SSG가 최지훈과 2026 연봉 3억7000만원에 계약하고 다년계약은 계속 논의하겠다고 발표.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최지훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "원태인 영입→보상금만 30억 실화냐…삼성 왜 8년차 연봉 10억 안겼나",
+   "url": "https://osen.co.kr/article/G1112734346",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-01-26T00:00+09:00",
+   "summary": "삼성이 원태인 연봉을 10억으로 올려 타 구단 영입 시 보상금이 최대 30억에 달하게 됐고, 사실상 선택지는 잔류 또는 해외로 좁혀졌다는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[공식발표]원태인도 건들지 마…8년차 최고 10억원에 재계약",
+   "url": "https://v.daum.net/v/20260125140619594",
+   "source": "삼성 라이온즈 발표(스포츠조선 보도)",
+   "kind": "기사",
+   "published": "2026-01-25T00:00+09:00",
+   "summary": "2026 연봉 10억원으로 3억7천만원 인상, 8년차 역대 최고액 기록.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "“원태인 넘보지 마!” 10억원 준 삼성, FA 이적시 최대 30억원 보상",
+   "url": "https://www.twig24.com/news/2026/01/25/20260125500100",
+   "source": "트윅24",
+   "kind": "기사",
+   "published": "2026-01-25T00:00+09:00",
+   "summary": "연봉 인상으로 타 구단 영입 시 보상금이 최대 30억원까지 커져 이적 장벽이 높아졌다는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한화 이 순간 기다리며 군침 흘리나… 김호령까지 시장 테스트 결정, 중견수가 쏟아져 나온다",
+   "url": "https://v.daum.net/v/20260125000324645",
+   "source": "스포티비뉴스(다음)",
+   "kind": "기사",
+   "published": "2026-01-25T00:00+09:00",
+   "summary": "2026시즌 뒤 최지훈·김호령·배정대와 함께 중견수 FA 후보로 거론되며, 넷 중 유일한 재자격 선수로 소개됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "정수빈",
+    "최지훈",
+    "배정대",
+    "김호령",
+    "최재훈",
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "투수 김진성 다년계약(2+1년)",
+   "url": "https://lg.co.kr/media/release/29793",
+   "source": "LG 트윈스 보도자료",
+   "kind": "기사",
+   "published": "2026-01-22T00:00+09:00",
+   "summary": "2026 연봉 계약 표에서 홍창기는 6억5천에서 5억2천으로 20% 삭감.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "노시환 연봉 10억-강백호 4년 100억! 여유 없는 한화, 김범수-손아섭과 작별은 불가피했다",
+   "url": "https://www.starnewskorea.com/article/2026012206095262972",
+   "source": "스타뉴스",
+   "kind": "기사",
+   "published": "2026-01-22T00:00+09:00",
+   "summary": "강백호·노시환 투자로 샐러리캡 여유가 줄어든 한화가 불펜 이탈을 감수했고, 프랜차이즈 예외 규정이 숨통이 될 수 있다는 내용.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "한승혁"
+   ],
+   "teams": [
+    "한화",
+    "KIA",
+    "KT"
+   ]
+  },
+  {
+   "title": "[오피셜] '드디어 떴다!' 한화 노시환 무려 '10억원' 연봉 계약 '예비 FA' 대박 터졌다, 총 13명 '억대 연봉 대열' 발표",
+   "url": "https://www.starnewskorea.com/sports/2026/01/21/2026012119084141185",
+   "source": "스타뉴스(한화 연봉계약 발표)",
+   "kind": "기사",
+   "published": "2026-01-21T00:00+09:00",
+   "summary": "이재원은 플레잉코치로 2026년 연봉 1억원에 동결 계약했다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"3~4년 뒤 야구 그만할 것\" 韓 레전드 포수 파격 선언! 4년 110억 계약 만료→42억에 두산 잔류할까",
+   "url": "https://osen.co.kr/article/G1112731087",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-01-20T00:00+09:00",
+   "summary": "4년 110억 구간이 2026년으로 끝나고 2년 최대 42억 선수 옵션이 남은 상황에서, 양의지가 길어야 3~4년 더 뛰겠다고 언급.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'잠실 아이돌' 두산 정수빈, 왜 '잠실 라이벌' 박해민의 65억 FA 계약에 기뻐했나",
+   "url": "https://osen.co.kr/article/G1112731040",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-01-20T00:00+09:00",
+   "summary": "6년 계약 마지막 해를 맞은 정수빈이 박해민의 4년 65억 계약을 중견수 가치 인정으로 반기며 마지막일 수 있는 FA를 준비한다는 내용.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "정수빈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "자고 일어났더니 김도영과 연봉이 같다…KIA 김호령 인생 대역전? 35세 중견수 FA에게 얼마 줘야 하나",
+   "url": "https://v.daum.net/v/20260116061203081",
+   "source": "마이데일리(Daum)",
+   "kind": "기사",
+   "published": "2026-01-16T00:00+09:00",
+   "summary": "KIA가 김호령 연봉을 2.5억으로 대폭 올린 것은 FA 등급을 높여 보상을 확보하려는 계산이라는 분석.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "\"3300만원 → 1억 8천\" KT 안현민, 소형준 기록 갈아치운 '445% 폭등'",
+   "url": "https://www.fnnews.com/news/202601151533125810",
+   "source": "파이낸셜뉴스",
+   "kind": "기사",
+   "published": "2026-01-15T00:00+09:00",
+   "summary": "KT 연봉 계약 결과 기사로, 한승혁이 9400만원에서 3억원으로 크게 올랐다고 전함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한승혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "불펜도 불사하나' ML 도전 아니면 삼성 종신?…'비FA 다년계약 기로' 원태인",
+   "url": "https://www.xportsnews.com/article/2099278",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-01-12T00:00+09:00",
+   "summary": "MLB 도전 의지와 삼성의 비FA 다년계약 제안 사이에서 선택해야 하는 상황, 협상은 초기 단계로 보도.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": []
+  },
+  {
+   "title": "언해피?... 홍창기의 다년계약 의사, LG에게는 큰 선물이다",
+   "url": "https://v.daum.net/v/20260108053205749",
+   "source": "스포츠한국",
+   "kind": "기사",
+   "published": "2026-01-08T00:00+09:00",
+   "summary": "협상 진척에 아쉬움을 드러내면서도 LG 잔류 다년계약을 원한다는 뜻을 재확인.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'65억 쾅, 48억 쾅' 그 다음은 국대 외야수다",
+   "url": "https://www.xportsnews.com/article/2097608",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-01-08T00:00+09:00",
+   "summary": "SSG가 캠프 출발 전 최지훈과 비FA 다년계약을 마무리하려 하며, 박해민·최원준 계약이 비교 대상으로 거론됨.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최지훈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "‘-5억 5679만원 여유 뿐인데’ 홍창기 다년 계약 붙잡으면, LG 샐러리캡은 괜찮을까",
+   "url": "https://osen.co.kr/article/G1112723323",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-01-05T00:00+09:00",
+   "summary": "FA 계약 마지막 해인 2026 연봉이 5억으로 전년 12억에서 내려갔다고 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "삼성 라이온즈의 토종 에이스 원태인, 해외 진출 꿈 \"최고 구속 올려라\"",
+   "url": "https://www.imaeil.com/page/view/2026010509134208882",
+   "source": "매일신문",
+   "kind": "기사",
+   "published": "2026-01-05T00:00+09:00",
+   "summary": "업계는 원태인 협상 출발점을 4년 100억 이상으로 보지만, 계약 규모보다 해외 진출 의지가 더 큰 변수라는 시각.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "최소 250억 돌파? 삼성 원태인→구자욱 '다년계약 2연타' 도전…'2026 윈 나우' 목숨 건 이유 있네",
+   "url": "https://www.xportsnews.com/article/2096392",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-01-04T00:00+09:00",
+   "summary": "삼성이 시즌 전 원태인·구자욱을 비FA 다년계약으로 묶으려 하며, 두 건 합계가 250억을 넘을 수 있다는 관측.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "그날, 리베라호텔 커피숍, 구자욱은 왜 염화미소를 지었을까",
+   "url": "https://v.daum.net/v/46xy6qYC0x",
+   "source": "스포츠조선",
+   "kind": "기사",
+   "published": "2026-01-03T00:00+09:00",
+   "summary": "주장 구자욱이 선수단 대표로 최형우 영입을 구단에 건의한 뒷이야기 소개.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"이 순간이 나를 만든다\" KBO 2차드래프트 최고의 성공작…최주환이 땀으로 승부하는 시간, 깜짝 FA? NO",
+   "url": "https://m.news.nate.com/view/20260103n09705",
+   "source": "네이트 스포츠(원 매체 미확인)",
+   "kind": "기사",
+   "published": "2026-01-03T00:00+09:00",
+   "summary": "제목상 2차 드래프트 성공 사례인 최주환이 비시즌 훈련에 집중하며 FA 이탈 가능성을 일축하는 취지(본문 열람 차단).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최주환"
+   ],
+   "teams": []
+  },
+  {
+   "title": "“1월에 답을 준다고 했다” 홍창기-박동원, FA 포기하고 다년 계약 할까",
+   "url": "https://osen.co.kr/article/G1112720889",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-12-31T00:00+09:00",
+   "summary": "LG가 FA 전 다년계약을 제안했고 선수 측이 1월 중 답을 주기로 했다고 단장이 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"분명 올라올 것\" 신인왕+GG 석권 괴물이 확신했다, 2026시즌 부활할 외야수 2인",
+   "url": "https://v.daum.net/v/20251218221243379",
+   "source": "마이데일리(다음)",
+   "kind": "기사",
+   "published": "2025-12-18T00:00+09:00",
+   "summary": "안현민이 김민혁·배정대의 반등을 점쳤고, 두 선수가 등록일수 부족으로 2025년 FA 자격을 놓쳤다고 전함.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김민혁",
+    "배정대"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'노시환, 5년 150억?' FA보다 뜨거운 비FA 계약설, LG 박동원+홍창기에 삼성 원태인까지",
+   "url": "https://www.nocutnews.co.kr/news/6443346",
+   "source": "CBS노컷뉴스",
+   "kind": "기사",
+   "published": "2025-12-15T00:00+09:00",
+   "summary": "대형 FA 정리 후 구단들이 노시환·박동원·홍창기·원태인 등 다음 FA 대상자 조기 다년계약에 나섰다는 흐름 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기",
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "한화",
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "꼬리별 on X: 구자욱 5년 120억 계약 만료 관련",
+   "url": "https://x.com/sscomet3/status/1998421628494258566",
+   "source": "X (@sscomet3)",
+   "kind": "SNS",
+   "published": "2025-12-09T00:00+09:00",
+   "summary": "구자욱이 다음 시즌 후 계약이 끝나지만 FA는 생각하지 않는다고 농담 섞어 답한 기사 내용을 팬이 공유.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"줬다 뺏으면 정말 나쁜 사람인데…\" FA 앞둔 사이드암, 왜 80억 유격수에게 등번호 주지 않았나",
+   "url": "https://osen.co.kr/article/G1112705077",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-11-30T00:00+09:00",
+   "summary": "FA를 1년 앞둔 박치국이 이적생 박찬호에게 등번호 1번을 넘기지 않은 사연과 2025시즌 반등을 소개.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박치국"
+   ],
+   "teams": []
+  },
+  {
+   "title": "“154km 필승조가 풀렸다니!” 역대급 보상선수 지명에 축제 분위기",
+   "url": "https://v.daum.net/v/20251128154352921",
+   "source": "OSEN(다음)",
+   "kind": "기사",
+   "published": "2025-11-28T00:00+09:00",
+   "summary": "KT가 강백호 이적 보상선수로 한화 필승조 한승혁을 지명, 강속구 불펜 보강 목적.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한승혁"
+   ],
+   "teams": []
+  },
+  {
+   "title": "전력 누수 불가피한 한화…'강백호 보상선수'에 쏠린 눈",
+   "url": "https://www.newsis.com/view/NISX20251124_0003413690",
+   "source": "뉴시스",
+   "kind": "기사",
+   "published": "2025-11-24T00:00+09:00",
+   "summary": "한화가 강백호 보상선수로 내줄 후보 중 하나로 이듬해 FA를 앞둔 한승혁이 거론됨(제목·검색 결과 기준).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한승혁",
+    "박상원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "전력 누수 불가피한 한화…'강백호 보상선수'에 쏠린 눈",
+   "url": "https://mobile.newsis.com/view/NISX20251124_0003413690",
+   "source": "뉴시스",
+   "kind": "기사",
+   "published": "2025-11-24T00:00+09:00",
+   "summary": "강백호 보상선수 후보로 '내년 FA'인 박상원·한승혁 등이 거론됨(이후 한승혁이 KT로 이적).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "박상원",
+    "한승혁"
+   ],
+   "teams": [
+    "한화",
+    "KT"
+   ]
+  },
+  {
+   "title": "한화 포수 세대 교체 신호탄 쐈다, 이재원 은퇴 유력했는데…플레잉코치 선임 \"지도자로서 자질 높이 평가\"",
+   "url": "https://osen.co.kr/article/G1112694923",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-11-11T00:00+09:00",
+   "summary": "2년 연속 FA를 포기하고 남은 이재원을 한화가 플레잉코치로 선임했다. 2024년 5천만원 입단, 2025년 1억원 재계약 이력도 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "이재원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "2년 전 구원왕이었는데 또 FA 포기라니…",
+   "url": "https://osen.co.kr/article/G1112693522",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-11-08T00:00+09:00",
+   "summary": "비FA 다년계약 선수가 FA 등급 산정에서 빠지면서 문승원·한유섬 등이 제외됐다는 등급 제도 설명이 포함된 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "문승원",
+    "서진용"
+   ],
+   "teams": []
+  },
+  {
+   "title": "얼마나 좋았으면 춤까지…35세에 이뤄진 꿈, 당사자도 웃지 못했던 FA 이적에 김상수가 웃었다",
+   "url": "https://osen.co.kr/article/G1112499299",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-02-06T00:00+09:00",
+   "summary": "절친 허경민의 KT 합류를 응원가 춤으로 반긴 영상이 화제가 됐고, 120경기 이상 출전 목표를 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김상수"
+   ],
+   "teams": []
+  },
+  {
+   "title": "'1.25억' FA 미아 위기→'2.25억' 2년 만에 재계약 대상자 연봉 1위",
+   "url": "https://osen.co.kr/article/G1112494545",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-01-26T00:00+09:00",
+   "summary": "2024 타율 3할·13홈런 활약으로 NC 재계약 대상자 중 연봉 1위에 오른 반전 스토리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "권희동"
+   ],
+   "teams": []
+  },
+  {
+   "title": "2년 전 FA 헐값 계약했지만…9000만원→1억5000만원→2억2500만원, NC 재계약 대상자 중 '최고 연봉'",
+   "url": "https://osen.co.kr/article/G1112493241",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2025-01-23T00:00+09:00",
+   "summary": "2023년 2월 B등급 보상 부담 속 1년 최대 1.25억에 잔류한 뒤 연봉이 2년 새 2억2500만원까지 올랐다고 정리.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "권희동"
+   ],
+   "teams": []
+  },
+  {
+   "title": "2차 드래프트→팀내 홈런 2위→FA 포기→2+1+1년 12억 다년 계약… 키움과 최주환 윈윈 가능할까",
+   "url": "https://osen.co.kr/article/G1112451407",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2024-11-05T00:00+09:00",
+   "summary": "FA 신청 대신 키움과 2+1+1년 최대 12억(연봉 매년 3억, 2년 보장 뒤 옵션 충족 시 자동 연장) 비FA 다년계약을 맺었다.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "최주환"
+   ],
+   "teams": []
+  },
+  {
+   "title": "FA 1호 계약하더니 2차 FA는 포기…김성현 SSG 로열티, 3년 6억원 가치 인정받았다",
+   "url": "https://osen.co.kr/article/G1112259864",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2024-01-20T00:00+09:00",
+   "summary": "2020년 2+1년 11억 FA 계약 후 2차 FA 대신 3년 6억 전액 보장 계약을 택한 경위.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김성현"
+   ],
+   "teams": []
+  },
+  {
+   "title": "[DUGOUT Story] KT 위즈 김상수",
+   "url": "https://v.daum.net/v/YC9cgyZdgj",
+   "source": "더그아웃 매거진(다음)",
+   "kind": "기사",
+   "published": "2023-09-18T00:00+09:00",
+   "summary": "이적 첫해 인터뷰로, 동료와 감독 덕에 빨리 적응했고 유격수로 최대한 많은 경기를 뛰는 게 목표라고 밝힘.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김상수"
+   ],
+   "teams": []
+  },
+  {
+   "title": "롯데에서 잘 왔네…KT 트레이드 듀오, 통합우승→나란히 첫 억대 연봉 ‘감격’",
+   "url": "https://osen.co.kr/article/G1112032649",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2023-01-30T00:00+09:00",
+   "summary": "2021년 롯데에서 트레이드로 온 오윤석이 9천만원에서 1억2천만원으로 올라 첫 억대 연봉에 진입.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "오윤석"
+   ],
+   "teams": []
+  },
+  {
+   "title": "“컨택·수비·주루 3박자에 인성까지”…FA 광풍 속 29억에 왕조 유격수를 품다",
+   "url": "https://osen.co.kr/article/G1111995615",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2022-11-24T00:00+09:00",
+   "summary": "KT가 삼성 출신 유격수 김상수와 4년 총액 29억원에 FA 계약(직전 FA 근거).",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "김상수"
+   ],
+   "teams": []
+  },
+  {
+   "title": "한유섬 5년 60억 비FA 다년계약",
+   "url": "https://www.inews24.com/view/1436119",
+   "source": "아이뉴스24",
+   "kind": "기사",
+   "published": "2021-12-25T00:00+09:00",
+   "summary": "SSG가 한유섬과 5년 총액 60억(연봉 56억+옵션 4억) 비FA 다년계약을 체결.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "한유섬"
+   ],
+   "teams": []
+  },
+  {
+   "title": "SSG, 박종훈·문승원 예비 FA 미리 잡았다",
+   "url": "https://nocutnews.co.kr/news/5673622",
+   "source": "CBS노컷뉴스",
+   "kind": "기사",
+   "published": "2021-12-14T00:00+09:00",
+   "summary": "SSG가 FA를 앞둔 문승원과 5년 총액 55억(연봉 47억+옵션 8억) 비FA 다년계약을 맺었다는 발표.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "문승원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "허경민 7년·정수빈 6년…장기계약은 왜 두산에 유리할까",
+   "url": "https://sports.khan.co.kr/article/202012171809003",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2020-12-17T00:00+09:00",
+   "summary": "직전 FA 때 두산과 6년 56억(계약금 16억)에 잔류 계약한 배경 기사.",
+   "via": "claude_seed",
+   "collected": "2026-11-13T20:00+09:00",
+   "players": [
+    "정수빈"
+   ],
+   "teams": []
+  },
+  {
+   "title": "\"원클럽맨 떠난다..\" 한화 박상원, FA 시장 예상 몸값 공개",
+   "url": "https://feed.viewus.co.kr/ai/article/339285/",
+   "source": "뷰어스 피드(AI 기사)",
+   "kind": "기사",
+   "published": null,
+   "summary": "제목상 박상원의 FA 예상 몸값을 다룬 AI 생성 피드 글이나 본문 열람에 실패해 금액·근거를 확인하지 못했다.",
+   "via": "claude_seed",
+   "collected": null,
+   "players": [
+    "박상원"
+   ],
+   "teams": []
+  },
+  {
+   "title": "<속보> 구자욱, 원태인 메이저리그 도전 선언",
+   "url": "https://www.fmkorea.com/best/10542503508",
+   "source": "에펨코리아",
+   "kind": "커뮤니티",
+   "published": null,
+   "summary": "두 선수의 해외 진출 발언 기사를 공유한 인기글(본문은 접속 차단으로 미확인).",
+   "via": "claude_seed",
+   "collected": null,
+   "players": [
+    "구자욱",
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'역대급 FA 시장?' 2027년 FA 시장에 대해 알아보자 (1)",
+   "url": "https://www.fmkorea.com/best/9399968623",
+   "source": "에펨코리아",
+   "kind": "커뮤니티",
+   "published": null,
+   "summary": "2027 FA 시장 규모를 정리한 인기글로 보임(접속 차단으로 본문 미확인).",
+   "via": "claude_seed",
+   "collected": null,
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "미리보는 FA 시장 2027 FA 예상 명단",
+   "url": "https://www.instiz.net/name/67085916",
+   "source": "인스티즈 야구",
+   "kind": "커뮤니티",
+   "published": null,
+   "summary": "2027 FA 예상 명단을 미리 정리한 글로 보임(접속 실패로 본문 미확인).",
+   "via": "claude_seed",
+   "collected": null,
+   "players": [],
+   "teams": []
+  }
+ ]
+}
