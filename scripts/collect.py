@@ -108,6 +108,39 @@ def bing_news(query):
         }
 
 
+DC_ROW = re.compile(r'<tr[^>]*class="ub-content[^"]*"[^>]*>(.*?)</tr>', re.S)
+DC_LINK = re.compile(r'<td class="gall_tit[^"]*"[^>]*>\s*<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', re.S)
+DC_DATE = re.compile(r'<td class="gall_date"[^>]*title="([0-9: -]+)"')
+
+
+def dcinside(gallery, keyword, gallery_name, minor=False):
+    """디시인사이드 갤러리 제목 검색 결과 1쪽(제목·링크·시각만)."""
+    base = "https://gall.dcinside.com/" + ("mgallery/" if minor else "")
+    url = base + "board/lists/?" + urllib.parse.urlencode(
+        {"id": gallery, "s_type": "search_subject", "s_keyword": keyword})
+    page = get(url).decode("utf-8", "replace")
+    for row in DC_ROW.findall(page):
+        if 'data-type="icon_notice"' in row or "icon_ad" in row:
+            continue
+        m = DC_LINK.search(row)
+        if not m:
+            continue
+        href, title = m.group(1), clean(m.group(2))
+        if "id=" + gallery not in href or not title:
+            continue
+        link = urllib.parse.urljoin("https://gall.dcinside.com/", html.unescape(href))
+        link = re.sub(r"&page=\d+|&s_type=[^&]*|&s_keyword=[^&]*", "", link)
+        d = DC_DATE.search(row)
+        pub = None
+        if d:
+            try:
+                pub = to_iso(datetime.strptime(d.group(1), "%Y-%m-%d %H:%M:%S").replace(tzinfo=KST))
+            except ValueError:
+                pass
+        yield {"title": title, "url": link, "source": "디시 " + gallery_name, "kind": "커뮤니티",
+               "published": pub, "summary": "", "via": "dcinside"}
+
+
 def naver(kind_path, query, cid, secret):
     url = f"https://openapi.naver.com/v1/search/{kind_path}.json?" + urllib.parse.urlencode(
         {"query": query, "display": 30, "sort": "date"})
@@ -173,6 +206,14 @@ def main():
                     found.extend(naver(path, q, cid, secret))
                 except Exception as e:
                     errors.append(f"naver {path} {q}: {e}")
+
+    for g in cfg.get("dcinside", []):
+        for kw in g["keywords"]:
+            try:
+                found.extend(dcinside(g["id"], kw, g["name"], g.get("minor", False)))
+            except Exception as e:
+                errors.append(f"dcinside {g['id']} {kw}: {e}")
+            time.sleep(2)
 
     try:
         with open(OUT, encoding="utf-8") as f:
