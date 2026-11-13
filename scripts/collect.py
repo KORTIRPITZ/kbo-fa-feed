@@ -178,8 +178,15 @@ def tag(item, players, teams):
     return item
 
 
+COMM_WORDS = ["fa", "에이전트", "해외", "메이저", "미국", "mlb", "npb", "포스팅", "계약", "잔류", "이적",
+              "몸값", "억", "다년", "협상", "보상", "영입", "오퍼", "관심"]
+
+
 def relevant(item, players, must_words):
     text = item["title"] + " " + item.get("summary", "")
+    if item.get("kind") == "커뮤니티":
+        low = text.lower()
+        return any(p["name"] in text for p in players) and any(w in low for w in COMM_WORDS)
     has_player = any(p["name"] in text for p in players)
     has_word = any(w in text for w in must_words)
     return has_player and has_word or ("FA" in text and ("KBO" in text or "프로야구" in text))

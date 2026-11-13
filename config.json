@@ -204,19 +204,13 @@
  "max_items": 800,
  "dcinside": [
   {
-   "id": "baseball_new11",
-   "name": "국내야구 갤러리",
-   "keywords": [
-    "FA"
-   ]
-  },
-  {
    "id": "samsunglions_new",
    "name": "삼성 갤러리",
    "keywords": [
     "FA",
     "원태인",
-    "구자욱"
+    "구자욱",
+    "전병우"
    ]
   }
  ]
