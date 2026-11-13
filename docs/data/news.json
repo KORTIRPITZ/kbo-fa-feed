@@ -1,38 +1,1329 @@
 {
- "updated": "2026-11-13T20:00+09:00",
- "count": 128,
- "added": 128,
+ "updated": "2026-11-13T21:00+09:00",
+ "count": 287,
+ "added": 263,
  "naver": false,
  "errors": [],
  "items": [
   {
-   "title": "[오피셜] 구자욱 원태인 박동원 홍창기…FA 자격 선수 28명 공시, 15일 신청→16일 승인→17일 FA 시장 열린다",
-   "url": "https://spotvnews.co.kr/news/articleView.html?idxno=1019638",
-   "source": "SPOTV NEWS",
+   "title": "프로야구, FA 시장 개봉박두… 구자욱·원태인 등 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11RTJyVnRVcVdtVnB5RnRZUEJOcTJmNFB5N2pXVExndGkzU2dhU1lQNklMeFR3S3RxTlVaOGtWWFdDaDh3TnY3M2JTdXk4bE9fYmY3ZkxJODh4aUtaT0hzNlh3?oc=5",
+   "source": "스포츠월드",
    "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "KBO가 FA 자격자 28명을 공시했고 박상원은 A등급으로 분류됐다. 신청은 15일, 승인 공시는 16일, 교섭은 17일부터다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
+   "published": "2026-11-13T20:34+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
    "players": [
-    "박상원"
+    "원태인",
+    "구자욱"
    ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘KIA 충격’ 김호령 연봉 212.5% 올려줬는데 FA C등급…단돈 3억7500만원으로 보상 끝, 최대어 급부상",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqdnpfU3dnNmwxNlpuckdBSnNHYVFJbWlXemUzNzVEMkNxbjVTQmFaQ1EtM0E3ZVV0cGVDTDdDV3N0Nkk0aEgtaFNWdUE1OVFKZ25WUGl2aC1mc2JBa3FWZXhfNjRqUQ?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-13T20:04+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "김호령 FA 시장 C등급…KIA, 보상선수 기회도 사라졌다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HQV9QSC1EMUVNOUVSb1p5QnpOTnlHMDZGNFh3TnFFVkFBV3cyX2tDOExrRWtvLTk0SWlDekNObVlHdVRDalRxbGpRMXdIbEVfWVJQRVVQWTNXZGhHUWJITTlyYkJ5ZmQ5TVYwVmRVVQ?oc=5",
+   "source": "진일보 | 전남일보",
+   "kind": "기사",
+   "published": "2026-11-13T19:54+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "\"고우석+옵션 변수 생겨\" 김호령, '전체 61위' 순위 하나 차이 C등급 왜?…KIA \"B등급 노력했는데 FA 잔류 최선 다할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Rm1IR0xUUHV0SDI4WnlqRExPWlNnbzlRaG5QVGFJakkyRkx2bGk2NFdncXU5ZnVrWUxPMXFlTy1jZ1JhanItU05sMUR4a19YbENuSg?oc=5",
+   "source": "www.xportsnews.com",
+   "kind": "기사",
+   "published": "2026-11-13T19:05+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "'이럴 수가' KIA 보상선수 사라졌다! 김호령, 왜 'B등급 아닌 C등급' 됐나... 최고 가성비 카드 변신 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYkhhQXNPeVNGeDV2TG55NWVEUlRhMXpUZldDRVhIVHpETHZtal9Wam9zcVJJcVIyQVdRb3dFTGVDVXVhNjRHV0tYeWNXN2FOZnZFbGlwN0ZvcmVNSkUzNU1BR04yMWVBSnl2NTNMQdIBb0FVX3lxTE9QYkhhQXNPeVNGeDV2TG55NWVEUlRhMXpUZldDRVhIVHpETHZtal9Wam9zcVJJcVIyQVdRb3dFTGVDVXVhNjRHV0tYeWNXN2FOZnZFbGlwN0ZvcmVNSkUzNU1BR04yMWVBSnl2NTNMQQ?oc=5",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T18:01+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "[AS 초점] 12년 만에 우승했는데 초상집? 구자욱·원태인 FA 풀린 삼성 비상",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GYmZFc2ZRSXRzTTRfTjZ3TmVvcHlyYUJnanJMUzhWS2NPNnc5ZGZESzQ3bGdtSi1tdGZqa0h3Si1FZXROM1dDRVh6TmpCSDNjZkFnWGw5S1BiNTJqenMtWkgzNUZRYWU3?oc=5",
+   "source": "https://www.asportstv.kr/",
+   "kind": "기사",
+   "published": "2026-11-13T17:45+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[야구] FA 시장 열렸다… 원태인·구자욱 등 28명 자격 공시",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aLURlaE54N2w0d1NvRTJpYWl4Y09RLWNxdEJTZGdsOU5PZ29McFVJckJMU1RFVDlodFhWTmJIb3RpTllUcy05QnUwUzZhdlJFQ2xFMUxjRkpOaDZLT21HZHptT1VJQnpmWEE?oc=5",
+   "source": "천지일보",
+   "kind": "기사",
+   "published": "2026-11-13T17:44+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 보상 조건 급하락...안타·홈런 커리어 하이 김호령, 외야 강세장 '블루칩'",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RNndXR3lVYTVxdHFialpneUhNV3hJN1Bad3pZUnhTQzctU1hYZi1CaXV3MVBtbV8tVDNIeXdCVmhwMGdKN2dQdmU5NnRyN0t0QkREUU1LZFhDWEE?oc=5",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T17:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "대어급 몰린 28명 FA 시장…구자욱·원태인 거취에 쏠린 눈",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oekcyTDFzX0hDcU40TGswbUlKTnY2NFNwMUwwU1RoQlFvWXFLN2dFUEhUVXF1dUY5X3ZnUzYwb3lRTHphVE5ocXVDTjctaDJKUk9fLTU5SlVVaFRRTFhCQlFQQUVfQQ?oc=5",
+   "source": "일요신문",
+   "kind": "기사",
+   "published": "2026-11-13T17:38+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"KBO 수준 낮은데, 마이너 계약도 괜찮아?\" 美 이런 찬물을, 구자욱 ML 도전 추진→왜 부정 전망만 내놨나",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0otSHdPNzNsdUJENmxiSXdWcnZZS1gwd1dLTERydVJQMUQ4X2k1RURHUDdBeE44SU9QQkZiZ0pGUTBFQlNDYWxiR0xaSjFZZGZMWFpBLXJSR0t1bWtRQWhUOTBNYnlMZ0xRUmtTZTNoVnJXMXV0YmkwX0JjYlIwTDNhQQ?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-13T17:22+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO, 10개 구단 총 28인 선수 FA 공시... 협상 17일부터",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4VzdMeUM3eFZSUzdqWjVXWlFkT3B5cmRzSERFS1Zwa1NKTzVycmxVMjgwVmJFcmx0LVV2c0hFVG05bXQxdFg3dVVpbGc0MHBFVDhkYlNjclJLT2VKMkVxOURRbmtUdzhrRnRodlVfQQ?oc=5",
+   "source": "STN SPORTS",
+   "kind": "기사",
+   "published": "2026-11-13T17:14+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "[오피셜]“모두가 구자욱 원태인의 대박을 말하지만 배정대 김상수의 삶도 있다\"...FA 자격 선수 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmTlJXLVlUdm1OUGVuZTdyUFZGNk5QbGVkNzNfTXRRTEI0UklmZHZCUzJPTlpyQ2dQVW9nc3UwRmxmNlNmYUR6TFhXYmZyYXhvQmdJdl95RW9kOU5HVWt4Z01Qaw?oc=5",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T17:14+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김상수",
+    "배정대"
+   ],
+   "teams": [
+    "KT",
+    "삼성"
+   ]
+  },
+  {
+   "title": "김호령이 C등급이라니! FA 시장 '대박 호재'…보상선수 없이 영입 가능, 중견수 최대어 경쟁 달라진다",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RlU1bGtsbHhQUERLcWhLdGd6dHZHYmtIdXpEUnV1T3JhbWlmLU5aVGpMX2FlTWVCV3JuMEZ5bXh0azBkRDJJQXB1U1hfdFFOYlM4LUFKd3ZhUXdEU2RVQTBTbzl4ZXF3TkhPb9IBbEFVX3lxTE15RlU1bGtsbHhQUERLcWhLdGd6dHZHYmtIdXpEUnV1T3JhbWlmLU5aVGpMX2FlTWVCV3JuMEZ5bXh0azBkRDJJQXB1U1hfdFFOYlM4LUFKd3ZhUXdEU2RVQTBTbzl4ZXF3TkhPbw?oc=5",
+   "source": "더게이트",
+   "kind": "기사",
+   "published": "2026-11-13T17:06+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "구자욱·원태인 등 FA 28명 공시…프로야구 ‘스토브리그’ 시작",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
+   "source": "한겨레",
+   "kind": "기사",
+   "published": "2026-11-13T17:02+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[오피셜]'최대어 구자욱-원태인 남을까? 떠날까?' FA 자격 선수 취득한 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTNaVHFhaGI1UlQ2RHY5eTdpdVlGN0ZQMjg4R29QV0xPR0xUeTFINHUwa3ZHaVAwVVN3V1JKSGRJazJYN2RuSE9hUmRPcy1VQW5ReC1uaDAtMTIyTTM4cXNlcFpaOW5fbUtCZkVVSWozTHdTSzhsWm1wTGFCNXM1clpxMA?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-13T16:57+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘100조’ 벌었다는데 얼마를 써야 하나? 구자욱·원태인 나란히 A등급 FA 공시",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYLUpySllTR0ZERjBFbXhSWXFlb25RMFRKZDhWZC1lWEtlcS1EbTZNeWxOaEIwbDlrOXdlYy1PMzA5UXJaM093cEJ2SV9kYkNVeUc5YlJUb25sN1F4Y3ZRb3VuRHNwN3RWeUVXLXNIRlU2UngyYU11dA?oc=5",
+   "source": "서울신문",
+   "kind": "기사",
+   "published": "2026-11-13T16:55+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSDBDU2lIOUVBakZrN0RCaU5kQ3dUN3NMUkJWdzZZcVhiQ0FrRHN6YXNxOUVHYXNYQUE5c01FUVpKMkVnSVJvbVBXNThUWUJrcDN1dDc3aTRiR0kwdkpNVURiaE1vQQ?oc=5",
+   "source": "KBS 뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T16:48+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "양의지"
+   ],
+   "teams": [
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hcWZ2UUFIMkVDVEFzRDNtU3pSTmljeHlnbWE2dlFZd0lnYTlZQWpoSHdKRHVzdDZPY3F6X0RjcjNPUWUtWENqdWwyTHlWU19Lb2R6Z29ZUkJ2TEJwUktoMXF1dHJrcDJyOG9VUWVabw?oc=5",
+   "source": "기호일보",
+   "kind": "기사",
+   "published": "2026-11-13T16:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김민혁",
+    "배정대"
+   ],
+   "teams": [
+    "KT"
+   ]
+  },
+  {
+   "title": "진짜 삼성과 작별하나… FA 구자욱, 오늘 정말 파격적인 ‘소식’이 전해졌다",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTHpyVVEyM3E4Y1Z3SjIzemlrbEpLY05pN3ZwQVNtU0RCNWhEaEpsdFZXRWVLaWhXMlVIdFpYam1TaVZXUmQwSUdhaDBFeHFpRHRtdlNR?oc=5",
+   "source": "위키트리",
+   "kind": "기사",
+   "published": "2026-11-13T16:34+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인 등 대어 뜬다…프로야구 FA 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlVDBFb3FKaWgybW96NGhERHZ1NXZHbHlNQ2w5WlhrV1F3OFlyUHhhU3VDbC1nM0RVeW9NMldyYWJjc1NFRmRsdVJSWk90TFdDMzNrODlsUUFNeFAxazBpSkZXcTM3M3c?oc=5",
+   "source": "연합뉴스TV",
+   "kind": "기사",
+   "published": "2026-11-13T16:33+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KIA 대충격! '보상금 단 돈 3억7500만원 실화?'…김호령 FA 'C등급' 확정→이러다 50억? CF 최대어 등극하나",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Lcm5KUDFRSTNDN2gxd3ZZSFMxVUJBaXMtWTFhM2pxbjA1dGtVdlg5MUk0T1ZoaWs1b2duUDZGOVdyVUY2LVF4V284VXBkLVhEYzdDWQ?oc=5",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T16:32+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "'FA 시장 열린다' KBO, FA 자격 선수 28명 공시…구자욱·원태인 등 A등급 6명",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3ajZreklZVFZ5djJDRVlIMHNGNTIybWtfMlJyQThscDhwdnlsbC1WNWRvckZ5Z09tSjdaZUlBQzhlNUpCbGNKNy1QeDZmQ1dPVElSdk9mY1_SAVhBVV95cUxQd2o2a3pJWVRWeXYyQ0VZSDBzRjUyMm1rXzJSckE4bHA4cHZ5bGwtVjVkb3JGeWdPbUo3WmVJQUM4ZTVKQmxjSjctUHg2ZkNXT1RJUnZPZmNf?oc=5",
+   "source": "미디어펜",
+   "kind": "기사",
+   "published": "2026-11-13T16:30+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "프로야구 FA 시장 열렸다… 원태인·구자욱 등 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mX3hEMnYwdEdORHBFNzlpOVl5SVZLM3V4WEIwS28wcGJMV3I4dEJvcjRGSjkwZ0l0RWtfMlV4c3dZR1FiTnY5Y2hKUmQ4THBhd3NOVkkyWlJOWmkzUF9oQTRHZ2Q?oc=5",
+   "source": "매일일보",
+   "kind": "기사",
+   "published": "2026-11-13T16:29+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"FA 자격 선수만 28명\"…프로야구 스토브리그 열렸다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1eDdGNXdKdGFzQlRnamZqSzh1eFB4QVI2YnlCZWhFVFA3LXFBX0xKTVBqa1JvSVowODh3NWh2akthMmZNbzBEQmJXdnctSEtKcTFsMENsWm9QSjBzMmlLNA?oc=5",
+   "source": "KBC광주방송",
+   "kind": "기사",
+   "published": "2026-11-13T16:27+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wNFpCWUhIWXIydHRDQklWRjllLU1kaW9lRXlkU19UMG1fNnMwTWM1dHh4WDdnYU1xUmtXN3ZsX2JmQS1NNkJxdFlQQVVNRjJ5TzRfbzRsZEI5OGVOTHNxTEFNWdIBY0FVX3lxTE9wNFpCWUhIWXIydHRDQklWRjllLU1kaW9lRXlkU19UMG1fNnMwTWM1dHh4WDdnYU1xUmtXN3ZsX2JmQS1NNkJxdFlQQVVNRjJ5TzRfbzRsZEI5OGVOTHNxTEFNWQ?oc=5",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-11-13T16:27+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "2027 프로야구 FA 자격 선수 명단",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uNHp5X1Z4OWR6Sm80VGEwNUpvNE1yVjJZQ1E4dTJQTmRkeVMyZFV3RmpfZ0ZmTDRhVnJ0cGJ0eVRtSTJoSEJLek82QzJ0aFpoX2lLa1N4MVZiRGt5aDBvZTJzcmg?oc=5",
+   "source": "BNT뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T16:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "‘스토브리그 어서 오시고!’ 구자욱·원태인 잔류 or 이별?…FA 자격 선수 28명 명단 공시",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01NVdRemdLajdZcjZLMFRSdXhPNC1uTXNXVl9VTDZBc3VkbDRzWGc3S3NrQ21hSVZQSUR0cGZUNUhoa0xlbU8yZS1Wcm90RFpSb2xSdFIxVHc?oc=5",
+   "source": "스포츠서울",
+   "kind": "기사",
+   "published": "2026-11-13T16:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘원태인-구자욱 등 28명’ KBO, FA 자격 선수 공시",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aODg1bmY4aThIbHdpM2Rpb2FkaVBESm14TlhKY3hCWHJFR1JoUFhwQS15WlhqZHQwWUFfaUlVWkJham5PS2RjYXByblRfaEFrM1Br?oc=5",
+   "source": "매일경제",
+   "kind": "기사",
+   "published": "2026-11-13T16:16+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO, 구자욱·원태인 등 28명 FA 자격 공시…17일부터 협상 시작",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YZHpBTlhDRlBNckprWGViMnhlS2VGb1hwaE1ZYS1LRG9iOTQ2VXN3RTUxa0tZNklEX2psWUVRNVM4MV9NUldobW9kenI4Mzl2ejZjQzc0YWtSYVdOX1Y2ZEw3NlVUVlViQ1FMOURYc1pydC1N0gFmQVVfeXFMTW9fbkN1SzBaOFFUYTB5VU9sSVdQTzhkRlJ3Wi1ZbmF3cW1IUU8zdzRXUUhZTHY0aTh2V19IQkZSMGFoSmI4eFBIa2ZLbUctR2dlUks4ck1OZUlsUFdRQWtiMlMza0hB?oc=5",
+   "source": "동아일보",
+   "kind": "기사",
+   "published": "2026-11-13T16:12+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO 2027년 FA 자격 선수 28명 공시…17일부터 협상 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vQjZuSTA3R0NLSUZ3cHRqcV9NYzl1QmFzUGFKU202QmZMQWpUelY4cTNPZ3dPTEY4T2R1Rkh0UDZtUE1kWkVIbF8yQQ?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-13T16:10+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "프로야구 FA 시장 개장…원태인·구자욱 등 28명 자격 공시",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG9aLUN4TnYzQ3ktLTE3U256RUszMU9pSXU1Ni11Y0MyM0prZk9YZ3FKbE0xVWVxNVN6Nk9VU3NzU0J5VUlyZXFXbXUwaTFRM2VNRmlSSEhtVVdlamJCYV9OdmVOVzA3SzVEUnZWQ3BBR2VwNHlUaVkwWXBFR3RkMzFNbV9Yb2NPek5SSzV5dw?oc=5",
+   "source": "news.sbs.co.kr",
+   "kind": "기사",
+   "published": "2026-11-13T16:07+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRGt2UUx2bENQVGg3X3FNRlZLeHZFYVFnVXVFNlNteW9Kb0VaMF82NVNCTHRnVEdXZHpRQ2U4bVhzajRUR0IyTC1OU3VwNFpaNnNLWFVFQQ?oc=5",
+   "source": "뉴스1",
+   "kind": "기사",
+   "published": "2026-11-13T16:05+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "홍창기"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[프로야구] KBO, FA 명단 공시…삼성 구자욱·원태인 'A등급', KIA 김호령 'C등급'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wVlhNSXJCUkRZYWloY0gyUEptVFJPZXhZSEN4bjMxZ1RsckdmdUFWVlNNMHVBalBWOGZiUkVYTFdPQUJUZktUOWhSaW5VTFQwTHROZ3NESzVnQlk5?oc=5",
+   "source": "뉴스핌",
+   "kind": "기사",
+   "published": "2026-11-13T16:04+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 시장 문 열었다…‘삼성 우승’ 구자욱-원태인은 어디로",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VZDlkQkJzZ0Voc3J5WlU3ZXN5aEpXaUlMYnlJOUVxalFiXy00TER2OFFsR0hoNlAyTUFpc21lYURUY0ZIdDRPV0NyVWVFY25SQWZydU1B?oc=5",
+   "source": "중앙일보",
+   "kind": "기사",
+   "published": "2026-11-13T15:58+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'첫 FA 15명 쏟아졌다' 2027 KBO FA 시장 개막…자격 선수 28명 공시",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CdVpoams1dzZxSUYzZjNIUWRNLVpfbkNKSWN5cWxsTGpoZkNnb0JuazI4cERLN0pTSlZKN3pjYlFTY1JNZWhQM2pnWVhzbWN5SFE?oc=5",
+   "source": "노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T15:56+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "프로야구 FA 28명 시장에 나왔다…17일부터 협상 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42ZzAxd205UjVpbVhwbXNTRm5iSUJ5LUE1WHhKQkgyZUN4dGF6ZTc5NTNEaDdCc3NJUU5EZ0NIS0lmOTcwSW9OWmZFdw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-13T15:52+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
    "teams": []
   },
   {
    "title": "프로야구 FA 시장 개장…원태인·구자욱 포함 28명 자격 공시",
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275838",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ib2FBNHloRmZnMmlsTkNRLXVNUFNfNzFPMHNxYWVfSWlxT0UtU3Jwa2Znemw0VDlqX2ZpczFya09yVVBWS1lPOXNtUVJGSnJscGFveHlnQXBMdW5HTnF0eVJab25iNjQ5Ny03ejJPZzN4Zw?oc=5",
    "source": "톱스타뉴스",
    "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "박상원이 생애 첫 FA 자격(신규)을 얻었고 A등급으로 공시됐다고 전했다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
+   "published": "2026-11-13T15:51+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
    "players": [
-    "박상원",
-    "최주환"
+    "원태인",
+    "구자욱"
    ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘이제는 스토브리그!’ 프로야구 FA 시장 막 오른다…구자욱·원태인 등 28명 자격 획득",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13dFd4N09oRW9vRkpzUlFpRDB6WDNpMGlKeXZxbVFjVFNfMlpxbE9mcGxiWDF3S0o2a0c3alRIUTBNbGJ1SzJEMTRwcDZ0WHdWSUJzRGNLN2ItekwyUHo0RDZXbHIwOXMyWG01ZDVsR3U1Zw?oc=5",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-13T15:48+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 신분 얻은 구자욱, MLB 진출 시동…현지 에이전트 선임",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGR2RWSEtwM3lsbDd6LVJBRGwyekEyUlpRdHlodG5oS1d3YXJ2SWdUWW5ValBFaE5IbDk0WUs3cHVwMlJ1Yjl0VTZmMVZUbnFuaGc?oc=5",
+   "source": "노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T15:47+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 KS 우승 이끈 구자욱-원태인, 나란히 첫 FA 자격...총 28명",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0RpZEdhWllrOHBTV0ZLdjdIWW95Wl9LYmM3VmtCTHdraGZtN0pmZnhka3pNZWtNVXF4TmRSdWZHZnBCRUxNT2tDWnRMX2tUUzhsWGxnRU41OE1HNVlSdThvbThJMVlfQ1VabHZ6dk1jTVljNlpSWnNubW9DLWdOQw?oc=5",
+   "source": "이데일리",
+   "kind": "기사",
+   "published": "2026-11-13T15:32+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"구자욱 FA 시장 나오기만 기다린다\" 대형 폭탄 선언, 강백호처럼 극적 잔류 가능성?",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG5wZC0wNm5JbFo4Ui0xZlNLa18xUExobUFrbmFjc3ppcFhMbXFsOWZYOXJhLUZpZVd1d21KNC0tbVZGUkMxMGROTTZhUThGcEYyUXktRENwV3lzems1YnpVdFU2Q0NFZnZnMHpVTnVFR3owajFiM2EtU3ZRVVhvSnZhZw?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-13T15:27+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "2027년 프로야구 FA 자격 선수 28명 명단 공개",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZcXVVZVVjbkd2bXJDdG9Pemk3UkhqMmdVRVQ3TEdUTFhzR2pOLXFEMXJCSnhkTGpXZnJmWTktZ1h4ZmJ1QVJVQ3pPWVlQUDFrZzhPNQ?oc=5",
+   "source": "이투데이",
+   "kind": "기사",
+   "published": "2026-11-13T15:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
    "teams": []
+  },
+  {
+   "title": "[오피셜] 구자욱 원태인 박동원 홍창기…FA 자격 선수 28명 공시, 15일 신청→16일 승인→17일 FA 시장 열린다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMG9FRlNUSUllOVUyRzNHLTN5U1AzTVFVYnk1RU85ZjN2N0VLbHI4S203YVFqdVB5aG9HQzB3Z2RtT1d6M2RQakNPOHRNNlNzNTB4dUNBWlNIMHFKTFJZZlRKbEl5MzF3UDNNaDQxcks?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-13T15:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "박동원",
+    "홍창기"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[공식발표] 구자욱-원태인-최지훈 대형 매물 쏟아진다, FA 공시 명단 발표 '총 28명' 시장 나왔다 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zZVU2eXBFWWd6V1c0UmtKRDh5V0RkRTdNQ1RDVkVWbEFOUGFjelliUGxfeHlfS1lrSmNtVFpCRVpOa2NqT1M1RV9TNGo2bFpvV2RVQjRJcjF0bUJGMTBFdC00UTc0SEdLUjFsU2JGMNIBb0FVX3lxTE8zZVU2eXBFWWd6V1c0UmtKRDh5V0RkRTdNQ1RDVkVWbEFOUGFjelliUGxfeHlfS1lrSmNtVFpCRVpOa2NqT1M1RV9TNGo2bFpvV2RVQjRJcjF0bUJGMTBFdC00UTc0SEdLUjFsU2JGMA?oc=5",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T15:19+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "최지훈"
+   ],
+   "teams": [
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "'역대급 스토브리그 온다' KBO, FA 자격 선수 28명 공시…원태인·구자욱·홍창기 등 A등급 [공식 발표]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXlpODEyLXZKS0VRbWtsOWprUGVRRHpXaEgwWEE4a25NbTZZcTkwbW16TTNEeDY2M0xYcVBxbHFBc0h2N1g3Y2VEX1hlOTVnNkhLbFo4WWRpSUtMNjd3a1hBTUhmNGZNOVYtNnp5a0pGcEpTazZkWFR2R3ZEeW5lamZUWQ?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-13T15:19+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "홍창기"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[공식발표] 구자욱-원태인-최지훈 '대형 매물 폭탄', FA 공시 명단 발표 '총 28명' 시장 나왔다",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Qd0libktQTGlNVEpnSm00bE5aSnh1T3loT0dSakpHNGxzamhHekVhMVhxeURBenloeEN5eTB6X1RfeWZ1eHA2SC1qT2RGMm5WSG85c0F3?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-13T15:19+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "최지훈"
+   ],
+   "teams": [
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[속보] 원태인-구자욱-김민혁-배정대-홍창기-박상원, A등급 얻었다…2027년 FA 자격 선수 명단 공시 (오피셜)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UV0o5RC1ScUxodkZTSWV5dHRNN0lOU2FQa01xbzFQSjhUdTd1bEFiTWU4OTV1N3prLWJIWG1CMkpONnVscEkzcHFacEFRd1pLMU5QUw?oc=5",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T15:17+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김민혁",
+    "배정대",
+    "홍창기",
+    "박상원"
+   ],
+   "teams": [
+    "KT",
+    "LG",
+    "삼성",
+    "한화"
+   ]
+  },
+  {
+   "title": "[공식 발표] 구자욱·원태인 얼마 받을까? KBO, 2027년 FA 자격 선수 명단 공시…KT·SSG 6명으로 최다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jNGlIaE9YaDZCb3dnckZJa1FLOGk5ZDRQTk9pTXFJanFHN1JJTmloRDdVaEhONTc0ODl6M1VDYUcwVVB0M0d5aG95LWkyUE1zMWVEQlVSSDFPb3BMY1MtSQ?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-13T15:16+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KT",
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "우승 프리미엄, 초대형 FA '구자욱·원태인' 해외 진출 모색…고민 깊어지는 챔피언 삼성",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSVC1Ram1pV2FidkZBdmRnQVdGc2t3Z0Z2aTd5UDJXd0lUMEpXQUVrS0JRX19DVUR2MkJkS2Jmd1VWUTNQTmh1dlVkbmw?oc=5",
+   "source": "대구MBC",
+   "kind": "기사",
+   "published": "2026-11-13T15:16+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱, 메이저리그 도전 공식화 미국 에이전트 선임",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSS1mN0R0ZzQ2aGFwVU1iTG9GZ0pnNGVsVDhxUEoxajlFY3hMWkJLS1pENG5CdWNHZkx5WjgySENzc0Jpb1VHcXMxQXFnSkVSM01xbkxoV3JULXR5U3BaMGhNd2MxM2VERkRmWTZOWQ?oc=5",
+   "source": "진일보 | 전남일보",
+   "kind": "기사",
+   "published": "2026-11-13T14:34+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱, 미국 에이전트 선임…메이저리그 도전 본격화",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YNkhxWWg2Z1gxX0FKSjBJcFpZOGxiTDJaVF84Rm1lODNRdkdta2lQU01MRWVTOEdUdWpXbGNNd1VLZTd4ZUppS18ySy1WaHVHX1MzZGs1YjRkaDBZVGJLSE1oeFY4YVRK?oc=5",
+   "source": "https://www.2news.co.kr/",
+   "kind": "기사",
+   "published": "2026-11-13T13:54+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'초대박' FA 최대어 ML 도전 선언! 구자욱 해외 에이전트 전격 선임→美 관심 폭발 \"KOO 메이저리그 진출 추진\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEVvek1qdTFSaGFIM2V4ZkUxZDdIT20zZjFWZGxoN2EtS3dNSmdYQm9OYWpIN2U0YzQzNjdsQl8tdDk2Yk5tRHh2RzBSQzFMUXMtRVZfSVdtQ0hNLUtlZjRBR2VsRTl2OVhBOHhOWGlzRGdrdXpLRmhsQVN2bmhOOUctNA?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-13T13:24+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘정말 해외 노리나’ MLB닷컴 기자 “KS MVP 구자욱, 미국 에이전트 선임했다”",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlRmk4enZJaGpLVTJGcGtOcnM5QlUzSy1XWm5TRktUZFhwNXJ5QTl2SktHWFQzQTB2NVVnVTN4U2xPQzcxUFJnZ1BjNDhLSnBpTnJzRTdIa1ByWjJHOGRCcXlqZ2pPMmpCazRVSFR1TUZIZw?oc=5",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-13T12:55+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "25억도 부족해?김태군 FA 거품 논란, KIA 사치야구 하나",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaG9MWUtUaGtxX2pTaTRzU1RQRk9Ib2k5X2Z6SWJSMmVhMmVoSkYya2FJRmxmX05EdDE5YXdULWRVWVUxZVhUOGhGdjZROHg4UVHSAVdBVV95cUxPYWxHRHdkX1VqRlRwZUlHdFpnTkJyZ2dzdEdTQ2JNR1lOWHRRVGZHcDg4Mkw1bG9zMVNhd0plNkFoblIxWEpidktZT1lCelFhM1EzcWxVbVE?oc=5",
+   "source": "네이트뷰",
+   "kind": "기사",
+   "published": "2026-11-13T12:09+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "‘비슷한 유형의 김성욱은 2년 3억에 계약’ FA 시장에 나올 김호령은 얼마를 받을까?(KBO) : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdC1IZG5WX2lORHRaR2ZPaTdZR1QyY0hBMGdoZ29iZ1VNOWI0SDVIS2NINHBublNwOTZvMDl6OW5mOFhyanhQRlMtTjhDbzQ2VElsbUdZT1U1MTFFbmhRWTk0MkJLOEdWdzVfa3ZBNjRxU1lBN1hER1c4WDhXVjFIbVM5bE9TUnlGaTMtc1Z2LUxWVUhw?oc=5",
+   "source": "Naver Blog",
+   "kind": "기사",
+   "published": "2026-11-13T12:06+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "[핌 포커스] '알짜배기' C등급 FA 누가 있을까…삼성 전병우·SSG 오태곤",
+   "url": "https://www.newspim.com/news/view/20261112000940",
+   "source": "뉴스핌",
+   "kind": "기사",
+   "published": "2026-11-13T12:02+09:00",
+   "summary": "[서울=뉴스핌] 유다연 기자=2021년부터 프리에이전트(FA)가 등급제로 바뀌면서 알짜배기 C등급 선수들이 FA 판도를 바꾸는 경우가 많아졌다. 이번 겨울에도 알짜배기 C등급 선수들에 눈길이 쏠리고 있다.KBO는 13일 FA 자격 선수를 공시한다. 해",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우",
+    "오태곤"
+   ],
+   "teams": [
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[속보] 'FA 초대형 매물' 원태인 이어 구자욱까지, 해외 에이전트 선임…美 매체 \"MLB 진출 모색한다\"",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mbUhFQm1SanFlSnJDNlZveFk2NkNCcWd6d3Y0U1FkRXhqaDJ0OEhUTGRZdWtFdDVOZU8xQTNlVmRhdEloeEs5WVJKVkdPR2psa2YyUjhB?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-13T11:55+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[속보] 'FA 초대형 매물' 원태인 이어 구자욱까지, 해외 에이전트 선임... 美 매체 \"MLB 진출 모색하는 듯\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ERkpWcEFUTW8wS29PSXhxOUFMS2tDeGg0Ry02THRPUUFJS085SzNmbFpMbGNHSHBoRDM0dmN6eXNmcDIyYXhmdDNDYk85YmRBM0Y5UTV4NGI5bTM4LXF1VXFMMW5qUGFWbVHSAW9BVV95cUxOYmYtWXlMNnd4d185WkFIbXBOVVYyYnM0d21qeHZzTU5MZ28yVGdXSFZfbjd0WUxPRXRJRWNEZUxrU1JscGtmQ0lrOHlfQVZNTTRQTGFSSGNVSU1XSC1YMHg3bDVNSEtqaC01czMyTlE?oc=5",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T11:54+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "박동원 65억원→최재훈 54억원→양의지 42억원→김태군 25억원→FA 포수 대이동? 이 몸값 전부 넘어서나",
+   "url": "https://sports.news.nate.com/view/20261113n10966",
+   "source": "네이트 스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T11:38+09:00",
+   "summary": "한눈에 보는 오늘 : 야구 - 뉴스 : 2026년 9월 3일 오후 서울 잠실구장에서 열린 '2026 신한 SOL KBO리그' LG 트윈스와 두산 베어스의 경기. LG 박동원이 선발 포수로 출전했다./마이데일리한화 이글스 최재훈이 30일 대전 한화생명이",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "박동원",
+    "양의지",
+    "최재훈"
+   ],
+   "teams": [
+    "KIA",
+    "LG",
+    "두산",
+    "한화"
+   ]
+  },
+  {
+   "title": "김태군 FA로 떠난다? 우승 도전 KIA, '무보상 FA' 양의지 올인 가능성 있을까",
+   "url": "https://www.sportschosun.com/baseball/2026-11-13/202611130100090530008481",
+   "source": "스포츠조선",
+   "kind": "기사",
+   "published": "2026-11-13T11:07+09:00",
+   "summary": "김태군에 대해 조용한 KIA, 양의지 올인 가능성은? 2026 시즌이 끝나고, 스토브 리그 개막이 눈앞이다. 벌써부터 뜨겁다. 삼성 라이온즈의 한국시리즈 우승을 이끈 구자욱, 원태인 두 대어들의 행보에 관심이 집중되고 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김태군",
+    "양의지"
+   ],
+   "teams": [
+    "KIA",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[APBC 현장]어느 단장의 고백 \"FA 구자욱 원태인? 모든 단장의 꿈, 그러나 삼성이 놓칠 리 없다...반 포기 상태\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdEZ1dmQzRmJzcnRJMXRRSmVBRktxUnh3UENoM05mc0Z1Z0dsVXFWa0RZeDhKbGRaaEZhc0NseEZydWtDdGlZQmh2Vk1rQ0d1a0h1UTNvclptd3FhSjFsLXlvSQ?oc=5",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-13T10:49+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'중견수 문현빈 안 본다→최지훈-김호령 영입 가능' 노시환 미국행 시나리오... 한화 또 'FA시장 큰손' 될까",
+   "url": "https://www.mt.co.kr/sports/2026/11/13/2026111213243951538",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T10:27+09:00",
+   "summary": "11년 307억원 초대형 계약을 맺은 노시환(26·한화 이글스)이 미국 진출을 선언하며 한화 이글스가 스토브리그에서 어떤 행보를 보일지가 벌써 관심을 자아낸다. 이와 함께 13일 자유계약선수(FA) 자격선수가 공시될 전망이다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령",
+    "최지훈"
+   ],
+   "teams": [
+    "KIA",
+    "SSG",
+    "한화"
+   ]
+  },
+  {
+   "title": "프로야구 스토브리그 본격화⋯KBO, 오늘(13일) FA 자격 선수 공시 예정",
+   "url": "https://www.etoday.co.kr/news/view/2647751?trc=right_categori_news",
+   "source": "이투데이",
+   "kind": "기사",
+   "published": "2026-11-13T10:26+09:00",
+   "summary": "한국야구위원회(KBO)가 13일 2027시즌 자유계약선수(FA) 자격 선수 명단과 등급을 공시할 예정이다. 삼성 라이온즈의 12년 만의 한국시리즈 우승을 이끈 구자욱과 원태인이 FA 권리를 행사할지 관심이 쏠린다. ‘스토브리그’는 시즌이 끝난 뒤 구단",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[2026~2027 프로야구 스토브리그] FA 최대어 구자욱·원태인…포수 양의지·박동원도 주목",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVSkZkWUplNWpDRm83YmxKaFFTUmpLbWplU1Jfa0d2TFpqZlNINVlNeWY5ZUU0UEVXeFlMcVBCQW5fNjhKMkEyUWR0UU5VRWZ3Q2JmcGNmSkZHZjdtSDBsX2lnaElOMjBwM1hwOA?oc=5",
+   "source": "뉴시안",
+   "kind": "기사",
+   "published": "2026-11-13T09:24+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "박동원",
+    "양의지"
+   ],
+   "teams": [
+    "LG",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "DAZN雙11限時56折！$890鎖定全年精彩賽季",
+   "url": "https://www.dazn.com/zh-TW/news/棒球/kbo打擊王加冕韓國大賽mvp三星獅具滋昱獲fa資格-正式聘請美職經紀人挑戰大聯盟韓國職棒/3fa88j5hy0ss103rs17w8rj8r",
+   "source": "DAZN",
+   "kind": "기사",
+   "published": "2026-11-13T09:12+09:00",
+   "summary": "帶領三星獅勇奪韓國大賽冠軍的看板外野手具滋昱，在韓國職棒（KBO）13 日公布的 2027 年自由球員（FA）名單中正式取得最高等級的「A 級」資格。這位剛拿下韓國大賽 MVP 的超級球星不僅將成為國內市場的最大焦點，更已正式聘請美國經紀人，公開表態將挑戰美國職棒大聯盟（MLB）",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "‘FA 투톱’ 구자욱-원태인, 삼성은 ‘당연히’ 잡고 싶다…핵심은 결국 ‘모기업 의지’ [SS포커스]",
+   "url": "https://www.sportsseoul.com/news/read/1649508",
+   "source": "스포츠서울",
+   "kind": "기사",
+   "published": "2026-11-13T08:20+09:00",
+   "summary": "[스포츠서울 | 김동영 기자] 우승의 기쁨 뒤에 ‘숙제’가 따라온다. 너무 거대한 선수가 프리에이전트(FA)가 된다. ‘캡틴’ 구자욱(33)과 ‘토종 에이스’ 원태인(26)이다. 심지어 둘이 동시에 자격을 얻는다. ‘한두 푼’ 필요한 게 아니다. 결국",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KIA, 원태인·구자욱 영입전서 ‘머니게임’ 선 긋기..심재학 단장 “원태인·구자욱 지켜보되 몸값 경쟁은 안 해”",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uQmx3ZVNmYl9iQWNHTkhTSGM0YmRZam90US0zVE1KTVNiMTFoWDZTeEpyQUhqYS1sbFYzT0hkZU1XQUJ6aGtDV3JUcw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-13T07:48+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "이럴수가! '4년 65억' LG 트윈스 FA 포수 박동원, 롯데 자이언츠·삼성 라이온즈·KT 위즈 중 하나로 이적하나? 원소속팀과 재계약은 부정적 전망 나와",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNWNwei1yN1hLWUNsWEtqWkI4Vk1Zc3FjcUp1dVpzOE9adWhROXdHeE4yLUN3VThpS3paa0RtenVhRks3bzRaVFVHT0lYb0Z0THlDbE01eWVEcHVzaW5Z?oc=5",
+   "source": "Naver Blog",
+   "kind": "기사",
+   "published": "2026-11-13T07:04+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "박동원"
+   ],
+   "teams": [
+    "KT",
+    "LG",
+    "롯데",
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO, 2027년 FA 자격 선수 28명 공시…A등급 6명",
+   "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=485310",
+   "source": "스페셜타임스",
+   "kind": "기사",
+   "published": "2026-11-13T07:01+09:00",
+   "summary": "2026. 11. 13. (금)KBO는 11월 13일(금) 2027년 FA 자격 선수 명단을 공시했다.2027년 FA 자격 선수는 총 28명이다. FA 등급별로는 A등급 6명, B등급 14명, C등급 8명이다. 이 중 처음 FA 자격을 얻은 선수는 1",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "'이럴 수가' KIA 보상선수 사라졌다! 김호령, 왜 'B등급 아닌 C등급' 됐나... 최고 가성비 카드 변신",
+   "url": "https://www.mt.co.kr/sports/2026/11/13/2026111316162411970",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T05:01+09:00",
+   "summary": "수비력과 주력이 빼어나다는 공통 분모의 중견수 3명이 동시에 시장에 나왔다. 가장 큰 차이는 나이로 보였다. 최지훈(29)이 1순위 카드로 평가를 받은 이유다. 그러나 김호령(34)이 예상과 달리 B등급이 아닌 C등급으로 분류됐다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령",
+    "최지훈"
+   ],
+   "teams": [
+    "KIA",
+    "SSG"
+   ]
+  },
+  {
+   "title": "[속보] KBO, 2027 FA 자격 28명 공시…A등급 선수 명단 리스트 보니",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751411",
+   "source": "국제뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T04:55+09:00",
+   "summary": "한국시리즈의 열기가 채 식기도 전에 이적 시장의 시계가 돌기 시작했다. KBO는 13일 2027년 자유계약선수(FA) 자격 선수 28명의 명단을 공식 공시했다.등급별로는 A등급 6명, B등급 14명, C등급 8명이다. A등급에는 삼성의 원태인과 구자욱",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "호령존 알고보니 C등급, 보상금 3.75억만 주면 데려간다...8천에서 2.5억까지 올렸는데도 B등급 아니었다, 구매자 늘어나나",
+   "url": "https://www.mt.co.kr/sports/2026/11/13/202611131519771749O",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T04:07+09:00",
+   "summary": "[OSEN=이선호 기자] 알고보니 C등급이었다. KIA 타이거즈 외야수 김호령(34)이 예상과 달리 FA C등급으로 드러나 이목을 집중시키고 있다. 보상선수 없이 보상금만 주고도 영입할 수 있기에 매력적인 FA 카드로 떠올랐다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "KIA가 현실적으로 필요한 FA는 구자욱보다 원태인…노시환급 초대형계약? 짧고 굵게 가는 방법도 있다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRUU8wY21abzN1UmVuRFJMS1FQbXBoNTNuYm11d2Z2MWVTVEpCaVE4LUxFby15czU1TlRBakpvc0hRc1lWcjhGQ1BOUHZYR25CdklaNGZfc2hucFp4WU5RaA?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-13T04:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "'A등급만 6명' 빗장 풀린 FA 시장…17일부터 피 말리는 '쩐의 전쟁' 시작된다",
+   "url": "https://www.fnnews.com/news/202611131652422266",
+   "source": "파이낸셜뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T03:55+09:00",
+   "summary": "가을야구의 열기가 채 식기도 전에 내년 시즌 판도를 뒤흔들 프로야구 스토브리그가 본격적으로 막을 올렸다. 한국야구위원회(KBO) 사무국은 13일 2027년 자유계약선수(FA) 자격 선수 28명의 명단을 공식 발표했다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "KIA 초비상이다, 김태군 FA 상종가 유력… FA 대이동 시나리오, 리그 포수 판도 바뀌나",
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019477",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-13T02:10+09:00",
+   "summary": "경험이 많은 포수가 없어 어려움을 겪고 있었던 KIA는 2023년 시즌 중반 삼성과 1대1 트레이드를 벌여 베테랑 포수 김태군(37)을 영입했다. 내야 유틸리티 플레이어인 류지혁을 내주면서 포수진 보강에 사활을 걸었다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인·김호령·최지훈 등 FA 자격 선수 13일 공시…돈 잔치 되나",
+   "url": "https://sports.donga.com/sports/article/all/20261112/135013077/1",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-13T01:00+09:00",
+   "summary": "[스포츠동아 박정현 기자] 2027시즌 준비를 위한 스토브리그가 13일에 본격 개시된다.2026시즌은 삼성 라이온즈의 한국시리즈(KS·7전4선승제) 우승으로 막을 내렸다. KBO리그 10개 구단은 쉴 틈 없이 곧바로 다음 시즌을 위한 준비에 나선다. ",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김호령",
+    "최지훈"
+   ],
+   "teams": [
+    "KIA",
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "'48억 대반전' 벤치마킹? KIA, 홍창기 FA 저점 매수 나설까…'2번 출루율' 9위 0.332→'최소 0.375' 향상 가능",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OSjlJT001eXVBQUtxNGppV0FEMlpSU19QdWk5RGlQaC14M3lzU1NlUzJtMDZfMmJ0LXBGMUFNYkVjU3pCOGdXRG9VeWRtQ2hRVXVJWA?oc=5",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T00:50+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": [
+    "KIA",
+    "LG"
+   ]
+  },
+  {
+   "title": "KBO리그 희소식! 29세 ML 특급 유망주 FA 풀렸다…'미국 밖 리그 도전 가능' 사실상 아시아 야구 진출 선언",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02d3dnRlhwaWt2N24xNHdFTlp6ZFdqd2dMRFhRYWFQRmxPYzRRbXFSUFp5TXM4d0ZJVFVpYWpsSUlKS01XeXo3NXhncUZUZVNHZlVqOHBvVEZjajE2cUxLX1lNYTRLbE83SFd6d0x1RUo?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-13T00:15+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "\"우리는 무적 LG 트윈스\" 예비 FA 홍창기가 커피차 보내자 \"감사합니다\" 후배들은 SNS 인증, 이거 혹시?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5WjNVWnZBWmlLMVoweFRyQ0hRdDJ5SlhTNFp0aDNRZUhic2Z5N00xRkJwdEpqb192NWc5dWxZWHpEa3A0YUZUT25peTE5dldVX0VrOUh5WmhBbXdseFpfRXlSVWRGNFpZYXNkaFZvU2k?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-13T00:05+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": [
+    "LG"
+   ]
   },
   {
    "title": "KBO 2027년 FA 자격 선수 28명 공시…17일부터 협상",
@@ -48,79 +1339,6 @@
     "이재원",
     "최재훈",
     "최주환"
-   ],
-   "teams": []
-  },
-  {
-   "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
-   "url": "https://sports.khan.co.kr/article/202611131627013",
-   "source": "스포츠경향",
-   "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "한화 FA 자격자 3명(박상원·이재원·최재훈) 가운데 이재원은 은퇴할 예정이라고 전했다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "이재원"
-   ],
-   "teams": []
-  },
-  {
-   "title": "박동원 65억원→최재훈 54억원→양의지 42억원→김태군 25억원→FA 포수 대이동? 이 몸값 전부 넘어서나",
-   "url": "https://www.mydaily.co.kr/page/view/2026111310371384849",
-   "source": "마이데일리",
-   "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "베테랑 FA 포수 4명이 모두 전성기는 지났지만 포수 특성상 다년계약이 가능해 직전 계약 수준의 대우를 받을 수 있다고 전망.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "최재훈"
-   ],
-   "teams": []
-  },
-  {
-   "title": "[프로야구] KBO, FA 명단 공시…삼성 구자욱·원태인 'A등급', KIA 김호령 'C등급'",
-   "url": "https://www.newspim.com/news/view/20261113001241",
-   "source": "뉴스핌",
-   "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "KBO가 28명 등급을 공시. KT·SSG가 6명으로 가장 많고 삼성·두산·한화가 3명씩.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱",
-    "원태인",
-    "김호령",
-    "홍창기"
-   ],
-   "teams": [
-    "삼성",
-    "KIA"
-   ]
-  },
-  {
-   "title": "2027년 프로야구 FA 자격 선수 28명 명단 공개",
-   "url": "https://www.etoday.co.kr/news/view/2647969",
-   "source": "이투데이",
-   "kind": "기사",
-   "published": "2026-11-13T00:00+09:00",
-   "summary": "신규 15·재자격 6·자격유지 7명. A등급 6명은 모두 첫 FA이며 양의지·김상수는 세 번째 FA로 C등급.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱",
-    "원태인",
-    "홍창기",
-    "김민혁",
-    "배정대",
-    "박상원",
-    "양의지",
-    "김상수",
-    "박동원",
-    "권희동",
-    "최지훈",
-    "박치국"
    ],
    "teams": []
   },
@@ -175,6 +1393,474 @@
    ]
   },
   {
+   "title": "KIA 심재학 단장 “원태인 지켜보겠지만 몸값 안 올려” : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mWWRtcC03MlA4TGV3S0JscW5xdmtucVVNdks3U0ZnVWZoQVpTMEFhZ1RaNzJna1pCSDNpTkp1bWtsWTE4ZC0ySlRVZw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T22:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "이 나이대 불펜 잡을 기회 흔치 않다…최원준이 기준선? 두산 '프차 불펜' 박치국, 생애 첫 FA 어떤 평가 받을까",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdUJFZVpNUk5INUNxOXZGZ252WHBKcUUwNnV3QUlxaFZidWZ6aF91VHZtXzRFdVBUaUFZbzcwQThWczBFdWlLeVhpcFd1c0g5aDlFRTdIOURaejRsOEdoeWRqdEE3YkVQdG15VtIBbEFVX3lxTE0zdUJFZVpNUk5INUNxOXZGZ252WHBKcUUwNnV3QUlxaFZidWZ6aF91VHZtXzRFdVBUaUFZbzcwQThWczBFdWlLeVhpcFd1c0g5aDlFRTdIOURaejRsOEdoeWRqdEE3YkVQdG15Vg?oc=5",
+   "source": "더게이트",
+   "kind": "기사",
+   "published": "2026-11-12T20:16+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "박치국"
+   ],
+   "teams": [
+    "두산"
+   ]
+  },
+  {
+   "title": "구자욱? 원태인? KIA, '25억 돈값' 우승 포수부터 잡을까…FA 시장 격변 예감→'PO 데일리 MVP' 혼자면 힘들다",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wcjd5eTgwNGplUlVkYnA3c0ktN29YbTNoQ2FfZy1aWGpMaklpNVhCR1dzZnpScWpLSW9SWWl0OExEc21vQk9Td1U5d2UzMlN2Y2pJYg?oc=5",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-12T19:55+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "KIA 다년계약 고사한 김호령... '호령존'의 FA 가치는?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IRGZfOXFLMDRXam5fTk5SQUgyZ1I3Szhzb2M4ZEpnM2JPMWtSVmM1Q1g3TWZVdkNpZFZjUjMxVDBDbWFPb3RJR0RiZi12SEk3VVpvWjc3SEozT1ZVVTlTbGVfSXI0aHJQME1rLUpFRGN4YmxWOEdBVWdxdi1aZw?oc=5",
+   "source": "오마이스타",
+   "kind": "기사",
+   "published": "2026-11-12T16:58+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "‘10라운드의 기적’ 김호령, KIA 잔류할까…FA 시장 관심 집중",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4REgtSzBVWjF4OGVHTThuRGlPX050MlpEQmh4SmFWd005aEhuVGZ6b2xhRWZLd19pVTE5QjU2ZXBlVmxFVE1Uc0JXc2loazlzaWc?oc=5",
+   "source": "JTBC",
+   "kind": "기사",
+   "published": "2026-11-12T15:29+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "`구자욱, 원태인 외에도?` 삼성 라이온즈, FA 시장 나설까",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHekk1WVh1Vll6TGdLWnJNd0NrcmxOT0xJdFV0RWFxRHAwQl9oWVhlWWc5TnliT1gyNW05amtzUGsyWXhSbGhqZ0hWQ3I4cnA0MDVxdHhWSVJmMWpVbTJ6VDln?oc=5",
+   "source": "매일신문",
+   "kind": "기사",
+   "published": "2026-11-12T13:20+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'김상수 삼성+한승혁 KIA' 친정 복귀 가능?…첫 90승→8년 만에 대굴욕→'내부 FA 쇼크' 찾아오나 \"6명 다 신청할 듯\"",
+   "url": "https://sports.news.nate.com/view/20261112n00261",
+   "source": "네이트 스포츠",
+   "kind": "기사",
+   "published": "2026-11-12T12:35+09:00",
+   "summary": "한눈에 보는 오늘 : 야구 - 뉴스 : (엑스포츠뉴스 김근한 기자) KT 위즈가 쓰라린 업셋 준우승을 당한 가운데 2027시즌 전력 구성을 두고도 골치 아픈 시간을 보낼 전망이다. 올겨울 내부 자유계약선수(FA)가 무려 6명에 달하는 까닭이다. KT는",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "한승혁",
+    "김상수"
+   ],
+   "teams": [
+    "KIA",
+    "KT",
+    "삼성"
+   ]
+  },
+  {
+   "title": "'초대박' 구자욱 몸값 폭등 조짐! \"1년 내내 공격 막혀\" 두산도 영입전 참전? \"타격 보강 시급, 진지하게 검토 중\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTVGd0pVajdUYVFwZlZxU3VlWmVuXzZnbFh4Rk5VYjN3aWdJaGZZSGFaVTI1MzUtYjdONFo5cmd2VG1mZHhWUWg2UG5DeXExdDM2Z1FaemM2S2lSWTBvT1BuTDJjakMxX3A3c2VYaUtsMlpnX21qUUkweEh2Y184XzVoUQ?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-12T11:15+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "12홈런 친 3루수 전병우 FA 시장 등장…보상금 1억3500만원",
+   "url": "https://news.jkn.co.kr/post/1087698",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T10:07+09:00",
+   "summary": "삼성 라이온즈의 내야수 전병우가 2026시즌을 마친 뒤 생애 첫 자유계약선수 자격을 얻었다. 35세로 C등급에 해당하는 전병우는 보상 선수 없이 1억 3500만 원의 보상금만으로 영입할 수 있어 여러 구단의 관심을 받고 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "박동원·김태군·최재훈에 양의지까지? 또 FA 포수 대이동 벌어지나…전통적으로 대접 잘 받는 포지션인데",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SLVdkaFJIcWNsZnRaY242NmZrSXA5SFl0OV9MVVUwV2xsYS1IczZwNlRidDB2cWlHQ3J0MUNDZ1BkaHBSWXBKcWRESEpwZTl6bkYwN0RkNkhzTERtd0JlTg?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-12T10:07+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "박동원",
+    "양의지",
+    "최재훈"
+   ],
+   "teams": [
+    "KIA",
+    "LG",
+    "두산",
+    "한화"
+   ]
+  },
+  {
+   "title": "FA 원태인 구자욱 관심 있나요? KIA 심재학 단장이 답했다 \"지켜보겠지만 몸값 올리지 않겠다\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vYUMxQ2V2VUM4clVnSVFIZFZueFotUGtjOGhHWUMxQ25iNXNiTnZLcENZYjlwWEh3dExlamI5U3NuOHNWYS13WTdMYml5MF9vS284Tlp2VlU3TnRGM0syeFVCcjQyZnFmUnfSAW9BVV95cUxPYVRBZEpvM3NJVnVfdnhTYi01Z1VpMjlyNWM5dDc0ZzdsNEp5eXZSSW9PLWpVNlRvSi13dndfXzVuMDFGZjFHakI5Ulg1ZXZzYlA2UDFXeDlGMWhvN1RQVFYyWEFKbkxZVnBwQWViSmc?oc=5",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-12T09:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 원태인 구자욱 관심 있나요? KIA 심재학 단장이 답했다 \"지켜보겠지만 몸값 올리지 않겠다\"",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aXzJscWFtZEozQmJIZnlzQTUwTkIzNHQ0VVdVYng3Qk4tR0tmSVpkdFFLTDQzODBVNkRvWjd2MDBDT3JKWmN1MWR5ejdwbklHOWZWSw?oc=5",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-11-12T09:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "우승 기여한 내야수 전병우 첫 FA 자격 획득",
+   "url": "https://www.kpopstarz.co.kr/post/183792",
+   "source": "kpopstarz.co.kr",
+   "kind": "기사",
+   "published": "2026-11-12T09:16+09:00",
+   "summary": "삼성 라이온즈의 우승에 기여한 내야수 전병우가 데뷔 7시즌 만에 생애 처음으로 FA 자격을 취득했다. C등급으로 분류된 전병우는 보상 선수 없이 전년도 연봉의 150%인 1억 3500만 원의 보상금만으로 영입이 가능해 여러 구단의 관심을 받고 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "박동원 FA 시장 나온다…포수 대이동 변수 부상 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45ZGk2a0hqN0RHNFNMeWc0X1pxVGNfcGllV1ZnelVwRzhLNWZ6cmREa0Y3MmllV2w1dm41RHM1RkxSSzFJSXZ0SUpLNA?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T09:15+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "박동원"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "12홈런 친 3루수 전병우 FA 시장 등장…보상금 1억3500만원 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52QlNxeExmbVdGUDVna3BxZElJX2ZGQThJWTByQzg3b1pRYWhZNGktV3FYS3YwN0ZqcUJ1TkhMTnpsMUxNcUZ6WHlRYw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T09:07+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "우승 이끈 삼성 투타 핵심, 다음 행선지는 해외 무대?…원태인과 구자옥 FA 변수 사라져…해외진출 여부 주목",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HdjJoWlZMWlk1LTBmaXJSSUV6d3IxeGdIZDAyd0J3NUNFRHVlbW4tZEhXaHFFOEZRejR0NlFkd0J5eXNlYUpqWUZGcw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T08:29+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "12홈런 친 3루수 전병우…C등급 FA로 시장 나온다 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxN0RCUEdyMVZZbnlKQVJ1U2FvMURuSFJqc0FLUnN5MUpQR3ZPNkt5SmVOWjV2SWEyVnNHVGpRaV9DUG9Ca0F1VVBFYw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-12T08:14+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"박정현에게 3루 맡기려고?\" 삼성 전병우, 한화의 3루 공백도 메울 FA 카드",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVZ1lrRVc5MERCYWhpd2tTR1VFcDVZemdkZ2MteUNCWEM5MUs0a0pwRS1tNG10emw1ekY1R01IU1lNRDZyMXc?oc=5",
+   "source": "Daum",
+   "kind": "기사",
+   "published": "2026-11-12T07:50+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성",
+    "한화"
+   ]
+  },
+  {
+   "title": "'풍요 속 빈곤' FA는 많지만 선발투수는 사실상 '제로'?...원태인, 삼성 잔류 또는 해외 진출",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40bHlwR29ReS03Q2tMSUFnSF91bHk0TGlLTERHbUV5YTZ4RmRiWEVTN3JELXEtRTZKT2QxUkx5MXpJc202eDNjd21OVFdFYkQyVFp0a19WNlNNV3hjMm9ON1l0MVJnZFFKQWkwQ1o0OFV5RVNvOHBObjhPNA?oc=5",
+   "source": "마니아타임즈",
+   "kind": "기사",
+   "published": "2026-11-12T07:42+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "“구자욱·원태인이 먼저잖아” KT 김상수, 삼성 복귀 이야기보다 앞에 놓인 내부 FA 잔류",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9acGM3WFk3WldQaFF5N0p0NGhsdVFJbzNwaGZrVjVINlNzRWI2SzZ5QXQ5eHlDSlpYczZoVnlxVndJTUozZEE?oc=5",
+   "source": "Daum",
+   "kind": "기사",
+   "published": "2026-11-12T07:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김상수"
+   ],
+   "teams": [
+    "KT",
+    "삼성"
+   ]
+  },
+  {
+   "title": "“ABS 적응기” 홍창기 FA 계약하고 바닥 친다? 출루머신은 아직 안 죽었다…돈만큼 궁금한 단장들의 선구안",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43NW5LdkduRzdoTEVteThvYkMxR0JFWkQ2OElDQ2wzLXBwU0tfVlJMdU1Ra2pnVjduNGwxMkpzTGlrLXVjMkJMSlVTUDNBYU5HczhNbHNlMkhPNlVBdkRrWA?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-12T07:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "‘차라리 해외진출이 낫다?’ 삼성, 원태인·구자욱 역대급 FA 듀오 모두 잡을 수 있을까",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXQ2UkJXVHpUeHVMeUJrNnY3ZXdHY1JaTjFKQ3NUemhIRWJhbjF0WlpuVi0tajFNT3NpbGY4eDNlVEdabWVYN1FyaHo1ZWVlVjlyVWIydDRpeFBxajdNeFZvSWh3eC11eVRiN1h2ME41RnpVakE0REdMNndTaDhRRWVpUQ?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-12T06:45+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱, 삼성 우승 MVP에서 FA 최대어로",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2MlRPdWdKSlloRVVPQ29aRFVNV18wQ0VyanhtMkI1cXp1X2tjOUpIWTlPT21mcERuZXl2XzNibl9tNDdLOWNHS21qQnhKTEJDb0FZVUJGN3RzZmhQU3dWVk9zNGQ?oc=5",
+   "source": "BNT뉴스",
+   "kind": "기사",
+   "published": "2026-11-12T05:52+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "한화와 롯데가 움직이면 FA 시장은 뜨거웠다…류지현·이동욱 취임선물 받나, '빅2' 구자욱·원태인 아니어도 좋다",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sMTFkd01aR01yQXF1MS1qTG8xVnAxWG52RVlXZE5STEFwblhmWURUQjZUWnU5V1hsdjdPWTNYOHZqS3BvcjVRMks4Z1JERFdjVUR2Z1BR?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-12T05:31+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "롯데",
+    "삼성",
+    "한화"
+   ]
+  },
+  {
+   "title": "[핌 포커스] 삼성 KS 우승 기쁨은 뒤로…FA 구자욱·원태인 잡을 수 있을까",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meW1XcXRrUGZFUlZfMzRDWVkwZmlGS3dMRXNtemFNRzZycHIxWDlvWWdPOVBnNWh5TUVyeTlrNGJxT3pZYkk0ZTRQcEViLURKSUM0RlZ1ZzlzdHUt?oc=5",
+   "source": "뉴스핌",
+   "kind": "기사",
+   "published": "2026-11-12T05:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'고우석 때문일까' LG, 박동원과 홍창기 붙잡기에 '소극적인' 이유는?...고우석 몸값도 만만치 않을 듯",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5odFJhS0pteEFjZ1hJcy1aUzRFc2RPSHctX2JhR0VLT1huMVowVzhmTEpXalU0eFgxeTNIMldySHBKWmJUdFZEbk15VFNKQTMwQmhybjVWX0s1cFJ6X3NuSjVmaHZGaU1QZGh0RzRjU0pqTVBqSnFxRlV3RQ?oc=5",
+   "source": "마니아타임즈",
+   "kind": "기사",
+   "published": "2026-11-12T05:17+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "美도 놀란 KBO '갓성비' FA 투수, 이번엔 콜로라도행? \"충분히 잘 어울릴 만한 선수\"",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlI0a3g5ejMtYkZLTmZ1dGx1R3Z1ZkhoaHdOdm1PS2RQc2NkM2phU2VDaUhBWTZGd2dNdktvVWNPUjlHZFFVYThWQjFvT21qZnpMS0c0VjNlNTRCS2VoZ25MYXRLX2FyazRnSkZ4X0QybnUyTmFUVUlQckdCTHNyS251SG01akFSSktV?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-12T04:43+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "12홈런 친 3루수가 C등급이라고? 보상금 고작 1억3500...의외의 '초대박' 터지나",
+   "url": "https://www.sportschosun.com/baseball/2026-11-11/202611120100080720007605",
+   "source": "스포츠조선",
+   "kind": "기사",
+   "published": "2026-11-12T01:07+09:00",
+   "summary": "12홈런 친 3루수, 그런데 FA C등급이라고? 보상금은 고작 1억3500만원? 2026년 KBO리그는 다 끝났다. 이제 현장이 아닌 프런트의 시간이다. 비시즌 전력 보강을 위해 10개팀이 두 팔을 걷어붙일 때가 오고 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
    "title": "야구)나는 개인적으로 놀란게..",
    "url": "https://bbs.ruliweb.com/community/board/300148/read/38813497",
    "source": "루리웹",
@@ -185,6 +1871,240 @@
    "collected": "2026-11-13T20:00+09:00",
    "players": [
     "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "“왜 시장에 안 나오지?” 타 구단 단장의 의문…'중견수 최대어' 최지훈, SSG와 잔류 협상 순조롭다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzX1l1VTZqVU5POGltU2VkQnVYVmZVRWMtSnhWbnhJRlI5QVF4WVVFU2MzZW9ZWjdHaXVoSDU4Qkdxb3JZaVAydkhCOUVYcWxHektpaGo3cW9zN0FzLTloZnYwSFlnOEJv0gFsQVVfeXFMUHpqbXVCY3c5ZEVvZ0Q1OVpKc2dCMXJrN05JMmxPWW9STEhrcl9hMk5DWmlWRlpXT3k2di1tUkJZQjRrR25uVjItSDJiaEdjZnE5bElIVHZMZ0dreXZQaWZaZFZHclhZdFhqdWla?oc=5",
+   "source": "더게이트",
+   "kind": "기사",
+   "published": "2026-11-11T16:32+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "최지훈"
+   ],
+   "teams": [
+    "SSG"
+   ]
+  },
+  {
+   "title": "KBO FA 시장 개막…박동원·김태군 등 베테랑 포수 이동 주목 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04Q0h6X1pBNDlPeWQ5X3pkQ1o0WFRiYUJNcVN0U01VTEw3dWMtcERfTXlCWGNOVUxnRXVWSXN1VWE2Tml0MVB4WUhiOA?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-11T13:53+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "박동원"
+   ],
+   "teams": [
+    "KIA",
+    "LG"
+   ]
+  },
+  {
+   "title": "FA? 해외 진출? 푸른 피 흐르면서! From 김지찬 To 원태인 “형 어디 가요…옆에 있어요” [SS시선집중]",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZM2pjTk9xVkN0ZFdUYVMyeFVEQ2Z1UFFoNFVvdWpna0ZMYi1OTERGdXBTZVNGVXlzN0hqb244OHM4QVhHcnVRU1pTLWQ1cHlYY0dCTHUwRDY?oc=5",
+   "source": "스포츠서울",
+   "kind": "기사",
+   "published": "2026-11-11T12:04+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KIA 우승포수와 호령존 동시에 잃나...김호령 김태군 FA 시장 나온다 \"다년 조건 제시했지만 시장에서 평가받겠다 한다\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02di1LLUFBM1hQbjB6bE9CMzVzSkJQdHB3V0ZRVDdtWjJEcEZvVVhDaXFpVlBYejUzSU1jUm15SzZOcC1KOEpJNnZlNVhPYVZQQlkxWjRGX2JIeFdsbEQ0c0pncFNlSlJRM3diZmZFd9IBb0FVX3lxTE02di1LLUFBM1hQbjB6bE9CMzVzSkJQdHB3V0ZRVDdtWjJEcEZvVVhDaXFpVlBYejUzSU1jUm15SzZOcC1KOEpJNnZlNVhPYVZQQlkxWjRGX2JIeFdsbEQ0c0pncFNlSlJRM3diZmZFdw?oc=5",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-11T10:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "“돈 때문에 야구 안 한다”…삼성 페덱의 잔류 희망, 구자욱·원태인과 엇갈린 행보",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3X0lzR2t1VTdFSGFTWGQ1UWd5YUREemNiMWlnWl9mVGFaSUNlOThZMm14aUFWaDVtUjJnMUg5NUxqc2t2XzBzU2lHdGlkenE2UjhhYWN2Wm5pYTlBcEJUR3pHR2VQZw?oc=5",
+   "source": "FT스포츠",
+   "kind": "기사",
+   "published": "2026-11-11T09:41+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인만 있나…최지훈·홍창기·박동원까지 'FA 대어' 즐비",
+   "url": "https://www.fnnews.com/news/202611110620595034",
+   "source": "파이낸셜뉴스",
+   "kind": "기사",
+   "published": "2026-11-11T07:20+09:00",
+   "summary": "(서울=뉴스1) 권혁준 기자 = 삼성 라이온즈의 구자욱과 원태인뿐만이 아니다. 최지훈(SSG 랜더스)부터 홍창기, 박동원(이상 LG 트윈스)까지. 올겨울 KBO리그 자유계약선수(FA) 시장에는 대어급 선수들이 다수 포진해 있어 이들의 행보에 관심이 쏠",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "박동원",
+    "홍창기",
+    "최지훈"
+   ],
+   "teams": [
+    "LG",
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 김호령 KIA 떠나 한화로…“그동안 감사했습니다”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwLTNDNXhRN2wzMjlHZnAzUEM1amlpc3MzY3F6U0djMGtWSlpLcTV1ZWp3VHljWXFIOU56ZFFfWjRIaER1QnVHV0JhWEFhdllyQlB5VmdpMVJlNkk?oc=5",
+   "source": "블로그",
+   "kind": "기사",
+   "published": "2026-11-11T06:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "한화"
+   ]
+  },
+  {
+   "title": "원태인도 구자욱도 100억원 얘기는 나오지도 않는다…삼성 둘 다 잡을 수 있나, FA 시장 역대급 과열 임박",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaUXdqTEdHdE1oWGtiV1RMdjIyazljMHZkTWJXcm5xVGNpZzNNVUhUYWQ1NU83RUtuYl9lZGotLWpiQzhxbERZTFo4MzR6Tkc3X1hvRUlR?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-11T06:11+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[소프트뱅크] 챔피언이 3년 만에 FA 시장에 참전! 모리시타 마사토 & 다카하시 코나의 동향을 조사, FA 영입 시 23년 시즌 종료 후 야마카와 호타카 이후 처음 | 퍼시픽 리그.com | 프로야구",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aR1RHMzhVaW9KdDlrdnNoVFUtc1JlY183bllLRG5WMHQ0R1VRNGJhbXdkRVhNQzlMV1didnFsV3BHcDhDSWhCNUw5ajJGOTFJRzJ1ekxCeURjZ0JPbXlR?oc=5",
+   "source": "パ・リーグ.com",
+   "kind": "기사",
+   "published": "2026-11-11T06:01+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "'팬심 부글부글' 양의지, 결국 두산 잔류? '제2의 김재환' 부담...기존 2년 42억보다 진전된 조건으로 재계약할 듯",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oamg2YUtqZkw5SE1kbEpoVmkxY191MGEteFJ4c3BRS1lSNGY0TnFQazhFUERITHpleHRqUjRsTzVWUTBsTE4zLTFtUEl6ZHViMGUtLVRiNEdET09XYnZXLTU5aWNHZmM2UUloWDIwOC0tMFM1UVJaYXI1NA?oc=5",
+   "source": "마니아타임즈",
+   "kind": "기사",
+   "published": "2026-11-11T05:57+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": [
+    "두산"
+   ]
+  },
+  {
+   "title": "[핌 포커스] 우승 문턱 좌절 KT, FA '37세 베테랑' 김상수 붙잡을까",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oaHVjSk55QXVTcFVIdXpRbktsR3NRdU5BeTRoMGhpQjlxWFNrTUlqTnZwYUYwbzdPN2JOT2RYa0tCTk54cDZNclBnUTlyTjBwNWpkbkJLekdYY241?oc=5",
+   "source": "뉴스핌",
+   "kind": "기사",
+   "published": "2026-11-11T05:41+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김상수"
+   ],
+   "teams": [
+    "KT"
+   ]
+  },
+  {
+   "title": "175억! SK가 '질렀던' 그 금액, 삼성이 가볍게 제친다?…구자욱-원태인 FA에 얼마까지 쓸 수 있나",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wTFpOUUZvWm5zMGhyY0t3SVZSUGprV1lGa0x3enNUdW1BQW9SUlFRVTg0a1B2ZGFONXV4elMyZnZHWVFsbS1rWHdJUnMtSDNmSXNjWTJ3?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-11T04:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "축제 끝나고 ‘겨울 야구’… 몸값 치솟는 원태인·구자욱",
+   "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/11/20261111035001",
+   "source": "서울신문",
+   "kind": "기사",
+   "published": "2026-11-11T02:01+09:00",
+   "summary": "KBO가 FA 자격선수를 공시하면서 2027시즌을 향한 스토브리그가 본격화됐다. 최대 관심은 삼성 우승 주역 원태인과 구자욱의 잔류 여부다. 삼성은 연봉 지출과 샐러리캡 부담이 커 둘을 모두 붙잡기 쉽지 않고, 원태인은 해외 진출 가능성도 거론된다. ",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 예상 몸값 200억 상회하나… ‘모두의 구자욱’ 게임, 역대급 전쟁 시작된다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03YklRY1dPYlpJN04zN1N4eWZkdzk2dldUTExqT3puUzNKOTh4UlRBaFduQl9YOGNycFBNT05NMkd2RDF4dWJzdnhfM3B5c19QM0xzdUtmeG1lQVAwLUpkV2owanlHOFQ0QW5mQllWcFQ?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-11T01:10+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
     "구자욱"
    ],
    "teams": [
@@ -206,20 +2126,401 @@
    "teams": []
   },
   {
-   "title": "175억! SK가 '질렀던' 그 금액, 삼성이 가볍게 제친다?…구자욱-원태인 FA에 얼마까지 쓸 수 있나",
-   "url": "https://www.xportsnews.com/article/2218065",
-   "source": "엑스포츠뉴스",
+   "title": "삼성, 이제는 내부 ‘머니 게임’…구자욱·원태인 FA 계약 주목",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRbWxCS00wdnRweEZnN2pER2VrMFB0cWgyT2o3VGI3Tlo1Z21sQTFpa1FEYlBSUVdBTTd1TGpaaHpxRk4tbGJZM2RzdjR5YjRFbVFzMkx0TEREMktOelNJ?oc=5",
+   "source": "경향신문",
    "kind": "기사",
-   "published": "2026-11-10T00:00+09:00",
-   "summary": "KS 우승 직후 삼성이 원태인·구자욱 둘 다 잡으려면 250억 이상 필요하다는 전망과 샐러리캡·래리버드 룰 변수를 정리.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
+   "published": "2026-11-10T20:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "김호령만 FA인가, KIA 이 선수도 잡아야 한다…한준수 성장해서 괜찮다고? 천만의 말씀 만만의 콩떡",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rel9ZbHBkMUJEUEtYVHREc0d6cVBIaTFMWTYtX1g4eWlWejhreHNhR2s2WkttRjZocklKdElKRWY0UnloWTU5dVVMdG9MV2VpUHdPSGp3OHJ6d1RjQ0JCMw?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-10T20:03+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "'대어 집합' 2027 KBO FA 예상 명단·일정은?",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192315",
+   "source": "금강일보",
+   "kind": "기사",
+   "published": "2026-11-10T17:43+09:00",
+   "summary": "2027 KBO리그 자유계약선수(FA) 시장을 앞두고 주요 선수들의 거취에 야구팬들의 관심이 쏠리고 있다. 구자욱과 원태인(이상 삼성 라이온즈), 홍창기(LG 트윈스), 양의지(두산 베어스) 등 각 구단을 대표하는 선수들이 FA 시장에서 주목받는 이름",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
    "players": [
     "원태인",
     "구자욱",
-    "이재원"
+    "홍창기",
+    "양의지"
    ],
+   "teams": [
+    "LG",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 나서게 된 김호령·김태군+내야 재편까지···KIA의 복잡한 겨울",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MeGlsMDdfTXZuQk5WN0ZQblE4NnBseUtSSnNzVV9kNjUwaDlZX2lZNDFfX0VVUEdPRUt5Y1VScFNITGhzZGx0LWFhSGlyWTZYN1Uw?oc=5",
+   "source": "무등일보",
+   "kind": "기사",
+   "published": "2026-11-10T17:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teDFVT2o3MWRxMFZORF9UamxRakJyZ0hlY3JMNXlCcC10ck9JLXp0NzhPUTJBYklBQTZSeGt5UDZOa19YbFpNbEtmUjE4UTEwVm5OWEMySHJjZ9IBX0FVX3lxTFBQVWNMQ285dU9GUEFvZEZkaVIzUEZWbWNnSFNDYTNRWk5aUVI0RGZTRnN4SWNBYjF2XzBrbzRUa2N5OWxSblptUFdfTmFqSV9qNnFweWxSamhTcWlOTW93?oc=5",
+   "source": "경향신문",
+   "kind": "기사",
+   "published": "2026-11-10T16:56+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "축포 터뜨린 삼성, 이제 ‘머니 게임’이 시작된다…다년 계약 성사 못 했던 구자욱과 원태인, FA 계약에는 얼마...",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42Yk9wcDlPR19lenhpem9fU2JEMmdfQWRYSnY1eDdybVA5OWZ1LXdYQUNFVDZubDQ3WWh1MFdUQmtzQ3FUQzJldDY2UFlzTzU2MW5WMkJzMnU5Sy1hT0HSAWNBVV95cUxQZ0hIb0xyZHkyY2ZzMlZ4Z0JZek9aVlVETUhGVmVEZHdrcGRrNHhUU1d4ZkhGWjgzLWViX3RFaUs3YVVDZUJBX0RjVUZRdzJOT0dKTEdvLUVBRzNxbm0tVWNoZ1k?oc=5",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-11-10T16:28+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 구자욱, 우승 뒤 손편지에 ‘마지막 기회’…FA 거취 주목",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDTndVaWlaTDVYc1pIT2xTajJwRFhQNmVMWHNabDlkSmlBd0luMkxoVmotWmx5QVhBSTRQUjhEX1ByVG82UWZVOEJiMWtLZWw1S0IzVXQ2X2paVHc5WGJabXhaaGkyZw?oc=5",
+   "source": "싱글리스트",
+   "kind": "기사",
+   "published": "2026-11-10T15:14+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO FA 시장 대어 구자욱, 삼성 우승으로 영입전 비상 사태",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSmdNbFVtbkhteGs4WkFtcFczQWN2emdMaXRNMjJpU0Y1dWg3V2p5THBzX0ozYXJpb1dXU3V3eC1nSlotSGNBSF8tcXBiN2JIWlBDaUdFbTY4clVmVzMxWWJYNmZ5QQ?oc=5",
+   "source": "FT스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T14:40+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'푸른피' 구자욱·원태인, FA로...삼성, 다 잡을 수 있을까? [자막뉴스]",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oUnpMMlc3X0tEam14NkpzbVV4Uk8wbkFWY0F3cHVnb2tORzZlYVdXVzB2aG4tWERyZUYteU1hOXNVZUd2clUxNHY5VW45WlM0UHVKUFFQbnRKeWtnd2c?oc=5",
+   "source": "YTN",
+   "kind": "기사",
+   "published": "2026-11-10T14:39+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성은 FA 구자욱, 원태인 잡을 수 있을까",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eUQtanJPYnFMMVlwWGtsak9IRzBPQk1LWTVFWFdURkpMbUc2d1lVTzVEME1KYlh1NVRHUFMxT0I1X1R0UGhabjFvUFRkbjdoczVpdHFqYi1UYUJodm5IeEJya01abmNuckZteHBKc1JQc2NvTEE3Q0pmelBQdw?oc=5",
+   "source": "오마이스타",
+   "kind": "기사",
+   "published": "2026-11-10T13:49+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 5이닝 호투 속 삼성 우승…박진만 FA 잔류 기대 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSlA1TWladDZCQ1M1VEtFTUNseW9ZX2hFZ1pSMTdGUWhfLTFJbW9oUFZQay0ySy11YmJYU2xSSC1ueUxabE1UTVphcw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-10T13:44+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "축제의 시간은 끝…다시 우승 위해 칼 가는 야구계. 시작은 FA 영입전",
+   "url": "https://www.seoul.co.kr/news/sport/2026/11/10/20261110500157",
+   "source": "서울신문",
+   "kind": "기사",
+   "published": "2026-11-10T13:27+09:00",
+   "summary": "프로야구가 끝나자마자 스토브리그가 본격화됐다. 다음 주 FA 시장이 열리며 삼성 원태인과 구자욱의 잔류 여부가 최대 관심사로 떠올랐다. LG는 외국인 투수 벡을 먼저 영입했고, MLB 직장폐쇄 가능성까지 겹치며 구단들의 외국인 선수 확보 경쟁도 빨라지",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "[★베이스볼] 푸른 피의 에이스! 원태인 퍼스널컬러 바뀌나? 우승과 동시에 FA 핵돌풍",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80d3RXS3lzUVlSOXdwLTUtdk4wQnpVLWt3RHNlMGZlelVOQUFNbk9uSFNNWmYxVXJOTWJKUjBfdFBTNWdLVU1xOWhMSmktQ0U0VWlaVGx4X0RHZlhOcTNfRzNVWnNXVzc0aUpDeVFfYktJLWxTcHc?oc=5",
+   "source": "스타뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T13:21+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"푸른 유니폼 입는 마지막일수도\" 우승 캡틴 구자욱, 팬들에 절절한 손편지 고백... '대형 FA' 의미심장 메시지도 남겼다",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Qc29OS0xUUmdlRGZlSGNrb2V3RkhBZHh4SkZLQ3BxQWJvR2Q1Q2h0eF9icDJUazNHcm1Gcm5FQ0l1cWw5MzQwR2w4X3IyRjRINGxxUTdFSVpqZjBTaVF1b19JaTdXZXVVaHN4YXNxN1pIRmhvVkE?oc=5",
+   "source": "스타뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T12:38+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[IS 포커스] 최소 두 번의 손짓에도 고개 저었다…김호령, FA 시장서 새 둥지 찾나",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04YXBobFVSamF1eHp0MmRvbVFWUkVNUEhlZ2txb0NKZlpDeVA1V0Y3UG5BVU9OODVHQ1pPZkthR0xfbll1YUIyOXNWSkhMem5nSDZCTkVkM1R2alU?oc=5",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T11:57+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "구자욱 자필 편지 \"푸른 유니폼 입고 맞이하는 마지막 기회일 수도\"…삼성 우승 후 FA 대어로",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13eHZxVXlaMndVMlRfUWVpZkJMT3FfRkhRR0w1YXdhMEZYN2Z2cDBYMVVMcjRpeG00d2xpZUhEano4emxIWDVHZmhYYUVUUmswRnI4UkYwUDM1MTZZMl9feGtR?oc=5",
+   "source": "매일신문",
+   "kind": "기사",
+   "published": "2026-11-10T11:36+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘우승 프리미엄’ 제대로 누린 FA들…구자욱·원태인 얼마 받을까 [머니볼]",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWW9mWDhib3B4SjJnbHdJV0ZOMnJ6M0pIQ1pvRndOUm9XTzBpSjVxRG9HZ1FnT2htSXZ5VGtUM0xGWnIzMVVYclRwN2M3bjRTdTA5TWFRNU81RXlPQWFSSkNtbjBpTVYtdnF3dzduYUx2UVQ1VUphcFlmSkZBNENsQjVteUxNYmtJaE5rVUtOUEx5ZHJSeExSMWZjcWg4S1d5UmpiTTJ0LTNWZEYyeWFuUTEyUzF2dzFabGhOWXZBZ0wtR0lqRUkxMVFZWkdZYWhDWWY1ZmtoUG5vOENuS2tkaWpWWk1mNUlreE94TDZSRG1KX3Rrb3V1LWJ5dFUtd25sTm1yTU1kdGNEaGRWc3c?oc=5",
+   "source": "데일리안",
+   "kind": "기사",
+   "published": "2026-11-10T11:17+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "최지훈 SSG 잔류? 그러면 김호령 FA 가치 급상승하나…트중박과 호령존의 증명, 그런데 마무리가 찜찜",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tNFlMZGNXN0xFQnhNUXIzYU00aGFmNGFCVkp3SjZ5M2FWTGJjeFVZUHRUdF96Wk1ZT0NiZENENUlZQzJ3YmFZanRQeTR4Mmw2VEFBZ0NqRE80TFdkVm42Vw?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-10T11:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령",
+    "최지훈"
+   ],
+   "teams": [
+    "KIA",
+    "SSG"
+   ]
+  },
+  {
+   "title": "“아버지가 민주당 후보 지지했으니 광주로?”…삼성 구자욱 FA에 등장한 뜻밖의 농담",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9leVh6a1pIRFRNZTRKZng0ZDB1elZLQXYyZkpZUk1VcEJlMU05d3VCUU1EUHZlaXhUZVdabUNEdm5pMTYwUURnbjBmX2oyQ1NNcU0tVTdGV0hSMDZzcEdnc2w5ZXlDOWJRZUhIVjJmbw?oc=5",
+   "source": "진일보 | 전남일보",
+   "kind": "기사",
+   "published": "2026-11-10T10:54+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "LG 송찬의 \"FA 홍창기, 같이 훈련하자니 웃기만 하네요\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZUhnaUFsUUdYaUwwNGZLUTZOelMyREZ1bWRkUVAxNDRUdDhER1hQeWRuM002XzN2REdCNjZSM3Q3Z201QzVMR1JjalRPSmVEakQ1b0l0MXg4X28?oc=5",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-10T10:48+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "홍창기"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "'충격 9위' KIA 특단의 조치 내리나…구자욱 불가? FA 못 사면 또 1년 고생한다",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53cDYyZ0xZYXVQZDI1enZ0eDh5YWhGT1VJTzVvQ184dXlSQlhkQkxPMEpWY09DY3Q2eTVGcXI0SWlHQ2lBd19HOVJKOFloSnBiWllneGVkeUZNalg5bWs1VmdZVlVQZ3NxcVhVdmNPMzF1Ri1CZVBaV2J3bV9GUQ?oc=5",
+   "source": "스포츠조선",
+   "kind": "기사",
+   "published": "2026-11-10T07:25+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "'가긴 어딜가!' 삼성, 원태인과 야마모토식 계약?...노시환 307억은 기준일 뿐",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43TFlXVVJINVZVXzcyeEpCM3RaTHc5V0Z4NHNaU29UcDFNOVgtSDM2TXA4Qnp0NUc3RDdNaDhQTzNvQzNjdmV1djFXMnZVTFMzNzczQkV3cEMxVERGRUMzVlVqdWdob3dPTk1TVjh4MUVsZk10d3E0U0wyQQ?oc=5",
+   "source": "마니아타임즈",
+   "kind": "기사",
+   "published": "2026-11-10T06:39+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO 악법이었는데…FA 계약 마감일이 웬말인가, ML 파격 제안에 선수들 75% 반대 \"중간급에게 악용\"",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakFHYzZhdXQtSFFCZDNHYmYwZGZCZzhTWXY4cjRHN3JfOHlTU0N5WU9SaEpGWXVucHVWY0VPTURxbkhKQ2tsai00akdla3FNUHJVU1hFemdqU2ZHN2lKMXRGcktKOEZJYWFEX2tZQ0pERWlNUHFJVklBb3pWS1FCUjRxMUFxZWJ6SU8w?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-10T05:34+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
    "teams": []
+  },
+  {
+   "title": "\"MLB 가도 선발은 어렵다\" 원태인, 해외 진출 꿈꾸며 FA 시장 나서는데…美 기자 냉정 평가 \"결국 삼성으로 돌아올 가능성 높아\"",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03aE13YVVMVDdZLWFqb2JKNGxieldTMS1JanZfX2cyQnktdFpKeHJId1Q4M1BfZndab3MwXzFJVHRFeFY4S0lodk45RjB2UzM2Vy1FWg?oc=5",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-10T01:44+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
   },
   {
    "title": "\"MLB 가도 선발은 어렵다\" 원태인, 해외 진출 꿈꾸며 FA 시장 나서는데…",
@@ -245,23 +2546,6 @@
    "via": "claude_seed",
    "collected": "2026-11-13T20:00+09:00",
    "players": [
-    "구자욱"
-   ],
-   "teams": []
-  },
-  {
-   "title": "[IS 포커스] 최소 두 번의 손짓에도 고개 저었다…김호령, FA 시장서 새 둥지 찾나",
-   "url": "https://isplus.com/article/view/isp202611100065",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-10T00:00+09:00",
-   "summary": "이번 FA 시장에서 관심을 끌 외야수 중 하나로 이름이 거론됨.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "홍창기",
-    "김호령",
-    "최지훈",
     "구자욱"
    ],
    "teams": []
@@ -300,23 +2584,6 @@
    ]
   },
   {
-   "title": "LG 송찬의 \"FA 홍창기, 같이 훈련하자니 웃기만 하네요\"",
-   "url": "https://isplus.com/article/view/isp202611100036",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-10T00:00+09:00",
-   "summary": "첫 FA를 맞은 홍창기에게 동료들이 잔류를 권하지만, 박동원까지 FA인 LG는 샐러리캡 부담으로 고민이 크다는 내용.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "홍창기",
-    "박동원"
-   ],
-   "teams": [
-    "LG"
-   ]
-  },
-  {
    "title": "얼마가 들까? 원태인-구자욱 둘 다 잡으려면",
    "url": "https://sports.khan.co.kr/article/202611102200006/",
    "source": "스포츠경향",
@@ -334,26 +2601,368 @@
    ]
   },
   {
+   "title": "“삼성의 피가 흐르는 선수들이기 때문에…” 박진만 KS 2연패 자신감, 그런데 ‘FA 빅2’ 원태인·구자욱 심상치 않다[MD대구]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuSHpmLVFEUXprYTVxV2RqQTNWdVphLXE3dzMzaDRFVW85dzhhTVRPNkVPY1JpRTJTOFpXaXZ6dUdzSC1OcHl0VWhVRm5XeUttd0kydW5NSGFWRTVqZDBUcA?oc=5",
+   "source": "마이데일리",
+   "kind": "기사",
+   "published": "2026-11-09T22:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'부상 투혼→KS MVP' 구자욱... FA 대박 보인다",
+   "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003283243",
+   "source": "오마이스타",
+   "kind": "기사",
+   "published": "2026-11-09T18:27+09:00",
+   "summary": "2015년 가을, 정규시즌 5연패를 달성한 삼성 라이온즈의 막내로 생애 첫 한국시리즈 무대에 섰던 구자욱은 삼성 왕조가 무너지는 그 순간을 그라운드 안에서 직접 겪었다. 그리고 2024년에는 플레이오프에서 무릎을 다치는 바람에 팀의 한국 ...",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "12년 만의 삼성 ‘우승 합작’ 구자욱-원태인, FA 대박의 계절이 온다",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbGlqRHpNdmw1TTZVdVlLcHNFVXViSXdpWllGOHZNVDdSRzlINzhqdWNHUUk0VUdBV05PdXkySjF5N3FsOUdXZTNuWXI0LS1KRW1ja3lnYzFEeVR6enNDdkw4MUtBMlNwc0JibE4tN3FMbUg30gFmQVVfeXFMTjJ6V1dhX2VlMGtiSlJUaUtPcVNLZV90MTRZX0g1b2VPd0xwQ0JCemxoaTlWdTRZYnFqN0tDOVVYVGZIREtwaGMtY2x0RXNwYUh0UG5YclRXcjlxcktWTzBXV1dYNlhB?oc=5",
+   "source": "동아일보",
+   "kind": "기사",
+   "published": "2026-11-09T15:59+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"나도 미국에 꼭 가고 싶다\" 구자욱도 ML행 도전하나…하필 투타 기둥이 FA 임박, 삼성 왕조건설 갈림길에 섰다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNHpiUjk2MmxreWZvX09XRXYzamxoRGg4eGZhNW9xNWpvd3pyTFNBSVVhZzViZ3Z5RU5mVWdjTF8wSUhZNFU0aXgtQ01jdUhsR0RxbjlCbW1TWkNhLXdNZTYtMUFELVpRRm9BekJpcGw?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-09T15:20+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인 남느냐 떠나느냐…KBO FA시장 ‘앗 뜨거’",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRSlI5UUZ2NmxQcURWdmJLNmZHMkx1eWJUVXM5M0VSTzQ4akxpMzBxWXdCWElWbjBiY2M0Q2pvRk5zUTlCakdlQW9XODVITDdvdUHSAVNBVV95cUxQVE5ZbkxDZzdHMC1BYTVJdy0zeE1WT2RTVVRVdk44Nl8zamxLVEFXdjlkV0laVXd2b1FvcWNWcTR4Nk1MSWVleGszZXNYa3BGT3lCYw?oc=5",
+   "source": "서울경제",
+   "kind": "기사",
+   "published": "2026-11-09T14:42+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 우승 주역 구자욱·원태인 FA자격, 유쾌한 도전",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3447079",
+   "source": "천지일보",
+   "kind": "기사",
+   "published": "2026-11-09T13:12+09:00",
+   "summary": "[천지일보=강태산 기자] 삼성 라이온즈를 12년 만의 한국시리즈 우승으로 이끈 구자욱(33)과 원태인(26)이 FA 시장을 향한 속내를 털어놨다.삼성은 8일 대구 삼성라이온즈파크에서 열린 kt wiz와의 한국시리즈 5차전에서 12-1로 이겨 시리즈 전",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘100조’ 벌었다는데 얼마를 줘야 하나…구자욱·원태인 “사장님 믿습니다” FA 시장 요동칠까",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRWJsakNnM21xeTA5TkhGQ0trVG8xNkpzZy0wNHV0aTdSVmRfOTlLcnlmMUhJSTQtMkJvYU1iMFRmZlpGSGNUTUZ4c2d1V2RWYlhpbm5RZWNzb2dkSjNZc3ZtdXZRckhEeG10UkJYZ21sajNFaEVGOA?oc=5",
+   "source": "서울신문",
+   "kind": "기사",
+   "published": "2026-11-09T11:51+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 연봉, 정말 억 소리 난다… FA 몸값 전망까지 살펴봤더니",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRURKT3lWbTY5ZGhJWVFnNEFmU01MM1FhSTV3Sk8tTnBGeDVSRHd6eV85cjJhM01tZHl0QXR6TjJxSkxuV1JCX29ob3FENXlCTjVNT05n?oc=5",
+   "source": "위키트리",
+   "kind": "기사",
+   "published": "2026-11-09T11:23+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "FA 구자욱에 군침 흘리던 구단들 초비상...삼성 우승 해버렸네, 어떻게 데려오나",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd3lNOERjU0laVFRxWEtadEx3Sk4xUl9IS3ZTellPUzktcElyRnhDV1RNd2FNMGhNRGhEZnNVRUJFdXBXYnVhQVFaNkVERkwtN2YxZnVVc2toTHdHSkRab0Nab3dKT1d3OEhxUUNWUzJMWVpiY1daZ2xRcmhyam4zWFp4Zw?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-09T11:18+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘대어’ 구자욱·원태인에 수비형 외야수까지…FA 시장 판 커진다",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81U19ISFRQRGdJdnpLRzlsdU4xOGtZeE80c0puQ0dwbU1SR0ZaNnFqZkY1cGV4NEFUc2dtNXJGeTczcVlwMFhTVnpIblZ2SFk4OG1odjdxQXpTREVCbHVyYTdWeVREYjZKaUhfcjBXaEc5VzRuM1ZmdXhwc9IBf0FVX3lxTE10VG93cDByRlhaaTJqWHNucjR4RGQtWU1KTUYtU1RWV1BVNDlMSVRNTzcydEs0Um14a25uYTVQUDNUMXpRWEY2Sy10OGJ2ZEwzMXo4aUp5cThsT0JlNVZodXV5LWxaTVM0ajdMR2dwMW1iY25HajFTSXFRdWhaelU?oc=5",
+   "source": "데일리스포츠한국",
+   "kind": "기사",
+   "published": "2026-11-09T11:08+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱·원태인 동시 FA…스토브리그 최대 관심사 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3N1g0aEZuZ3JsR1lTajFQcWk3dTVvMHdIazVzam1OZkdlWlNFSXI0Nm9RdjhXc3ozbDhxZFk5X0FoZXJBX21jcFpQVQ?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-09T10:24+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 잔류냐, 해외 도전이냐…왕조 부활 이끈 원태인·구자욱의 '행복한 FA 겨울'",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SQ1Q3YUR5cG1iWTkwb1V1RHlndW9VZUJkRGJHcWUzVE9TcU5pNnZraC1tT3FkYnQ5WmtIUHl4QUloZFJrMjhPVFQ0T3lBOGpuV2c?oc=5",
+   "source": "노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-09T10:20+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 우승 이끈 원태인·구자욱, FA 대박 예고…해외 진출 가능성까지 열었다",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91b1dJUTM4NUJKYlMxMjRBUTdmc1ZjV0hUNk1jQ3FaN1NPZXpyRTFJc3Zyc01SQ1pfTFIxcmV2YzVLUUdZSWtQeW1vSHl2RzlJNnFObTREUDllcGJrMnI4dg?oc=5",
+   "source": "TSN KOREA",
+   "kind": "기사",
+   "published": "2026-11-09T10:14+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'우승 합작 FA' 원태인·구자욱, 따뜻한 겨울이 온다",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sckp3MEREMTdpQV95WlV2cUZfdXp2MlFiNXhpOGVuTGJuNDlmdkFXV3cwZXJGME52S1NTTFI3eS1DYjdpekZkamR3OXdzbW9fcHJmZkV1RQ?oc=5",
+   "source": "뉴스1",
+   "kind": "기사",
+   "published": "2026-11-09T09:51+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[IS 이슈] \"양의지 152억 깬다\" KS 우승에 MVP까지…타격왕 구자욱, FA 역대 최고액 정조준",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90M2JkT3h2bkduUGppSXVkU0JqUHE1LWhPdVVnTkc0TkpzV2x1Y3Vhb1hiYklGTkUwMGRuV2NqdU1QbWcyb3NxM19qVHYxZ2M0RWNaMG1LOHRqRGs?oc=5",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-09T09:17+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "구자욱",
+    "양의지"
+   ],
+   "teams": [
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "김호령 FA 이적 가능성, 머뭇거렸던 이범호… 대안은 하나다, 쇼케이스까지 시작된다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWlg1b1paQzJSYUZMZ25LMjdya1J4TmVVWTFFMlljVGdUbW5Yd1p5M1pleEJRUXBTSmh6TmlqUTlyTG9lZkNwRnRYdjVDV3FGWERERGNnMDhQMms1R3Y2M1BfRVpvVzV1b2ZVakdXaXI?oc=5",
+   "source": "SPOTV NEWS",
+   "kind": "기사",
+   "published": "2026-11-09T08:30+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "삼성 우승 이끈 구자욱·원태인, FA 시장에 도전장 : 스포츠",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CRkZZXzRtYkN5dkI3UmhmY09jM0JidXJNYU5fTjZPcVZnbTkxREJEUjB0RFlUcmt5VWZaa2o0X0NGQWgzcmo2R09Cbw?oc=5",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-09T07:52+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "우승 주역 FA 원태인·구자욱 \"우승했으니 기대할게요\"",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYTFJM3lYOEg0R2RXZXJRSy1IRVJZZjJwZUJzLU1ScnVsNDB2WFliM1NUSzk3dWpCZWpmamJhZWJ5dEVqeXNrMldtZXYxQjd1TE51S2VkcmJ4dmYwUWtSVVhWT25yaVRaNUE?oc=5",
+   "source": "SBS 뉴스",
+   "kind": "기사",
+   "published": "2026-11-09T07:15+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "우승 약속 지킨 구자욱·원태인 \"사장님, 좋은 계약서 기대해요\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TdHZBM215VnRQc1NUNkFXb3lmVm5OX1VPMGoxSlFHRk9BaTJHWW1VQjBSbXNjeHlCSm52QXdSWjNYeGZTcE1iOUdCd25RTDR5MHlpbzBnbVU2SWd0ZHhiTNIBYEFVX3lxTE9TdHZBM215VnRQc1NUNkFXb3lmVm5OX1VPMGoxSlFHRk9BaTJHWW1VQjBSbXNjeHlCSm52QXdSWjNYeGZTcE1iOUdCd25RTDR5MHlpbzBnbVU2SWd0ZHhiTA?oc=5",
+   "source": "연합뉴스",
+   "kind": "기사",
+   "published": "2026-11-09T07:00+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'FA 빅2' 원태인·구자욱, 삼성에 남는다는 빈말 안 했다…포수·중견수 연쇄이동? 100억→200억→300억 '쩐의 전쟁 스타트'[MD대구]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Y0JLT2V5TXhBNjhBcWgwRTFkZWktTzNQTW1UZ1lRaTM0SnE5VjlWQVRJQm9iTlM0UnZIMmZvUEE1czlaaHg1SUhCYUFZX0NCU2g1OHZ3?oc=5",
+   "source": "네이트",
+   "kind": "기사",
+   "published": "2026-11-09T06:11+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "2027 프로야구 FA 명단…원태인 LG·양의지 KIA 가능성 : 네이버 블로그",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbGlmNzBING9fSTRkZmdjM08wdXhZWGkzTDNhV3JBaHhvMW9SaTZKSFl3RVNQU0N5NkNXc25xOEt1WEQxamFxenJsZm0zdlNFS2ZxSGRDVWk?oc=5",
+   "source": "Naver Blog",
+   "kind": "기사",
+   "published": "2026-11-09T04:37+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "양의지"
+   ],
+   "teams": [
+    "KIA",
+    "LG",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
    "title": "타격왕→KS MVP...주가 전고점 예고한 구자욱 \"나도 설렌다\"",
    "url": "https://isplus.com/article/view/isp202611080423",
    "source": "일간스포츠",
    "kind": "기사",
    "published": "2026-11-09T00:00+09:00",
    "summary": "KS 타율 5할로 MVP를 받으며 12년 만의 우승을 이끌었고, 타 구단 관심 속 FA 시장에 나선다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": []
-  },
-  {
-   "title": "구자욱 연봉, 정말 억 소리 난다… FA 몸값 전망까지 살펴봤더니",
-   "url": "https://www.wikitree.co.kr/articles/1173016",
-   "source": "위키트리",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "최소 두 구단이 영입을 준비 중이라는 얘기와 200억 가능성 소문을 전함.",
    "via": "claude_seed",
    "collected": "2026-11-13T20:00+09:00",
    "players": [
@@ -396,42 +3005,6 @@
    ]
   },
   {
-   "title": "삼성 잔류냐, 해외 도전이냐…왕조 부활 이끈 원태인·구자욱의 '행복한 FA 겨울'",
-   "url": "https://www.nocutnews.co.kr/news/6603864",
-   "source": "CBS노컷뉴스",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "박진만 감독은 두 선수 잔류를 기대했고, 구자욱의 5년 120억 비FA 계약 만료와 원태인이 들은 구단의 보상 약속이 함께 정리됨.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "[IS 이슈] \"양의지 152억 깬다\" KS 우승에 MVP까지…타격왕 구자욱, FA 역대 최고액 정조준",
-   "url": "https://isplus.com/article/view/isp202611090034",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "타격왕·KS MVP 구자욱이 FA 역대 최고액(양의지 152억) 경신 후보로 거론되며, 원태인과 누가 먼저 계약하느냐가 기준점이 될 것으로 봄.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱",
-    "원태인",
-    "양의지"
-   ],
-   "teams": [
-    "삼성",
-    "두산"
-   ]
-  },
-  {
    "title": "[삼성 V9 ④] '이제 단장의 시간' 박석민·최형우·차우찬 놓쳤던 삼성의 암흑기, 구자욱·원태인은?",
    "url": "https://isplus.com/article/view/isp202611090009",
    "source": "일간스포츠",
@@ -464,6 +3037,89 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "\"FA 구자욱+원태인 잡을 수 있나요?\" 박진만 감독이 직접 답했다 \"푸른 피가 흐르는 선수들이라…\" [KS5 승장]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3NELVVLMHAxVS1WOGN4XzlEbldudzk2QmVOSHVEcE56SV9pV091MlIxSkdaLTlDRUJYWWhOeFdpNndRcGc1N0pEakppZFIyOVNvVEFXclFabS1KWE5LWXduVlFPMVJRVjlrVTRSTjVHTHFOdW1QUFZnVUNKSUJONWlzOA?oc=5",
+   "source": "조선일보",
+   "kind": "기사",
+   "published": "2026-11-08T20:42+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "\"삼성 왕조는 이제부터 시작\"…우승 약속 지킨 원태인, FA 앞두고 던진 한마디",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96YjRHU1VjNk1wOGkwa2wyZGM1SzZiNjBvOElNaWliWnJnYnExWlVEcU8zY3VVYlRiWGdTMGRXUjFwNHBvbzZJSm1MeUQ4M21jVWdBNTNSb1VlSDQ?oc=5",
+   "source": "일간스포츠",
+   "kind": "기사",
+   "published": "2026-11-08T18:05+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "“우승시켜 드렸으니 좋은 계약서 주시겠죠?” 12년 만의 왕조 재건 이끈 원태인, 이제 FA 대박 기대한다 [KS5]",
+   "url": "https://www.koreadaily.com/article/20261108074115310",
+   "source": "미주중앙일보",
+   "kind": "기사",
+   "published": "2026-11-08T08:40+09:00",
+   "summary": "“이제야 했다. 입단 때 약속을 늦게 지킨 것 같아 죄송한 마음이 있다. 그래도 한 게 어딘가”. 2019년 프로 데뷔 당시 삼성 왕조의 재건을 다짐했던 ‘푸른 피의 에이스’ 원태인이 마침내 그 약속을 지켰다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "김태군도 김호령도 FA 시장 나간다…KIA, 내년 센터라인 얼굴 모두 바뀌나",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tSzZSNmtua2RBcWFyMVdYY1J3Ty11M3Npc0I0UTNqalhqdHRVMUZVd0x1WFJ5RDlIejlSVkFqdEIwU2t6VVIxSVdEdHdaUXdCc1JMSnlnXzFQUEVnYzktc0tnaw?oc=5",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-08T05:42+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "[단독]’김호령 이어’ 김태군도 FA 시장 나온다…경험치 얼마나 인정받을 수 있을지 관건",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fNkxmeGxGalczLVZ2aG1BVWdFYU1scUtFcXFnUVpWTVhCN3RRLVRKVzQ3WldKSnQtczFFVXRGd3VjY1J1UGw2anMtWWYxT0kxX3prSlRmNjlJb0FWUU95ZkVVYw?oc=5",
+   "source": "MHN스포츠",
+   "kind": "기사",
+   "published": "2026-11-07T11:10+09:00",
+   "summary": "",
+   "via": "google_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [
+    "김태군",
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
    ]
   },
   {
@@ -1681,24 +4337,6 @@
    "teams": []
   },
   {
-   "title": "전력 누수 불가피한 한화…'강백호 보상선수'에 쏠린 눈",
-   "url": "https://mobile.newsis.com/view/NISX20251124_0003413690",
-   "source": "뉴시스",
-   "kind": "기사",
-   "published": "2025-11-24T00:00+09:00",
-   "summary": "강백호 보상선수 후보로 '내년 FA'인 박상원·한승혁 등이 거론됨(이후 한승혁이 KT로 이적).",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "박상원",
-    "한승혁"
-   ],
-   "teams": [
-    "한화",
-    "KT"
-   ]
-  },
-  {
    "title": "한화 포수 세대 교체 신호탄 쐈다, 이재원 은퇴 유력했는데…플레잉코치 선임 \"지도자로서 자질 높이 평가\"",
    "url": "https://osen.co.kr/article/G1112694923",
    "source": "OSEN",
@@ -1710,6 +4348,18 @@
    "players": [
     "이재원"
    ],
+   "teams": []
+  },
+  {
+   "title": "FA 신청 선수 21명 승인, 9일부터 팀당 최대 3명 계약 가능…9명 FA 포기, 김재환도 신청하지 않았다",
+   "url": "https://www.mt.co.kr/sports/2025/11/08/202511081400779791O",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2025-11-08T15:06+09:00",
+   "summary": "[OSEN=이상학 기자] 2026년 프로야구 FA 승인 선수 명단이 공시됐다. 총 21명으로 팀당 최대 3명까지 영입 가능하다. KBO는 8일 2026년 FA 자격 선수로 공시된 30명 중 FA 승인 선수 21명의 명단을 공시했다.",
+   "via": "bing_news",
+   "collected": "2026-11-13T21:00+09:00",
+   "players": [],
    "teams": []
   },
   {
