@@ -1,14 +1,106 @@
 {
- "updated": "2026-11-14T04:01+09:00",
- "count": 319,
- "added": 51,
+ "updated": "2026-11-14T09:19+09:00",
+ "count": 330,
+ "added": 31,
  "naver": false,
- "errors": [
-  "bing \"김호령\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"최지훈\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"박상원\" FA: not well-formed (invalid token): line 1, column 41"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "구자욱 미국가면 내년 외야 주전은",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271954",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T08:29+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "만일 구자욱 해외가면 다른 FA잡을 폭이 넒어짐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271927",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T08:05+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱은 우승도 했겠다 어차피 수수료도 실제 협상시 발생해서",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271907",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T07:37+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "뉴비) 구자욱은 메이저 갔다오면 많이는 못받지?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271874",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T06:17+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱은 메이저평가보면 못갈 것 같음",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271863",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T05:23+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 해외가면 타격 크겠지?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271840",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-14T04:02+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
   {
    "title": "구자욱 미국에서 한 100만불 주겠나 원태인도 150만불",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271834",
@@ -59,6 +151,23 @@
    ]
   },
   {
+   "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+   "url": "https://www.mt.co.kr/sports/2026/11/14/202611131937779490O",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-14T01:09+09:00",
+   "summary": "[OSEN=이선호 기자] 왜 LG 트윈스 고우석이 '호령존'의 도우미로 거론될까? 한국야구위원회(KBO)는 13일 2027 프로야구 FA 자격선수 28명의 명단을 발표했다. KIA 타이거즈 주전 중견수 김호령(34)도 이름을 넣었다.",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "LG"
+   ]
+  },
+  {
    "title": "만약 원태인 구자욱 둘 다 해외가면 어떡하냐",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271492",
    "source": "디시 삼성 갤러리",
@@ -72,6 +181,36 @@
     "구자욱"
    ],
    "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "ML 신인왕 후보가 KBO에? 다저스 미래였던 선수가 FA로 풀렸다…\"ML 불가, 마이너 계약 유력\" 출전 기회 찾아 아시아 올까",
+   "url": "https://sports.news.nate.com/view/20261114n00177",
+   "source": "네이트 스포츠",
+   "kind": "기사",
+   "published": "2026-11-14T01:00+09:00",
+   "summary": "한눈에 보는 오늘 : 해외야구 - 뉴스 : [스포티비뉴스=김건일 기자] LA 다저스에서 오타니 쇼헤이와 한솥밥을 먹었던 외야수 제임스 아웃맨(29)이 메이저리그 생존의 갈림길에 섰다. 불과 3년 전 신인왕 투표 3위에 오르며 다저스의 미래로 주목받았지",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "1차 헐값 FA 딛고 3년 25억 다년계약→과감한 2차 FA 선언...KIA는 여전히 37살 우승포수가 필요하다",
+   "url": "https://www.osen.co.kr/article/G1112909403",
+   "source": "OSEN",
+   "kind": "기사",
+   "published": "2026-11-14T01:00+09:00",
+   "summary": "KIA 타이거즈 베테랑 포수 김태군 (37)이 FA 시장에 나온다. 지난 13일 KBO가 발표한 27명의 FA 자격 예정자 가운데 이름을 넣었다. NC 시절 첫 번째 FA 자격을 얻었으나 헐값 계약을 했다. 삼성을 거쳐 KIA로 이적하자마자 승승장구했",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "김태군"
+   ],
+   "teams": [
+    "KIA",
+    "NC",
     "삼성"
    ]
   },
@@ -159,6 +298,20 @@
    ]
   },
   {
+   "title": "‘삼성 우승 주역→MLB 복귀?’ ERA 2.95 페덱, 컵스가 주목할 가성비 FA로 지목",
+   "url": "https://www.msn.com/ko-kr/sports/baseball/%EC%82%BC%EC%84%B1-%EC%9A%B0%EC%8A%B9-%EC%A3%BC%EC%97%AD-mlb-%EB%B3%B5%EA%B7%80-era-2-95-%ED%8E%98%EB%8D%B1-%EC%BB%B5%EC%8A%A4%EA%B0%80-%EC%A3%BC%EB%AA%A9%ED%95%A0-%EA%B0%80%EC%84%B1%EB%B9%84-fa%EB%A1%9C-%EC%A7%80%EB%AA%A9/ar-AA2hoKUU",
+   "source": "OSEN on MSN",
+   "kind": "기사",
+   "published": "2026-11-14T00:10+09:00",
+   "summary": "KBO리그에서 화려하게 부활한 프로야구 삼성 라이온즈 외국인 투수 크리스 페덱이 메이저리그 복귀 후보로 거론되고 있다. 선발진 보강이 시급한 시카고 컵스의 현실적인 영입 대안 가운데 한 명으로 이름을..",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
    "title": "솔까말 원태인은 비싸도 4년 100억 아니냐 80억이 정배",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19271142",
    "source": "디시 삼성 갤러리",
@@ -202,6 +355,23 @@
    "collected": "2026-11-14T04:01+09:00",
    "players": [
     "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "프로야구, FA 시장 개봉박두… 구자욱·원태인 등 28명 공시",
+   "url": "https://www.sportsworldi.com/newsView/20261113514458",
+   "source": "스포츠월드",
+   "kind": "기사",
+   "published": "2026-11-13T21:53+09:00",
+   "summary": "프로야구 자유계약선수(FA) 시장이 개봉박두했다. 한국야구위원회(KBO)는 13일 2027년 FA 자격 선수 28명의 명단을 공시했다. 이날 공시된 FA 자격 선수 28명 중 권리 행사를 승인받은 선수들은 오는 17일부터 국내외 구단과 협상할 수 있다",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
    ],
    "teams": [
     "삼성"
@@ -290,23 +460,6 @@
    ]
   },
   {
-   "title": "프로야구, FA 시장 개봉박두… 구자욱·원태인 등 28명 공시",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11RTJyVnRVcVdtVnB5RnRZUEJOcTJmNFB5N2pXVExndGkzU2dhU1lQNklMeFR3S3RxTlVaOGtWWFdDaDh3TnY3M2JTdXk4bE9fYmY3ZkxJODh4aUtaT0hzNlh3?oc=5",
-   "source": "스포츠월드",
-   "kind": "기사",
-   "published": "2026-11-13T20:34+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
    "title": "구자욱도 npb가면 3할10홈런은침",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19267086",
    "source": "디시 삼성 갤러리",
@@ -355,6 +508,22 @@
    ]
   },
   {
+   "title": "\"고우석+옵션 변수 생겨\" 김호령, '전체 61위' 순위 하나 차이 C등급 왜?…KIA \"B등급 노력했는데 FA 잔류 최선 다할 것\"",
+   "url": "https://www.xportsnews.com/article/2219167",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-13T20:05+09:00",
+   "summary": "(엑스포츠뉴스 김근한 기자) KIA 타이거즈의 올겨울 자유계약선수(FA) 시장 전략에 큰 변수가 생겼다. 다름 아닌 베테랑 외야수 김호령의 보상 등급이 예상했던 B등급이 아닌 C등급으로 나온 까닭이다. 한국야구위원회(KBO)는 13일 2027 FA 자",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
    "title": "‘KIA 충격’ 김호령 연봉 212.5% 올려줬는데 FA C등급…단돈 3억7500만원으로 보상 끝, 최대어 급부상",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqdnpfU3dnNmwxNlpuckdBSnNHYVFJbWlXemUzNzVEMkNxbjVTQmFaQ1EtM0E3ZVV0cGVDTDdDV3N0Nkk0aEgtaFNWdUE1OVFKZ25WUGl2aC1mc2JBa3FWZXhfNjRqUQ?oc=5",
    "source": "마이데일리",
@@ -384,6 +553,26 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "C등급이라고? 한화가 그토록 원했던 '중견수' KIA 김호령이 FA로 나온다…류지현 감독 위한 최고의 선물 [SC포커스]",
+   "url": "https://www.sportschosun.com/baseball/2026-11-14/202611140100094100008845",
+   "source": "스포츠조선",
+   "kind": "기사",
+   "published": "2026-11-13T20:01+09:00",
+   "summary": "한화 이글스의 최대 약점, 중견수에 채울 '최적합 매물'이 나올까. 다름 아닌 KIA 타이거즈 김호령이다. KBO는 13일 올해 FA 자격선수를 공시했다. 삼성 라이온즈에 한국시리즈 우승을 안긴 원태인-구자욱.",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "삼성",
+    "한화"
    ]
   },
   {
@@ -469,22 +658,6 @@
    ]
   },
   {
-   "title": "\"고우석+옵션 변수 생겨\" 김호령, '전체 61위' 순위 하나 차이 C등급 왜?…KIA \"B등급 노력했는데 FA 잔류 최선 다할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12Rm1IR0xUUHV0SDI4WnlqRExPWlNnbzlRaG5QVGFJakkyRkx2bGk2NFdncXU5ZnVrWUxPMXFlTy1jZ1JhanItU05sMUR4a19YbENuSg?oc=5",
-   "source": "www.xportsnews.com",
-   "kind": "기사",
-   "published": "2026-11-13T19:05+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
    "title": "구자욱 메이저 대타 가능 하나",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19265356",
    "source": "디시 삼성 갤러리",
@@ -530,6 +703,29 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "‘744억’ 쓰고 떠난 손혁 단장, ‘큰 손’ 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
+   "url": "https://www.mt.co.kr/sports/2026/11/14/202611140109772278O",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-13T18:12+09:00",
+   "summary": "[OSEN=한용섭 기자] 프로야구 스토브리그를 달굴 FA 시장이 개장을 앞두고 있다. 한국야구위원회(KBO)는 13일 2027 프로야구 FA 자격선수 28명의 명단을 발표했다. 2027년 FA 자격 선수는 공시 후 2일 이내인 15일까지 KBO에 FA",
+   "via": "bing_news",
+   "collected": "2026-11-14T09:19+09:00",
+   "players": [
+    "배정대",
+    "김호령",
+    "홍창기",
+    "최지훈"
+   ],
+   "teams": [
+    "KIA",
+    "KT",
+    "LG",
+    "SSG",
+    "한화"
    ]
   },
   {
@@ -1121,18 +1317,6 @@
    "teams": [
     "삼성"
    ]
-  },
-  {
-   "title": "ML 신인왕 후보가 KBO에? 다저스 미래였던 선수가 FA로 풀렸다... ML 불가, 마이너 계약 유력 출전 기회 찾아 아시아 올까",
-   "url": "https://www.msn.com/ko-kr/news/other/ml-%EC%8B%A0%EC%9D%B8%EC%99%95-%ED%9B%84%EB%B3%B4%EA%B0%80-kbo%EC%97%90-%EB%8B%A4%EC%A0%80%EC%8A%A4-%EB%AF%B8%EB%9E%98%EC%98%80%EB%8D%98-%EC%84%A0%EC%88%98%EA%B0%80-fa%EB%A1%9C-%ED%92%80%EB%A0%B8%EB%8B%A4-ml-%EB%B6%88%EA%B0%80-%EB%A7%88%EC%9D%B4%EB%84%88-%EA%B3%84%EC%95%BD-%EC%9C%A0%EB%A0%A5-%EC%B6%9C%EC%A0%84-%EA%B8%B0%ED%9A%8C-%EC%B0%BE%EC%95%84-%EC%95%84%EC%8B%9C%EC%95%84-%EC%98%AC%EA%B9%8C/ar-AA2hnOTa",
-   "source": "SPOTV NEWS on MSN",
-   "kind": "기사",
-   "published": "2026-11-13T16:15+09:00",
-   "summary": "LA 다저스에서 오타니 쇼헤이와 한솥밥을 먹었던 외야수 제임스 아웃맨(29)이 메이저리그 생존의 갈림길에 섰다. 불과 3년 전 신인왕 투표 3위에 오르며 다저스의 미래로 주목받았지만, 이제는 마이너리그 계약을 통해 다시 기회를 찾아야 할 가능성이 커졌",
-   "via": "bing_news",
-   "collected": "2026-11-14T04:01+09:00",
-   "players": [],
-   "teams": []
   },
   {
    "title": "KBO 2027년 FA 자격 선수 28명 공시…17일부터 협상 : 스포츠",
