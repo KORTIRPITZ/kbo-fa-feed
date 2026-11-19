@@ -1,10 +1,355 @@
 {
- "updated": "2026-11-19T16:59+09:00",
+ "updated": "2026-11-20T02:18+09:00",
  "count": 800,
- "added": 45,
+ "added": 49,
  "naver": false,
- "errors": [],
+ "errors": [
+  "bing \"홍창기\" FA: not well-formed (invalid token): line 1, column 41",
+  "bing \"문승원\" FA: not well-formed (invalid token): line 1, column 41",
+  "bing \"오태곤\" FA: not well-formed (invalid token): line 1, column 41"
+ ],
  "items": [
+  {
+   "title": "꼴) 장구신 6년200억 원태인 4년 140억이다",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304701",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T02:03+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "???: 뭐 원태인 160억 구자욱 280억이라고?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304483",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T01:17+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "생각해보면 다른팀에서 전병우 관심없을만함",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304363",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:54+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 3년 100억 어떠냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304358",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:53+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 원태인 김지찬 잡으면 남은 fa들은 안잡아도 되나",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304276",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:37+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 4년 90억 안받냐? 이정도면 딱 정배 아님?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304273",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:36+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인이 해외 갈지 팀 잔류나 이적 할지는",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304224",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:26+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "전병우 3년 12~15억 사이임",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304153",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "냉정하게 몇억가지고 전병우 놓치면 박수치는게아니라 눈물흘려야함",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304145",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T00:08+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인은 NPB가는게 맞지 않냐??",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304076",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:56+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 6+2 200억 부근 사실이냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304079",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:56+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "문득궁금한데 구자욱광고계약들은 어떻게되있는거임?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19304073",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:56+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "소신) 전병우는 오태곤급 계약이 맞음",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303981",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:41+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우",
+    "오태곤"
+   ],
+   "teams": [
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "사사방피셜) 전병우 3+1 20억",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303973",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:39+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "예랑이 시즌 중에 원태인 해외리그 언플해서 욕 존나 먹었잖아 ㅋㅋㅋㅋ",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303904",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:28+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "전병우 4년 14억",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303905",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:28+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "지금시점 전병우 3년 15억 하냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303903",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T23:27+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 원태인 fa",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303655",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T22:05+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 fa직전 4시즌 성적",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303474",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T21:11+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "#구자욱 FA 소식",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303257",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T20:08+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "18시30분 발표, 구자욱 fa잔류 기사 배포됨",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19303003",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-19T18:24+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
   {
    "title": "구자욱 삼성과 1차 협상 결렬.gisa",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19302806",
@@ -120,6 +465,24 @@
    ]
   },
   {
+   "title": "최지훈·오태곤 잡은 SSG, 남은 내부 FA 문승원 뿐…외부 FA도 '눈독'",
+   "url": "https://www.newsis.com/view/NISX20261119_0003874949",
+   "source": "뉴시스",
+   "kind": "기사",
+   "published": "2026-11-19T14:25+09:00",
+   "summary": "[서울=뉴시스]김희준 기자 = 프로야구 SSG 랜더스가 내부 프리에이전트(FA) 잔류에 속도를 내고 있다. 2026시즌 뒤 FA로 풀린 3명 가운데 우완 투수 문승원과의 잔류 계약만 남겨두고 있다. 본격적으로 FA 시장이 열린 다음 날부터 SSG와 내",
+   "via": "bing_news",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "문승원",
+    "오태곤",
+    "최지훈"
+   ],
+   "teams": [
+    "SSG"
+   ]
+  },
+  {
    "title": "구자욱 잔류 오늘 3시에 뜬다",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19302429",
    "source": "디시 삼성 갤러리",
@@ -133,6 +496,23 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "박동원·홍창기 잔류한다 해도 해결 필요한 과제…LG의 세대교체 신호탄",
+   "url": "https://sports.donga.com/sports/article/all/20261119/135054068/1",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-19T13:12+09:00",
+   "summary": "[스포츠동아 장은상 기자] 투타에 걸쳐 새로운 활력소가 필요하다.2020년대 들어 두 번의 통합 우승(정규시즌+한국시리즈)을 만든 LG 트윈스는 KBO리그 10개 구단 중에서도 강팀에 속한다. 특히 2019년부터 올해까지 8년 연속 포스트시즌(PS) ",
+   "via": "bing_news",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [
+    "박동원",
+    "홍창기"
+   ],
+   "teams": [
+    "LG"
    ]
   },
   {
@@ -184,6 +564,21 @@
    ]
   },
   {
+   "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
+   "url": "https://www.segye.com/newsView/20261119515089",
+   "source": "세계일보",
+   "kind": "기사",
+   "published": "2026-11-19T07:25+09:00",
+   "summary": "프로야구 자유계약선수(FA) 시장이 열리면서 관심을 끌고 있지만 프로야구 10개 구단이 FA 시장 못지않게 신경 쓰고 있는 일이 있다. 바로 외국인 선수 구성이다. 외국인 선수 3명이 팀 전력에서 차지하는 비중이 어마어마하기 때문이다.",
+   "via": "bing_news",
+   "collected": "2026-11-20T02:18+09:00",
+   "players": [],
+   "teams": [
+    "키움",
+    "한화"
+   ]
+  },
+  {
    "title": "수도권 구단 : 구자욱 영입 못할 경우 원태인 고려",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19301538",
    "source": "디시 삼성 갤러리",
@@ -209,6 +604,22 @@
    "summary": "올겨울 프로야구 자유계약선수(FA) 시장 최대어로 꼽히는 외야수 구자욱 선수를 향한 각 구단의 영입전이 뜨거운 것으로 전해졌습니다. 2012년 삼성에 입단해 2015년 1군 데뷔, 꾸준한 활약을 보여준 구자욱은 2026 한국시리즈에서 허벅지 부상에도 ",
    "via": "bing_news",
    "collected": "2026-11-19T16:59+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[야구] 구자욱 쟁탈전 후끈… 역대 최고 152억원 넘을까",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3450294",
+   "source": "천지일보",
+   "kind": "기사",
+   "published": "2026-11-19T04:20+09:00",
+   "summary": "[천지일보=강태산 기자] 올겨울 프로야구 FA 시장 최대어로 꼽히는 외야수 구자욱(33)의 거취와 몸값에 관심이 쏠리고 있다.원소속팀 삼성 라이온즈와 수도권 2개 구단이 영입 의사를 보인 것으로 알려졌고, 지방구단 한 곳도 영입전에 뛰어들 수 있다는 ",
+   "via": "bing_news",
+   "collected": "2026-11-20T02:18+09:00",
    "players": [
     "구자욱"
    ],
@@ -464,24 +875,6 @@
    ],
    "teams": [
     "삼성"
-   ]
-  },
-  {
-   "title": "최지훈·오태곤 잡은 SSG, 남은 내부 FA 문승원 뿐…외부 FA도 '눈독'",
-   "url": "https://www.fnnews.com/news/202611191326310511",
-   "source": "파이낸셜뉴스",
-   "kind": "기사",
-   "published": "2026-11-19T00:26+09:00",
-   "summary": "김희준 기자 = 프로야구 SSG 랜더스가 내부 프리에이전트(FA) 잔류에 속도를 내고 있다. 2026시즌 뒤 FA로 풀린 3명 가운데 우완 투수 문승원과의 잔류 계약만 남겨두고 있다. 본격적으로 FA 시장이 열린 다음 날부터 SSG와 내부 FA의 계약",
-   "via": "bing_news",
-   "collected": "2026-11-19T16:59+09:00",
-   "players": [
-    "문승원",
-    "오태곤",
-    "최지훈"
-   ],
-   "teams": [
-    "SSG"
    ]
   },
   {
@@ -13087,354 +13480,6 @@
    "collected": "2026-11-13T20:00+09:00",
    "players": [
     "최지훈"
-   ],
-   "teams": []
-  },
-  {
-   "title": "원태인 기아 가면 야구 외적으로 재밋겠노 ㅋㅋ",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=18838834",
-   "source": "디시인사이드 삼성 라이온즈 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-10-05T00:00+09:00",
-   "summary": "원태인의 KIA 이적을 가정한 가벼운 농담성 글.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "삼성",
-    "KIA"
-   ]
-  },
-  {
-   "title": "'예비 FA' 홍창기 진짜 안 풀리네... 허리 근육통으로 시즌 첫 1군 말소!",
-   "url": "https://www.mt.co.kr/sports/2026/09/21/2026092117261847218",
-   "source": "머니투데이",
-   "kind": "기사",
-   "published": "2026-09-21T00:00+09:00",
-   "summary": "허리 통증으로 시즌 처음 엔트리에서 빠졌고 당시 시즌 홈런이 하나도 없었다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "홍창기"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'FA 대박은 포기 못해!' 예비 FA 중견수 최대어, 3안타 1홈런 5타점 대폭발",
-   "url": "https://www.koreadaily.com/article/20260920054021523",
-   "source": "OSEN(미주중앙일보 게재)",
-   "kind": "기사",
-   "published": "2026-09-20T00:00+09:00",
-   "summary": "시즌 초 부진했던 최지훈이 커리어 최다 홈런 페이스로 막판 FA 가치를 끌어올리는 중.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "최지훈"
-   ],
-   "teams": [
-    "SSG"
-   ]
-  },
-  {
-   "title": "\"우리도 출혈 커요!\" 엄살 아니었다…삼성, 어수선한 수비로 뼈아픈 패배",
-   "url": "https://isplus.com/article/view/isp202609160179",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-09-16T00:00+09:00",
-   "summary": "두산전 1-3 패배에서 2회 솔로포로 팀 유일한 타점을 올렸다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "전병우"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'끝내 눈시울 붉혔다' 21년 원클럽맨 김성현, 그라운드와 작별",
-   "url": "https://www.xportsnews.com/article/2192591",
-   "source": "엑스포츠뉴스",
-   "kind": "기사",
-   "published": "2026-09-06T00:00+09:00",
-   "summary": "9월 5일 두산전에 특별 엔트리로 선발 출전한 뒤 은퇴식을 치르고 지도자로 팀에 남겠다고 밝힌 현장 기사.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김성현",
-    "오태곤"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"팬분들 덕분에 행복하게 야구했습니다\"…'21년 원클럽맨' 김성현의 마지막 인사",
-   "url": "https://www.xportsnews.com/article/2192457",
-   "source": "엑스포츠뉴스",
-   "kind": "기사",
-   "published": "2026-09-05T00:00+09:00",
-   "summary": "은퇴식 직후 일문일답으로, 2025시즌 뒤 플레잉코치가 된 김성현이 커리어 회고와 지도자 포부를 밝힘.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김성현"
-   ],
-   "teams": []
-  },
-  {
-   "title": "김민혁은 KT 형제들에게 고맙다, 1위 싸움의 동력",
-   "url": "https://www.mydaily.co.kr/page/view/2026090312542244267",
-   "source": "마이데일리",
-   "kind": "기사",
-   "published": "2026-09-03T00:00+09:00",
-   "summary": "한화전 결승타 뒤 후반기 타격이 다소 처졌지만 최원준의 조언과 전력분석 도움에 고마움을 표함.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김민혁"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"지금도 매일 운동합니다\" 김성현 5일 은퇴식 2루 선발 출전!",
-   "url": "https://www.mt.co.kr/sports/2026/08/28/2026082815362893927",
-   "source": "머니투데이",
-   "kind": "기사",
-   "published": "2026-08-28T00:00+09:00",
-   "summary": "SSG가 9월 5일 김성현 은퇴식을 열고 그를 2루수로 선발 기용할 예정이라는 예고 기사.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김성현"
-   ],
-   "teams": []
-  },
-  {
-   "title": "김민수(1992)",
-   "url": "https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EC%88%98(1992)",
-   "source": "나무위키",
-   "kind": "커뮤니티",
-   "published": "2026-08-26T00:00+09:00",
-   "summary": "2026 연봉이 전년 대비 소폭 깎인 2억 원으로 정리돼 있고, 2023 시즌아웃 뒤 구속 회복이 더디다는 서술이 있음.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김민수"
-   ],
-   "teams": []
-  },
-  {
-   "title": "박동원ㆍ김태군ㆍ최재훈 FA 시장으로⋯포수 '대이동' 벌어질까",
-   "url": "https://www.etoday.co.kr/news/view/2616834",
-   "source": "이투데이",
-   "kind": "기사",
-   "published": "2026-08-21T00:00+09:00",
-   "summary": "유튜브 채널 '크보오프너' 토론을 정리한 기사로, 최재훈 수요는 있겠지만 허인서 성장에도 한화가 잔류를 노릴 것이라고 봤다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "최재훈"
-   ],
-   "teams": []
-  },
-  {
-   "title": "[IS 대구] '영웅'의 빈자리, 7타점 전병우가 채웠다",
-   "url": "https://isplus.com/article/view/isp202608200097",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-08-20T00:00+09:00",
-   "summary": "SSG전 3안타 7타점으로 개인 한 경기 최다 타점, 시즌 8호포로 커리어 최다 홈런 타이.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "전병우"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'인천 좌타 홈런 1위' 한유섬의 첫 아치가 8월에 터지다니!",
-   "url": "https://www.mt.co.kr/sports/2026/08/17/2026081622272270082",
-   "source": "머니투데이",
-   "kind": "기사",
-   "published": "2026-08-17T00:00+09:00",
-   "summary": "5년 계약 마지막 해에 극심한 부진과 2군행을 겪은 한유섬이 8월 중순에야 시즌 첫 홈런을 치고 2연속 홈런을 기록.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "한유섬"
-   ],
-   "teams": []
-  },
-  {
-   "title": "사흘간 3홈런 11안타로 타율 0.339→0.357...삼성 '캡틴' 구자욱, FA 앞두고 몸값이 실시간으로 오르네",
-   "url": "https://www.segye.com/newsView/20260816500945",
-   "source": "세계일보",
-   "kind": "기사",
-   "published": "2026-08-16T00:00+09:00",
-   "summary": "8월 맹타로 타격 1위에 올라 100억 이상 계약이 유력하다는 전망.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'6년 만의 최악투' 원태인 해외진출 물 건너 갔다고? \"ML의 판단은 다르던데요\"",
-   "url": "https://v.daum.net/v/20260806101813520",
-   "source": "MHN스포츠",
-   "kind": "기사",
-   "published": "2026-08-06T00:00+09:00",
-   "summary": "시즌 부진에도 MLB 스카우트는 세부 지표를 근거로 관심을 유지 중이며, MLB 노사 협상이 변수로 거론됨.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'삼성 제치고' 70일 만의 1위 탈환! 34세 예비 FA 방망이 끝에서 이뤄졌다",
-   "url": "https://www.mt.co.kr/sports/2026/08/02/2026080115043579813",
-   "source": "머니투데이(스타뉴스)",
-   "kind": "기사",
-   "published": "2026-08-02T00:00+09:00",
-   "summary": "1루수로 선발 출전해 만루 싹쓸이 2루타를 치며 KT의 한화전 승리와 1위 복귀를 이끈 예비 FA.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "오윤석"
-   ],
-   "teams": []
-  },
-  {
-   "title": "‘FA로이드’ 맞은 구자욱…7월 대폭발에 몸값도 활활",
-   "url": "https://www.dailian.co.kr/news/view/1672324/",
-   "source": "데일리안",
-   "kind": "기사",
-   "published": "2026-07-30T00:00+09:00",
-   "summary": "7월 폭발로 5년 120억 비FA 다년계약을 넘는 대형 계약이 예상된다는 관측.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": []
-  },
-  {
-   "title": "홍창기·원태인도 주춤…'FA 로이드' 아닌 'FA 중압감'?",
-   "url": "https://www.nocutnews.co.kr/news/6551113",
-   "source": "CBS노컷뉴스",
-   "kind": "기사",
-   "published": "2026-07-21T00:00+09:00",
-   "summary": "전반기 LG 이적 후 가장 낮은 타율과 도루저지율을 기록 중이라고 지적.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "박동원",
-    "홍창기",
-    "원태인",
-    "최재훈",
-    "최지훈"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"주전에서 밀려난 후 정체성이 흔들렸다\"…1군 복귀後 5안타 폭발",
-   "url": "https://v.daum.net/v/20260712060051125",
-   "source": "스포츠조선(다음)",
-   "kind": "기사",
-   "published": "2026-07-12T00:00+09:00",
-   "summary": "최원준 합류로 주전을 내주고 2군을 다녀온 뒤 키움전 2경기 5안타로 반등 신호를 보임.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "배정대"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'전경기 출전 철인→부진 터널' 배정대 \"선수로서 정체성 흔들렸던 것 사실\"",
-   "url": "https://www.mt.co.kr/sports/2026/07/09/2026070822150948269",
-   "source": "머니투데이(스타뉴스)",
-   "kind": "기사",
-   "published": "2026-07-09T00:00+09:00",
-   "summary": "전 경기 출전하던 시절 이후 부진과 주전 경쟁 밀림을 털어놓은 인터뷰(제목·검색 결과 기준).",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "배정대"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"448일만의 1군 복귀, 출근 시간도 잊어버렸다\" 팔꿈치 수술 → FA 재수 → 잊혀졌던 이름…'구원왕' 서진용이 돌아왔다",
-   "url": "https://v.daum.net/v/20260629123147062",
-   "source": "스포츠조선(다음)",
-   "kind": "기사",
-   "published": "2026-06-29T00:00+09:00",
-   "summary": "팔꿈치 수술 후유증과 FA 미신청을 거친 서진용이 448일 만에 1군에 복귀한 소감을 전한 인터뷰.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "서진용"
-   ],
-   "teams": []
-  },
-  {
-   "title": "KIA 초비상, '이 선수' 얼마에 붙잡아야하나…몸값 폭등 중인데 왜 수줍게 웃었나",
-   "url": "https://osen.co.kr/article/G1112830553",
-   "source": "OSEN",
-   "kind": "기사",
-   "published": "2026-06-29T00:00+09:00",
-   "summary": "김호령이 예비 FA 시즌 장타력까지 뽐내며 몸값을 올리고 있어 KIA의 재계약 고민이 커짐.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "세이브왕 출신 SSG 서진용이 던진 2경기, 사령탑의 평가는 \"본인도 마지막 기회라 생각할 것\"",
-   "url": "https://sports.khan.co.kr/article/202606281511003",
-   "source": "스포츠경향",
-   "kind": "기사",
-   "published": "2026-06-28T00:00+09:00",
-   "summary": "이숭용 감독이 복귀한 서진용의 포크볼은 살아나는 중이나 구속 회복이 과제라며 추격조부터 기용하겠다고 평가.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "서진용"
-   ],
-   "teams": []
-  },
-  {
-   "title": "한화 고민이네! '0.358+9홈런→0.231+0홈런' 차세대 포수, 신인왕 페이스 사라졌나…'54억 베테랑' 다시 기회 받을까",
-   "url": "https://www.xportsnews.com/article/2160704",
-   "source": "엑스포츠뉴스",
-   "kind": "기사",
-   "published": "2026-06-16T00:00+09:00",
-   "summary": "허인서가 6월 들어 타격이 식으면서 출전이 줄었던 최재훈(34경기 .167)에게 다시 기회가 갈 수 있다는 내용.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "최재훈"
-   ],
-   "teams": []
-  },
-  {
-   "title": "'이럴 수가' 갈 길 바쁜 10연패 SSG, 또 부상 악재라니…\"문승원, 어깨 무겁다고 해서 검진 예정\"",
-   "url": "https://www.xportsnews.com/article/2155063",
-   "source": "엑스포츠뉴스",
-   "kind": "기사",
-   "published": "2026-05-30T00:00+09:00",
-   "summary": "불펜에서 평균자책 0점대로 호투하던 문승원이 오른쪽 어깨 불편감으로 병원 검진을 받게 됐다는 소식.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "문승원"
    ],
    "teams": []
   }
