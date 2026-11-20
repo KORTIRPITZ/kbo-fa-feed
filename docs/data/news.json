@@ -1,12 +1,322 @@
 {
- "updated": "2026-11-20T08:40+09:00",
+ "updated": "2026-11-20T13:21+09:00",
  "count": 800,
- "added": 35,
+ "added": 47,
  "naver": false,
  "errors": [
-  "bing FA 보상선수: not well-formed (invalid token): line 1, column 41"
+  "bing KBO FA: not well-formed (invalid token): line 1, column 41",
+  "bing FA 보상선수: not well-formed (invalid token): line 1, column 41",
+  "bing \"전병우\" FA: not well-formed (invalid token): line 1, column 41",
+  "bing \"김상수\" FA: not well-formed (invalid token): line 1, column 41",
+  "bing \"김태군\" FA: not well-formed (invalid token): line 1, column 41",
+  "bing \"정수빈\" FA: not well-formed (invalid token): line 1, column 41"
  ],
  "items": [
+  {
+   "title": "오늘 오후2시입니다 구자욱 원태인 전병우 잔류 발표",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305752",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T13:20+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "전병우",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 구자욱 4년 240억.twt",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305732",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T13:13+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "보똬리) 구자욱 수도권 거액 오퍼받음",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305726",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T13:11+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 원태인 전병우 잔류 떴네요 ㅅㅅㅅㅅㅅ",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305700",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T13:02+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "전병우",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "홍창기 썰 나오는거보니 구자욱 잔류는 땅땅이네",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305691",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T13:00+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱",
+    "홍창기"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "100억차 나도 구자욱은 남아 ㅄ들아",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305686",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:58+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 외부fa썰) 박동원에게 관심있고 실제로 4년 계약제시",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305651",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:49+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "박동원"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "오늘 오후2시 구자욱 원태인 전병우 잔류 동시발표 뜹니다",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305643",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:48+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "전병우",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "갸)구자욱 너네팀보다 10억 더 얹으면 넘어 오냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305634",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:45+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 구자욱 전병우 잡고 박동원 김상수 영입하면 갤 터지냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305621",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:40+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "전병우",
+    "구자욱",
+    "김상수",
+    "박동원"
+   ],
+   "teams": [
+    "KT",
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "외부fa 김상수 복귀임",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305618",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:39+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "김상수"
+   ],
+   "teams": [
+    "KT"
+   ]
+  },
+  {
+   "title": "구자욱 아직 협상중이라는데 오늘 뜬다는 애들은",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305611",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:36+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 150억 잡는것 같은데",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305561",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:13+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "아니 구자욱은 잔류 언제 뜨는거임?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305550",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T12:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 연 25억 원태인 연 22억 최대치임",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305515",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T11:55+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 전병우 계약하면 우리도 fa 철수하는게 맞지",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305474",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T11:40+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "전병우",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "뭔가 외부fa 박동원 느낌 씨게오는데 나만 그럼?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305249",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T10:08+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "박동원"
+   ],
+   "teams": [
+    "LG"
+   ]
+  },
+  {
+   "title": "외부FA참전이야기 나와서 명단 보는데, 원태인 혼자 앞자리 2000 파멸적이다",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305123",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-20T09:17+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
   {
    "title": "원태인 인스타 ㄷㄷㄷ 사실상 이적 피셜 ㄷㄷㄷ",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19305047",
@@ -34,6 +344,42 @@
    "collected": "2026-11-20T08:40+09:00",
    "players": [
     "구자욱"
+   ],
+   "teams": [
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "삼성 FA 구자욱 '10년 220억' 초대형 계약 시나리오 떴다, 원태인까지 다 잡나... 타 구단이 부러워할 삼성만의 '역대급 FA 계산 승부수 ...",
+   "url": "https://www.mt.co.kr/sports/2026/11/20/2026111921343961656",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-20T05:09+09:00",
+   "summary": "한국야구위원회(KBO)가 2027년 프리에이전트(FA) 승인 선수 22명을 발표하면서 삼성 라이온즈의 구자욱(33)과 원태인이 FA(26) 시장에 나왔다. 두 선수는 팀의 12년 만의 한국시리즈 우승을 이끈 핵심 전력이자 대구 출신 프랜차이즈 스타다.",
+   "via": "bing_news",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "‘200억원+α’ 구자욱·원태인 빼면 100억원대 FA는 1명도 없다? 본격 탐색전 시작, 승부는 지금부터",
+   "url": "https://www.msn.com/ko-kr/news/news/200%EC%96%B5%EC%9B%90-%CE%B1-%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%9B%90%ED%83%9C%EC%9D%B8-%EB%B9%BC%EB%A9%B4-100%EC%96%B5%EC%9B%90%EB%8C%80-fa%EB%8A%94-1%EB%AA%85%EB%8F%84-%EC%97%86%EB%8B%A4-%EB%B3%B8%EA%B2%A9-%ED%83%90%EC%83%89%EC%A0%84-%EC%8B%9C%EC%9E%91-%EC%8A%B9%EB%B6%80%EB%8A%94-%EC%A7%80%EA%B8%88%EB%B6%80%ED%84%B0/ar-AA2hOVPk",
+   "source": "마이데일리 on MSN",
+   "kind": "기사",
+   "published": "2026-11-20T02:28+09:00",
+   "summary": "[마이데일리 = 김진성 기자] FA 시장은 지금부터 시작이다. 사실상 탐색전을 이제 시작했다. 2026-2027 KBO FA 시장은 16일 22명이 공시된데 이어 17일 0시부터 협상에 들어갔다. 양의지가 그날 새벽에 곧바로 2년 55억원에 가장 먼저",
+   "via": "bing_news",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "양의지"
    ],
    "teams": [
     "두산",
@@ -367,23 +713,6 @@
     "KIA",
     "LG",
     "한화"
-   ]
-  },
-  {
-   "title": "삼성 FA 구자욱 10년 220억 초대형 계약 시나리오 떴다, 원태인까지 다 잡나... 타 구단이 부러워할 삼성만의 역대급 FA 계산 승부수 ...",
-   "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%84%B1-fa-%EA%B5%AC%EC%9E%90%EC%9A%B1-10%EB%85%84-220%EC%96%B5-%EC%B4%88%EB%8C%80%ED%98%95-%EA%B3%84%EC%95%BD-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EB%96%B4%EB%8B%A4-%EC%9B%90%ED%83%9C%EC%9D%B8%EA%B9%8C%EC%A7%80-%EB%8B%A4-%EC%9E%A1%EB%82%98-%ED%83%80-%EA%B5%AC%EB%8B%A8%EC%9D%B4-%EB%B6%80%EB%9F%AC%EC%9B%8C%ED%95%A0-%EC%82%BC%EC%84%B1%EB%A7%8C%EC%9D%98-%EC%97%AD%EB%8C%80%EA%B8%89-fa-%EA%B3%84%EC%82%B0-%EC%8A%B9%EB%B6%80%EC%88%98-%EB%A5%98%EC%84%A0%EA%B7%9C%EC%9D%98-%EB%B9%84%EC%A6%88%EB%B3%BC/ar-AA2hNY40",
-   "source": "머니투데이 on MSN",
-   "kind": "기사",
-   "published": "2026-11-19T20:09+09:00",
-   "summary": "한국야구위원회(KBO)가 2027년 프리에이전트(FA) 승인 선수 22명을 발표하면서 삼성 라이온즈의 구자욱(33)과 원태인이 FA(26) 시장에 나왔다. 두 선수는 팀의 12년 만의 한국시리즈 우승을 이끈 핵심 전력이자 대구 출신 프랜차이즈 스타다.",
-   "via": "bing_news",
-   "collected": "2026-11-20T08:40+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
    ]
   },
   {
@@ -2798,6 +3127,22 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "양의지, FA 시장 열리자마자 두산 잔류…2년 최대 55억원 계약",
+   "url": "https://www.fomos.kr/esports/news_view?entry_id=157436",
+   "source": "포모스",
+   "kind": "기사",
+   "published": "2026-11-18T00:33+09:00",
+   "summary": "두산 베어스의 베테랑 포수 양의지가 2027년 자유계약선수 시장의 첫 계약 주인공이 됐다. 두산은 17일 양의지와 2년 최대 55억원에 FA 계약을 체결했다고 발표했다. 계약 조건은 계약금 40억원에 연봉 총액 10억원, 인센티브 5억원이다. FA 시",
+   "via": "bing_news",
+   "collected": "2026-11-20T13:21+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": [
+    "두산"
    ]
   },
   {
@@ -13166,338 +13511,6 @@
    "teams": [
     "삼성"
    ]
-  },
-  {
-   "title": "[IS 이슈] \"양의지 152억 깬다\" KS 우승에 MVP까지…타격왕 구자욱, FA 역대 최고액 정조준",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90M2JkT3h2bkduUGppSXVkU0JqUHE1LWhPdVVnTkc0TkpzV2x1Y3Vhb1hiYklGTkUwMGRuV2NqdU1QbWcyb3NxM19qVHYxZ2M0RWNaMG1LOHRqRGs?oc=5",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-09T09:17+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "구자욱",
-    "양의지"
-   ],
-   "teams": [
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "김호령 FA 이적 가능성, 머뭇거렸던 이범호… 대안은 하나다, 쇼케이스까지 시작된다",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWlg1b1paQzJSYUZMZ25LMjdya1J4TmVVWTFFMlljVGdUbW5Yd1p5M1pleEJRUXBTSmh6TmlqUTlyTG9lZkNwRnRYdjVDV3FGWERERGNnMDhQMms1R3Y2M1BfRVpvVzV1b2ZVakdXaXI?oc=5",
-   "source": "SPOTV NEWS",
-   "kind": "기사",
-   "published": "2026-11-09T08:30+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "삼성 우승 이끈 구자욱·원태인, FA 시장에 도전장 : 스포츠",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CRkZZXzRtYkN5dkI3UmhmY09jM0JidXJNYU5fTjZPcVZnbTkxREJEUjB0RFlUcmt5VWZaa2o0X0NGQWgzcmo2R09Cbw?oc=5",
-   "source": "재경일보",
-   "kind": "기사",
-   "published": "2026-11-09T07:52+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "우승 주역 FA 원태인·구자욱 \"우승했으니 기대할게요\"",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYTFJM3lYOEg0R2RXZXJRSy1IRVJZZjJwZUJzLU1ScnVsNDB2WFliM1NUSzk3dWpCZWpmamJhZWJ5dEVqeXNrMldtZXYxQjd1TE51S2VkcmJ4dmYwUWtSVVhWT25yaVRaNUE?oc=5",
-   "source": "SBS 뉴스",
-   "kind": "기사",
-   "published": "2026-11-09T07:15+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "우승 약속 지킨 구자욱·원태인 \"사장님, 좋은 계약서 기대해요\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TdHZBM215VnRQc1NUNkFXb3lmVm5OX1VPMGoxSlFHRk9BaTJHWW1VQjBSbXNjeHlCSm52QXdSWjNYeGZTcE1iOUdCd25RTDR5MHlpbzBnbVU2SWd0ZHhiTNIBYEFVX3lxTE9TdHZBM215VnRQc1NUNkFXb3lmVm5OX1VPMGoxSlFHRk9BaTJHWW1VQjBSbXNjeHlCSm52QXdSWjNYeGZTcE1iOUdCd25RTDR5MHlpbzBnbVU2SWd0ZHhiTA?oc=5",
-   "source": "연합뉴스",
-   "kind": "기사",
-   "published": "2026-11-09T07:00+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "'FA 빅2' 원태인·구자욱, 삼성에 남는다는 빈말 안 했다…포수·중견수 연쇄이동? 100억→200억→300억 '쩐의 전쟁 스타트'[MD대구]",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95Y0JLT2V5TXhBNjhBcWgwRTFkZWktTzNQTW1UZ1lRaTM0SnE5VjlWQVRJQm9iTlM0UnZIMmZvUEE1czlaaHg1SUhCYUFZX0NCU2g1OHZ3?oc=5",
-   "source": "네이트",
-   "kind": "기사",
-   "published": "2026-11-09T06:11+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "2027 프로야구 FA 명단…원태인 LG·양의지 KIA 가능성 : 네이버 블로그",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wbGlmNzBING9fSTRkZmdjM08wdXhZWGkzTDNhV3JBaHhvMW9SaTZKSFl3RVNQU0N5NkNXc25xOEt1WEQxamFxenJsZm0zdlNFS2ZxSGRDVWk?oc=5",
-   "source": "Naver Blog",
-   "kind": "기사",
-   "published": "2026-11-09T04:37+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "양의지"
-   ],
-   "teams": [
-    "KIA",
-    "LG",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "타격왕→KS MVP...주가 전고점 예고한 구자욱 \"나도 설렌다\"",
-   "url": "https://isplus.com/article/view/isp202611080423",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "KS 타율 5할로 MVP를 받으며 12년 만의 우승을 이끌었고, 타 구단 관심 속 FA 시장에 나선다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"우승 약속 지켰으니 사장님 믿습니다\" 원태인·구자욱, V9 축포 속 '해외 진출' 깜짝 선언",
-   "url": "https://www.fnnews.com/news/202611090823330028",
-   "source": "파이낸셜뉴스",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "KS 우승 직후 원태인은 이미 해외 에이전트를 선임했다고 밝혔고, 구자욱도 미국 무대에 관심이 있다고 말함.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "\"해외 에이전트 선임\" 푸피에 원태인의 꿈 시작, 그런데 구자욱도? \"저도 미국 관심 있어, 진심입니다\"",
-   "url": "https://isplus.com/article/view/isp202611090190",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "원태인은 시즌 중 부진 탓에 에이전트 선임 사실을 숨겨왔다고 했고, 두 선수 모두 우선 구단 제안을 기다리겠다는 입장.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "[삼성 V9 ④] '이제 단장의 시간' 박석민·최형우·차우찬 놓쳤던 삼성의 암흑기, 구자욱·원태인은?",
-   "url": "https://isplus.com/article/view/isp202611090009",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "과거 주축 FA 유출 후 침체를 겪은 삼성이 원태인·구자욱·전병우 내부 FA를 지켜야 왕조를 이어갈 수 있다는 분석.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "전병우"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "FA 최대어 'TOP2' 구자욱-원태인의 유쾌한 꺼드럭!",
-   "url": "https://www.segye.com/newsView/20261109511454",
-   "source": "세계일보",
-   "kind": "기사",
-   "published": "2026-11-09T00:00+09:00",
-   "summary": "구자욱은 에이전트 없이 직접 협상하겠다고, 원태인은 협상을 에이전트에 맡기겠다고 밝힘.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "\"FA 구자욱+원태인 잡을 수 있나요?\" 박진만 감독이 직접 답했다 \"푸른 피가 흐르는 선수들이라…\" [KS5 승장]",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3NELVVLMHAxVS1WOGN4XzlEbldudzk2QmVOSHVEcE56SV9pV091MlIxSkdaLTlDRUJYWWhOeFdpNndRcGc1N0pEakppZFIyOVNvVEFXclFabS1KWE5LWXduVlFPMVJRVjlrVTRSTjVHTHFOdW1QUFZnVUNKSUJONWlzOA?oc=5",
-   "source": "조선일보",
-   "kind": "기사",
-   "published": "2026-11-08T20:42+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "\"삼성 왕조는 이제부터 시작\"…우승 약속 지킨 원태인, FA 앞두고 던진 한마디",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96YjRHU1VjNk1wOGkwa2wyZGM1SzZiNjBvOElNaWliWnJnYnExWlVEcU8zY3VVYlRiWGdTMGRXUjFwNHBvbzZJSm1MeUQ4M21jVWdBNTNSb1VlSDQ?oc=5",
-   "source": "일간스포츠",
-   "kind": "기사",
-   "published": "2026-11-08T18:05+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "“우승시켜 드렸으니 좋은 계약서 주시겠죠?” 12년 만의 왕조 재건 이끈 원태인, 이제 FA 대박 기대한다 [KS5]",
-   "url": "https://www.koreadaily.com/article/20261108074115310",
-   "source": "미주중앙일보",
-   "kind": "기사",
-   "published": "2026-11-08T08:40+09:00",
-   "summary": "“이제야 했다. 입단 때 약속을 늦게 지킨 것 같아 죄송한 마음이 있다. 그래도 한 게 어딘가”. 2019년 프로 데뷔 당시 삼성 왕조의 재건을 다짐했던 ‘푸른 피의 에이스’ 원태인이 마침내 그 약속을 지켰다.",
-   "via": "bing_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "김태군도 김호령도 FA 시장 나간다…KIA, 내년 센터라인 얼굴 모두 바뀌나",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tSzZSNmtua2RBcWFyMVdYY1J3Ty11M3Npc0I0UTNqalhqdHRVMUZVd0x1WFJ5RDlIejlSVkFqdEIwU2t6VVIxSVdEdHdaUXdCc1JMSnlnXzFQUEVnYzktc0tnaw?oc=5",
-   "source": "MHN스포츠",
-   "kind": "기사",
-   "published": "2026-11-08T05:42+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "김태군",
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "[단독]’김호령 이어’ 김태군도 FA 시장 나온다…경험치 얼마나 인정받을 수 있을지 관건",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fNkxmeGxGalczLVZ2aG1BVWdFYU1scUtFcXFnUVpWTVhCN3RRLVRKVzQ3WldKSnQtczFFVXRGd3VjY1J1UGw2anMtWWYxT0kxX3prSlRmNjlJb0FWUU95ZkVVYw?oc=5",
-   "source": "MHN스포츠",
-   "kind": "기사",
-   "published": "2026-11-07T11:10+09:00",
-   "summary": "",
-   "via": "google_news",
-   "collected": "2026-11-13T21:00+09:00",
-   "players": [
-    "김태군",
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "'MLB.com'이 눈여겨본다고? '푸른 피의 에이스' 원태인의 머릿속엔 오직 삼성뿐",
-   "url": "https://www.koreadaily.com/article/20261107141112113",
-   "source": "OSEN(미주중앙일보 전재)",
-   "kind": "기사",
-   "published": "2026-11-07T00:00+09:00",
-   "summary": "MLB.com이 빅리그 진출 후보로 꼽았지만 본인은 KS 우승에만 집중하겠다며 FA 얘기를 미뤘다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": []
-  },
-  {
-   "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다",
-   "url": "https://www.koreadaily.com/article/20261103114311303",
-   "source": "OSEN(미주중앙일보 전재)",
-   "kind": "기사",
-   "published": "2026-11-03T00:00+09:00",
-   "summary": "시즌 전 다년계약을 거절한 뒤 부진했고, 단장은 잔류 방침을 확언하지 않았다.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "박동원",
-    "홍창기"
-   ],
-   "teams": []
-  },
-  {
-   "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
-   "url": "https://v.daum.net/v/3HNTpTd8BQ",
-   "source": "Daum 야구기록소",
-   "kind": "기사",
-   "published": "2026-11-03T00:00+09:00",
-   "summary": "이주헌과 출전을 나누는 상황이지만 장타력·투수 호흡을 근거로 잔류가 합리적이라는 분석, KT 관심 언급.",
-   "via": "claude_seed",
-   "collected": "2026-11-13T20:00+09:00",
-   "players": [
-    "박동원",
-    "홍창기"
-   ],
-   "teams": []
   }
  ]
 }
