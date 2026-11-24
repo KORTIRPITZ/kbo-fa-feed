@@ -1,16 +1,301 @@
 {
- "updated": "2026-11-24T20:59+09:00",
+ "updated": "2026-11-25T07:19+09:00",
  "count": 800,
- "added": 64,
+ "added": 62,
  "naver": false,
- "errors": [
-  "bing \"전병우\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"김상수\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"김민혁\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"오태곤\" FA: not well-formed (invalid token): line 1, column 41",
-  "bing \"권희동\" FA: not well-formed (invalid token): line 1, column 41"
- ],
+ "errors": [],
  "items": [
+  {
+   "title": "구자욱 200억대 예상 김호령 40억대 예상인데",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335950",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T06:27+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱",
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 접 150억 포기는 뭔말이냐",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335926",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T05:15+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "오히려 원태인 은 구단한테 시즌중에 다년계약 제안했는데",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335912",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T04:51+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "돡) 구자욱 진지하게 한 1년 70억 지르고 약사조항 넣을게",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335907",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T04:40+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "쓱) 구자욱씨 보상선수 모셔왔습니다",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335876",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T04:11+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 300억에 잡고 내년에 박성한 330억에 데려오자",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335873",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T04:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "근데 원태인 해외안가냐",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335821",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T03:10+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 aav40억 개에바긴한데",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335819",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T03:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 AAV 40억타령하던애들 이제 정신이 좀 드냐??",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335813",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T03:04+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "원태인 <- 얘는 왜 fa 시장에 나오는거냐",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335754",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T02:26+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 이적 오피셜떴네",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335731",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T02:11+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "구자욱 원태인 <- 솔직히 얘네같은 프차는 fa 나오면 안되는데",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335621",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T01:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "임찬규 박세웅 나균안 내년에 fa시장 나오는데 원태인이 꼭 필요하냐?",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335440",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-25T00:09+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "전병우 : 나도 관심 좀 ㅇㅇ",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19335256",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-24T23:13+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "KBO리그서 샐러리캡은 폐지돼야하는 제도다[초점]",
+   "url": "https://www.msn.com/ko-kr/sports/basketball/kbo%EB%A6%AC%EA%B7%B8%EC%84%9C-%EC%83%90%EB%9F%AC%EB%A6%AC%EC%BA%A1%EC%9D%80-%ED%8F%90%EC%A7%80%EB%8F%BC%EC%95%BC%ED%95%98%EB%8A%94-%EC%A0%9C%EB%8F%84%EB%8B%A4-%EC%B4%88%EC%A0%90/ar-AA2i9b6L",
+   "source": "스포츠한국 on MSN",
+   "kind": "기사",
+   "published": "2026-11-24T22:30+09:00",
+   "summary": "[스포츠한국 이정철 기자] ‘스토브리그의 꽃’ FA 시장이 열렸다. 연일 여러 이적설과 잔류설이 부딪히며 야구팬들의 이목을 집중시키고 있다. 이 와중에 FA 시장을 관통하는 가장 큰 화두로 샐러리캡(경쟁균형세)이 떠올랐다. 그런데 사실 샐러리캡은 KB",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "“홍창기는 도대체 얼마를 원할까요” KBO 또 다른 초미의 관심사, 구자욱 전쟁 수혜자되나",
+   "url": "https://www.msn.com/ko-kr/news/news/%ED%99%8D%EC%B0%BD%EA%B8%B0%EB%8A%94-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%BC%EB%A7%88%EB%A5%BC-%EC%9B%90%ED%95%A0%EA%B9%8C%EC%9A%94-kbo-%EB%98%90-%EB%8B%A4%EB%A5%B8-%EC%B4%88%EB%AF%B8%EC%9D%98-%EA%B4%80%EC%8B%AC%EC%82%AC-%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%A0%84%EC%9F%81-%EC%88%98%ED%98%9C%EC%9E%90%EB%90%98%EB%82%98/ar-AA2i9qmi",
+   "source": "SPOTV NEWS on MSN",
+   "kind": "기사",
+   "published": "2026-11-24T22:05+09:00",
+   "summary": "2027년 KBO 프리에이전트(FA) 시장이 구자욱과 원태인이라는 특급 FA를 축으로 과열 조짐을 보이고 있다. 예년과 다르게 선수들에 대한 관심이 공개적으로 표명되고 있고, 원 소속 구단인 삼성의 결사항전 의지 속에 “두 선수의 몸값이 자고 일어나면",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "홍창기"
+   ],
+   "teams": [
+    "LG",
+    "삼성"
+   ]
+  },
+  {
+   "title": "이렇게 몸값 올라가면 전병우는 못잡겠구만",
+   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19334618",
+   "source": "디시 삼성 갤러리",
+   "kind": "커뮤니티",
+   "published": "2026-11-24T21:32+09:00",
+   "summary": "",
+   "via": "dcinside",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "전병우"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "NC, FA 최대어 원태인 잡는다",
+   "url": "https://knnews.co.kr/news/articleView.php?idxno=1555838",
+   "source": "경남신문",
+   "kind": "기사",
+   "published": "2026-11-24T21:20+09:00",
+   "summary": "프로야구 NC 다이노스가 자유계약선수 (FA) 최대어 삼성 라이온즈 원태인 (사진)의 영입 경쟁에 뛰어들었다. NC 구단 관계자는 24일 본지와 통화에서 “원태인 선수에게 관심이 있어 유선으로 연락을 했고, 조만간 대리인 측과 만날 계획이다”고 밝혔다",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "NC",
+    "삼성"
+   ]
+  },
   {
    "title": "원태인 구자욱은 잔류가 정배야? 떠나는게 정배야??",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19334255",
@@ -209,6 +494,41 @@
    ]
   },
   {
+   "title": "(김호령·김태군) 소식이 없네요, (KIA와 재계약하면) 연락이 왔을 건데… 꽃범호도 FA 시장에 귀 쫑긋, 간절한 잔류 바람 [MD인천공항]",
+   "url": "https://www.msn.com/ko-kr/news/other/%EA%B9%80%ED%98%B8%EB%A0%B9-%EA%B9%80%ED%83%9C%EA%B5%B0-%EC%86%8C%EC%8B%9D%EC%9D%B4-%EC%97%86%EB%84%A4%EC%9A%94-kia%EC%99%80-%EC%9E%AC%EA%B3%84%EC%95%BD%ED%95%98%EB%A9%B4-%EC%97%B0%EB%9D%BD%EC%9D%B4-%EC%99%94%EC%9D%84-%EA%B1%B4%EB%8D%B0-%EA%BD%83%EB%B2%94%ED%98%B8%EB%8F%84-fa-%EC%8B%9C%EC%9E%A5%EC%97%90-%EA%B7%80-%EC%AB%91%EA%B8%8B-%EA%B0%84%EC%A0%88%ED%95%9C-%EC%9E%94%EB%A5%98-%EB%B0%94%EB%9E%8C-md%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%AD/ar-AA2i8Qcr",
+   "source": "마이데일리 on MSN",
+   "kind": "기사",
+   "published": "2026-11-24T20:00+09:00",
+   "summary": "[마이데일리 = 인천공항 김진성 기자] “소식이 없네요.” KIA 타이거즈 이범호 감독은 시즌이 끝났지만 바쁘다. 오키나와 마무리캠프를 현장에서 풀타임으로 지휘했고, 24일 밤 늦게 귀국하자마자 곧바로 광주에 내려갔다. 인천공항에서 만난 이범호 감독은",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "김태군",
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
+   "title": "\"원태인 관심 있다, 곧 만나서 대화 나눌 예정\"…NC 'FA 최대어' 영입전 참전! '200억' 파격 투자 이루어지나? 샐러리캡도 '여유'",
+   "url": "https://sports.news.nate.com/view/20261124n32931",
+   "source": "네이트 스포츠",
+   "kind": "기사",
+   "published": "2026-11-24T19:38+09:00",
+   "summary": "한눈에 보는 오늘 : 야구 - 뉴스 : 8일 오후 대구광역시 대구삼성라이온즈파크에서 진행된 '2026 프로야구 KBO리그 포스트시즌' 한국시리즈 5차전 삼성라이온즈와 KT위즈의 경기.삼성 원태인이 5회초 2사 1,2루서 김현수를 잡아낸 뒤 포효하고 있",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "KT",
+    "NC",
+    "삼성"
+   ]
+  },
+  {
    "title": "근데 구자욱은 비fa도 한번 했는데 너무 억까 아님?",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19333298",
    "source": "디시 삼성 갤러리",
@@ -273,6 +593,76 @@
    ]
   },
   {
+   "title": "NC가 원태인에게 200억원+α? 대반전의 FA 쇼핑 가능성…그러면 혹시 김호령 영입은 가능할까요",
+   "url": "https://sports.news.nate.com/view/20261124n30078",
+   "source": "네이트 스포츠",
+   "kind": "기사",
+   "published": "2026-11-24T18:20+09:00",
+   "summary": "한눈에 보는 오늘 : 야구 - 뉴스 : KIA 타이거즈 김호령이 14일 광주 KIA챔피언스필드에서 열린 두산 베어스와의 홈 경기서 홈런을 치고 그라운드를 돌고 있다./KIA 타이거즈 제공[마이데일리 = 김진성 기자] NC 다이노스가 FA 최대어 원태인",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "김호령"
+   ],
+   "teams": [
+    "KIA",
+    "NC",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "개장 8일째까지 잠잠한 FA 시장…'거물' 움직여야 요동칠까",
+   "url": "https://nwww.newsis.com/view/NISX20261124_0003881559",
+   "source": "nwww.newsis",
+   "kind": "기사",
+   "published": "2026-11-24T18:00+09:00",
+   "summary": "[대구=뉴시스] 이영환 기자 = 8일 대구 수성구 삼성라이온즈파크에서 열린 2026 KBO 포스트시즌 한국시리즈 5차전 KT 위즈와 삼성 라이온즈 경기, 12-1로 승리를 거둬 우승을 차지한 삼성 구자욱과 원태인이 기뻐하고 있다. 2026.11.08.",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "KT",
+    "삼성"
+   ]
+  },
+  {
+   "title": "“워낙 인기가 많다” FA 최대어 구자욱 거취 결정 장기화 조짐",
+   "url": "https://sports.donga.com/sports/article/all/20261124/135074751/1",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-24T17:47+09:00",
+   "summary": "[스포츠동아 강산 기자] 2027시즌 프리에이전트(FA) 시장의 최대어는 구자욱(33)이다. 올 시즌 114경기에 출전해 타율 0.371, 15홈런, 102타점, 출루율 0.458을 기록했다. 타율, 출루율 등 타격 부문 2관왕을 차지했다. 또한 삼성",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "[인터뷰]에이전트 없이 나 홀로 협상…김호령 “KIA로부터 전달 받은 내용은…”",
+   "url": "https://sports.donga.com/sports/article/all/20261124/135084770/1",
+   "source": "스포츠동아",
+   "kind": "기사",
+   "published": "2026-11-24T17:29+09:00",
+   "summary": "[스포츠동아 장은상 기자] “아직 금액 제시는 못 받았어요.”2027 프리에이전트(FA) 시장에 나온 외야수 김호령(34)은 여러 선수 중에서도 알짜 영입 후보로 꼽힌다. 30대 중반에 들어섰지만, 여전히 수준급 주력과 넓은 수비 범위를 자랑하고 최근",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "김호령"
+   ],
+   "teams": [
+    "KIA"
+   ]
+  },
+  {
    "title": "전병우.김상수 잡고 내년 대형fa 노리자",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19332841",
    "source": "디시 삼성 갤러리",
@@ -288,6 +678,20 @@
    "teams": [
     "KT",
     "삼성"
+   ]
+  },
+  {
+   "title": "'한화 307억 포기' 노시환, 터질 것이 터진다!…日 사토 1614억 대형 계약→이제 노시환 차례! 포스팅 마감 D-7",
+   "url": "https://www.xportsnews.com/article/2221957",
+   "source": "엑스포츠뉴스",
+   "kind": "기사",
+   "published": "2026-11-24T13:57+09:00",
+   "summary": "(엑스포츠뉴스 권동환 기자) ​일본의 사토 데루아키가 시카고 컵스 이적을 확정지음에 따라 KBO리그 거포인 노시환의 미국 무대 진출 여부도 곧 판가름 날 전망이다.노시환은 올해 초 한화와 최대 11년 307억원 규모의 비FA 다년계약을 체결했다. 이후",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [],
+   "teams": [
+    "한화"
    ]
   },
   {
@@ -343,23 +747,6 @@
    ]
   },
   {
-   "title": "NC, FA 최대어 원태인 잡는다",
-   "url": "https://www.msn.com/ko-kr/news/other/nc-fa-%EC%B5%9C%EB%8C%80%EC%96%B4-%EC%9B%90%ED%83%9C%EC%9D%B8-%EC%9E%A1%EB%8A%94%EB%8B%A4/ar-AA2i7eJF",
-   "source": "경남신문 on MSN",
-   "kind": "기사",
-   "published": "2026-11-24T12:07+09:00",
-   "summary": "프로야구 NC 다이노스가 자유계약선수(FA) 최대어 삼성 라이온즈 원태인(사진)의 영입 경쟁에 뛰어들었다. NC 구단 관계자는 24일 본지와 통화에서 “원태인 선수에게 관심이 있어 유선으로 연락을 했고, 조만간 대리인 측과 만날 계획이다”고 밝혔다. ",
-   "via": "bing_news",
-   "collected": "2026-11-24T20:59+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "NC",
-    "삼성"
-   ]
-  },
-  {
    "title": "구자욱 영입 선언한 두산, 그런데 너무 조용하다… 양의지 이후 일주일 만에 외인 영입",
    "url": "https://www.msn.com/ko-kr/news/news/%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%98%81%EC%9E%85-%EC%84%A0%EC%96%B8%ED%95%9C-%EB%91%90%EC%82%B0-%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EB%84%88%EB%AC%B4-%EC%A1%B0%EC%9A%A9%ED%95%98%EB%8B%A4-%EC%96%91%EC%9D%98%EC%A7%80-%EC%9D%B4%ED%9B%84-%EC%9D%BC%EC%A3%BC%EC%9D%BC-%EB%A7%8C%EC%97%90-%EC%99%B8%EC%9D%B8-%EC%98%81%EC%9E%85/ar-AA2i4ufG",
    "source": "노컷뉴스 on MSN",
@@ -374,6 +761,23 @@
    ],
    "teams": [
     "두산",
+    "삼성"
+   ]
+  },
+  {
+   "title": "“구체적 금액 오간 건 아니지만 만나서 의지 전달”…선발 고픈 NC, 원태인 영입전 참전",
+   "url": "https://sports.khan.co.kr/article/202611250023006",
+   "source": "스포츠경향",
+   "kind": "기사",
+   "published": "2026-11-24T11:23+09:00",
+   "summary": "프로야구 NC 다이노스가 자유계약선수(FA) 최대어 원태인 영입전에 뛰어들 준비를 하고 있다. 단순한 전력 보강을 넘어 팀의 체급 자체를 끌어올릴 수 있는 자원이라는 판단이다. NC는 FA 시장 초반부터 ...",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인"
+   ],
+   "teams": [
+    "NC",
     "삼성"
    ]
   },
@@ -477,23 +881,6 @@
    ]
   },
   {
-   "title": "원태인 관심 있다, 곧 만나서 대화 나눌 예정... NC 'FA 최대어' 영입전 참전! '200억' 파격 투자 이루어지나? 샐러리캡도 '여유'",
-   "url": "https://www.msn.com/ko-kr/entertainment/%EC%9C%A0%EB%AA%85-%EC%9D%B8%EC%82%AC/%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B4%80%EC%8B%AC-%EC%9E%88%EB%8B%A4-%EA%B3%A7-%EB%A7%8C%EB%82%98%EC%84%9C-%EB%8C%80%ED%99%94-%EB%82%98%EB%88%8C-%EC%98%88%EC%A0%95-nc-fa-%EC%B5%9C%EB%8C%80%EC%96%B4-%EC%98%81%EC%9E%85%EC%A0%84-%EC%B0%B8%EC%A0%84-200%EC%96%B5-%ED%8C%8C%EA%B2%A9-%ED%88%AC%EC%9E%90-%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%80%EB%82%98-%EC%83%90%EB%9F%AC%EB%A6%AC%EC%BA%A1%EB%8F%84-%EC%97%AC%EC%9C%A0/ar-AA2i6U4F",
-   "source": "마이데일리 on MSN",
-   "kind": "기사",
-   "published": "2026-11-24T10:37+09:00",
-   "summary": "[마이데일리 = 최병진 기자] NC 다이노스가 ‘FA 최대어’ 원태인(삼성 라이온즈) 영입에 관심을 보이고 있다. NC 임선남 단장은 24일 마이데일리와의 통화에서 “원태인 영입에 관심이 있다. 현재 한 차례 유선으로 이야기를 했고 조만간 만나서 이야",
-   "via": "bing_news",
-   "collected": "2026-11-24T20:59+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "NC",
-    "삼성"
-   ]
-  },
-  {
    "title": "내돈도 아닌데, 원태인 4년 200억 구자욱 3년 1000억 박아보자",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19329593",
    "source": "디시 삼성 갤러리",
@@ -524,25 +911,6 @@
    ],
    "teams": [
     "SSG",
-    "삼성"
-   ]
-  },
-  {
-   "title": "NC가 원태인에게 200억원+α? 대반전의 FA 쇼핑 가능성… 그러면 혹시 김호령 영입은 가능할까요",
-   "url": "https://www.msn.com/ko-kr/news/news/nc%EA%B0%80-%EC%9B%90%ED%83%9C%EC%9D%B8%EC%97%90%EA%B2%8C-200%EC%96%B5%EC%9B%90-%CE%B1-%EB%8C%80%EB%B0%98%EC%A0%84%EC%9D%98-fa-%EC%87%BC%ED%95%91-%EA%B0%80%EB%8A%A5%EC%84%B1-%EA%B7%B8%EB%9F%AC%EB%A9%B4-%ED%98%B9%EC%8B%9C-%EA%B9%80%ED%98%B8%EB%A0%B9-%EC%98%81%EC%9E%85%EC%9D%80-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C%EC%9A%94/ar-AA2i6Qt4",
-   "source": "마이데일리 on MSN",
-   "kind": "기사",
-   "published": "2026-11-24T09:19+09:00",
-   "summary": "[마이데일리 = 김진성 기자] NC 다이노스가 FA 최대어 원태인을? NC가 원태인과 한 차례 접촉한 것으로 알려지면서 FA 시장이 더더욱 달아오를 분위기다. NC는 2021-2022 시장에서 박건우에게 6년 100억원, 손아섭에게 4년 64억원 계약",
-   "via": "bing_news",
-   "collected": "2026-11-24T20:59+09:00",
-   "players": [
-    "원태인",
-    "김호령"
-   ],
-   "teams": [
-    "KIA",
-    "NC",
     "삼성"
    ]
   },
@@ -1205,18 +1573,20 @@
   },
   {
    "title": "FA 중견수 중 유일 C등급…김호령, '대박' 터트릴까",
-   "url": "https://www.newsis.com/view/NISX20261123_0003879215",
-   "source": "뉴시스",
+   "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553723799",
+   "source": "스포탈코리아",
    "kind": "기사",
-   "published": "2026-11-23T15:29+09:00",
-   "summary": "[서울=뉴시스]박윤서 기자 = 올 시즌 커리어 최고 성적을 거둔 외야수 김호령이 프리에이전트(FA) 대박을 노리고 있다. 이번 FA 시장에 나온 중견수들 가운데 유일하게 보상선수 부담이 없는 C등급으로 분류되면서 그의 거취가 '뜨거운 감자'로 떠올랐다",
+   "published": "2026-11-23T15:59+09:00",
+   "summary": "게다가 FA 중견수 중 최대어로 꼽혔던 최지훈이 일찌감치 원소속팀 SSG 랜더스와 계약 기간 4년, 총액 67억원에 계약하면서 시장 내 김호령의 인기가 더 높아질 전망이다. 다만 1997년생인 최지훈보다 5살 많은 김호령이 더 큰 규모의 계약에 도장을",
    "via": "bing_news",
-   "collected": "2026-11-24T10:52+09:00",
+   "collected": "2026-11-25T07:19+09:00",
    "players": [
-    "김호령"
+    "김호령",
+    "최지훈"
    ],
    "teams": [
-    "KIA"
+    "KIA",
+    "SSG"
    ]
   },
   {
@@ -1876,6 +2246,24 @@
    ],
    "teams": [
     "삼성"
+   ]
+  },
+  {
+   "title": "'초대박' 52억에 두산 잔류 확정→FA 선배들 향해 외쳤다 “양의지-정수빈 형 없으면 우승 힘들어, 박치국은…” [오!쎈 미야자키]",
+   "url": "https://www.mt.co.kr/sports/2026/11/16/202611160732771402O",
+   "source": "머니투데이",
+   "kind": "기사",
+   "published": "2026-11-23T01:00+09:00",
+   "summary": "두산 베어스 투수 이영하가 FA 자격을 얻은 양의지, 정수빈, 박치국의 잔류를 희망했다. 이영하는 양의지와 정수빈이 팀의 중심을 잡고 우승을 노리는 데 반드시 필요한 존재라고 강조했다. 또한 후배 박치국에 대해서는 좋은 대우를 받기를 바란다는 진심 어",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "박치국",
+    "양의지",
+    "정수빈"
+   ],
+   "teams": [
+    "두산"
    ]
   },
   {
@@ -7670,6 +8058,22 @@
    ]
   },
   {
+   "title": "타 구단 엄두 못 낸 '보상금 63억'의 힘…양의지, 여유롭게 2년 55억 잔류",
+   "url": "https://www.nocutnews.co.kr/news/6608650",
+   "source": "노컷뉴스",
+   "kind": "기사",
+   "published": "2026-11-18T14:33+09:00",
+   "summary": "베테랑 포수 양의지(39)가 친정팀 두산 베어스와의 동행을 이어가며 선수 생활의 마지막 페이지를 장식한다. 두산 베어스 구단은 2027 자유계약선수(FA) 시장이 열린 지난 17일 내부 FA 자격을 얻은 양의지와 계약 기간 2년, 총액 최대 55억 원",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": [
+    "두산"
+   ]
+  },
+  {
    "title": "최지훈이 계약했는데, 왜 이범호 고민이 깊어지나… 김호령도 타 구단 협상, KIA 긴장감 높아진다",
    "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020497",
    "source": "SPOTV NEWS",
@@ -11849,6 +12253,23 @@
    ]
   },
   {
+   "title": "“1~2년 안에 이런 FA 선수 없다”…구자욱·원태인 쟁탈전 시작",
+   "url": "https://www.hani.co.kr/arti/sports/baseball/1287520.html",
+   "source": "한겨레",
+   "kind": "기사",
+   "published": "2026-11-16T20:56+09:00",
+   "summary": "올해 한국시리즈 우승을 함께 만든 구자욱과 원태인이 자유계약선수(FA) 시장에 나왔다. 삼성 라이온즈는 두 선수를 모두 붙잡겠다는 입장이지만, 선수들은 해외 무대 도전 가능성도 열어뒀다. 비FA 다년계약 기조 속에 시장에 나온 대어급 선수들이라 타 구",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
    "title": "기아썰) 전병우 원태인 관심있음 구는 X",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19289981",
    "source": "디시 삼성 갤러리",
@@ -11954,6 +12375,30 @@
    "teams": [
     "KT",
     "SSG"
+   ]
+  },
+  {
+   "title": "서진용·한유섬·최주환은 FA 신청 포기, 양의지는 FA 신청...KBO, 2027 FA 승인 선수 22명 공시",
+   "url": "https://www.spochoo.com/news/articleView.html?idxno=132134",
+   "source": "스포츠춘추",
+   "kind": "기사",
+   "published": "2026-11-16T19:55+09:00",
+   "summary": "[더게이트]올겨울 FA 시장에 나올 선수들이 확정됐다. 투타 최대어 구자욱과 원태인이 예상대로 이름을 올린 가운데, SSG 랜더스 서진용과 한유섬 등 6명은 FA 권리 행사를 포기했다. 두산 베어스 베테랑 양의지는 계약에 포함된 옵트아웃 대신 FA 신",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "양의지",
+    "서진용",
+    "한유섬",
+    "최주환"
+   ],
+   "teams": [
+    "SSG",
+    "두산",
+    "삼성",
+    "키움"
    ]
   },
   {
@@ -12370,6 +12815,24 @@
    ]
   },
   {
+   "title": "KBO FA 승인 22명 공시…KT 6명·SSG 3명 시장 출격",
+   "url": "https://www.kyeonggi.com/article/20261116580312",
+   "source": "경기일보",
+   "kind": "기사",
+   "published": "2026-11-16T15:45+09:00",
+   "summary": "프로야구 KT 위즈와 SSG 랜더스에서 모두 9명의 선수가 자유계약선수(FA) 시장에 나왔다. 특히 KT는 10개 구단 가운데 가장 많은 6명이 FA 승인을 받으면서 대규모 선수단 변화 가능성을 열어뒀다. 삼성 라이온즈의 간판 구자욱과 토종 에이스 원",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "구자욱"
+   ],
+   "teams": [
+    "KT",
+    "SSG",
+    "삼성"
+   ]
+  },
+  {
    "title": "구자욱은 NPB 못가",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19288556",
    "source": "디시 삼성 갤러리",
@@ -12534,6 +12997,31 @@
    ]
   },
   {
+   "title": "원태인·구자욱 어디로?…프로야구 FA 22명 공시",
+   "url": "https://www.dailian.co.kr/news/view/1715589/%EC%9B%90%ED%83%9C%EC%9D%B8%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%96%B4%EB%94%94%EB%A1%9C%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-FA-22-2026",
+   "source": "데일리안",
+   "kind": "기사",
+   "published": "2026-11-16T15:02+09:00",
+   "summary": "한국야구위원회(KBO)는 16일 2027년 자유계약선수(FA) 자격 선수로 공시된 28명 중 승인 선수 22명의 명단을 공시했다.2027년 FA 승인 선수는 삼성 원태인, 전병우, 구자욱, KT 김민수, 한승혁, 김상수, 오윤석, 김민혁, 배정대, K",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "전병우",
+    "구자욱",
+    "김민수",
+    "한승혁",
+    "김상수",
+    "오윤석",
+    "김민혁",
+    "배정대"
+   ],
+   "teams": [
+    "KT",
+    "삼성"
+   ]
+  },
+  {
    "title": "전병우 가든 말든 노관심이고 워크샵이나 내놔라 ㅅㅂ",
    "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19288355",
    "source": "디시 삼성 갤러리",
@@ -12623,6 +13111,26 @@
    ]
   },
   {
+   "title": "구자욱·원태인·양의지 FA 시장으로...17일부터 협상",
+   "url": "https://news.ikbc.co.kr/article/view/kbc202611160041",
+   "source": "KBC광주방송",
+   "kind": "기사",
+   "published": "2026-11-16T13:45+09:00",
+   "summary": "한국야구위원회(KBO)가 2027년 자유계약선수(FA) 승인 선수 22명의 명단을 확정했습니다. KBO는 16일 FA 자격 선수 28명 가운데 FA를 신청한 22명의 명단을 공시했습니다. 구단별로는 KT 위즈가 6명으로 가장 많고, 삼성 라이온즈와 두",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "양의지"
+   ],
+   "teams": [
+    "KT",
+    "두산",
+    "삼성"
+   ]
+  },
+  {
    "title": "원태인·구자욱 포함 FA 22명 공시…프로야구 '쩐의 전쟁' 시작",
    "url": "https://www.imaeil.com/page/view/2026111612120115660",
    "source": "매일신문",
@@ -12634,6 +13142,39 @@
    "players": [
     "원태인",
     "전병우",
+    "구자욱"
+   ],
+   "teams": [
+    "삼성"
+   ]
+  },
+  {
+   "title": "'두산 안방마님' 양의지, 2년 최대 42억 포기...FA 시장 나온다",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02092646645646376",
+   "source": "이데일리",
+   "kind": "기사",
+   "published": "2026-11-16T13:07+09:00",
+   "summary": "듀산베어스 포수 양의지가 2년 최대 42억 원을 포기하고 자유계약선수(FA) 시장에 나왔다. FA 시장에 나온 양의지. 사진=연합뉴스KBO는 16일 2027년 FA 자격 선수 28명 가운데 FA 승인을 받은 22명의 명단을 공시했다. 두산과 맺었던 4",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "양의지"
+   ],
+   "teams": [
+    "두산"
+   ]
+  },
+  {
+   "title": "구자욱·원태인 등 FA 승인 선수 22명 공시…17일부터 협상",
+   "url": "https://www.newsis.com/view/NISX20261116_0003869512",
+   "source": "뉴시스",
+   "kind": "기사",
+   "published": "2026-11-16T12:59+09:00",
+   "summary": "[서울=뉴시스]박윤서 기자 = '최대어' 구자욱, 원태인(이상 삼성 라이온즈)을 포함한 총 22명의 프로야구 선수가 프리에이전트(FA) 시장에 나온다. 한국야구위원회(KBO)는 16일 2027년 FA 자격 선수로 공시된 28명 중 승인을 받은 22명의",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
     "구자욱"
    ],
    "teams": [
@@ -12684,6 +13225,39 @@
     "LG",
     "삼성",
     "한화"
+   ]
+  },
+  {
+   "title": "프로야구 FA 22명 명단 공개…42억 포기한 '이 선수'까지 나왔다",
+   "url": "https://www.wikitree.co.kr/articles/1174945",
+   "source": "위키트리",
+   "kind": "기사",
+   "published": "2026-11-16T12:55+09:00",
+   "summary": "한국야구위원회 (KBO)는 2027년 FA 자격 선수 28명 가운데 권리 행사를 신청한 22명의 명단을 16일 공시했다. 이들은 17일부터 원소속팀은 물론 다른 KBO 구단과 해외 구단을 상대로도 계약 협상을 벌일 수 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [],
+   "teams": []
+  },
+  {
+   "title": "프로야구 FA 시장 열린다…양의지도 두산과 재협상",
+   "url": "https://news.jkn.co.kr/post/1097696",
+   "source": "재경일보",
+   "kind": "기사",
+   "published": "2026-11-16T12:55+09:00",
+   "summary": "한국야구위원회가 2027년 프로야구 자유계약선수(FA) 승인 선수 22명을 공시했다. 원태인과 구자욱, 양의지, 홍창기 등이 포함된 가운데 이들은 17일부터 해외 구단을 포함한 모든 구단과 계약을 협상할 수 있다.",
+   "via": "bing_news",
+   "collected": "2026-11-25T07:19+09:00",
+   "players": [
+    "원태인",
+    "구자욱",
+    "홍창기",
+    "양의지"
+   ],
+   "teams": [
+    "LG",
+    "두산",
+    "삼성"
    ]
   },
   {
@@ -12819,630 +13393,6 @@
     "구자욱"
    ],
    "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "\"한국에선 V9 에이스인데 미국 가면 불펜?\" 26세 FA 원태인 향한 美 스카우트의 냉혹한 시선",
-   "url": "https://sports.news.nate.com/view/20261116n06405",
-   "source": "네이트 스포츠",
-   "kind": "기사",
-   "published": "2026-11-16T10:13+09:00",
-   "summary": "한눈에 보는 오늘 : 야구 - 뉴스 : MLB.com n\"이닝 소화력\\·체인지업 좋지만, 빅리그 선발로는 역부족\"26세 젊은 나이\\·포스팅 비용 없는 FA 신분은 강점텍사스\\·SF 등 4개 구단 잠재적 후보 거론 연합뉴스 [파이낸셜뉴스] 한국 무대에서",
-   "via": "bing_news",
-   "collected": "2026-11-17T03:31+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "구자욱 JBO에서 관심있다는데 ㄷㄷ",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287692",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T10:12+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "프로야구 2027년 FA 시장 개장…원태인·구자욱·양의지 등 22명 승인",
-   "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943696",
-   "source": "스포츠한국",
-   "kind": "기사",
-   "published": "2026-11-16T10:05+09:00",
-   "summary": "[스포츠한국 김성수 기자] 한국야구위원회(KBO)가 2027 자유계약선수(FA) 자격을 행사할 최종 승인 선수 22명을 확정 발표했다.KBO는 앞서 공시된 FA 자격 보유자 28명 가운데 권리를 신청한 22명의 명단을 16일 공개했다. 명단에 이름을 ",
-   "via": "bing_news",
-   "collected": "2026-11-17T03:31+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "양의지"
-   ],
-   "teams": [
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "쓱에서 구자욱 aav 40억 준다는데?",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287650",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T09:51+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "원태인 구자욱 해외나가면 보내는것도 나쁘지않음",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287633",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T09:41+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "구자욱이 잔류 할 수 밖에 없는 이유",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287629",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T09:35+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "베코) 구자욱 삼성 포함 5팀 경합, 삼성 초대형 계약 제시 예정",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287604",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T09:11+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "막 오른 ‘쩐의 전쟁’…원태인·구자욱·양의지 등 FA 신청",
-   "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%89-%EC%98%A4%EB%A5%B8-%EC%A9%90%EC%9D%98-%EC%A0%84%EC%9F%81-%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%96%91%EC%9D%98%EC%A7%80-%EB%93%B1-fa-%EC%8B%A0%EC%B2%AD/ar-AA2hwFNz",
-   "source": "동아일보 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T08:42+09:00",
-   "summary": "프로야구 스토브리그를 달굴 ‘쩐의 전쟁’이 시작된다.한국야구위원회(KBO)는 2027년 자유계약선수(FA) 권리를 승인받은 22명의 명단을 16일 공시했다. FA 자격을 얻은 28명 중 22명이 권리를 행사했다. 2024년 19명을 시작으로 3년 연속",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "양의지"
-   ],
-   "teams": [
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "진지하게 구자욱 6y/300억 정도면 잡을거 같은데",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287570",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T08:13+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "원태인·구자욱 포함, 프로야구 FA 22명 공시",
-   "url": "https://www.msn.com/ko-kr/news/other/%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1-%ED%8F%AC%ED%95%A8-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-fa-22%EB%AA%85-%EA%B3%B5%EC%8B%9C/ar-AA2hwocv",
-   "source": "문화일보 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T07:32+09:00",
-   "summary": "한국야구위원회(KBO)가 16일 프로야구 자유계약(FA) 승인 선수 22명의 명단을 공시했다. 원태인, 구자욱, 전병우(이상 삼성), 김민수, 한승혁, 김상수, 오윤석, 김민혁, 배정대(이상 KT), 김태군, 김호령(이상 ...",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "전병우",
-    "구자욱",
-    "김민수",
-    "한승혁",
-    "김상수",
-    "오윤석",
-    "김민혁",
-    "배정대",
-    "김태군",
-    "김호령"
-   ],
-   "teams": [
-    "KIA",
-    "KT",
-    "삼성"
-   ]
-  },
-  {
-   "title": "구자욱 순수할때 10년 다년 박았어야 했는데",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287544",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T07:18+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "구자욱 aav 40억이면 버리자는 애들",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287540",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T07:14+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T10:18+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "양의지 40세에 보상금만 63억원인데 누가 데려가나… 그러면 FA 포수 연쇄이동 없다? NO, 가능성 충분하다",
-   "url": "https://www.msn.com/ko-kr/news/news/%EC%96%91%EC%9D%98%EC%A7%80-40%EC%84%B8%EC%97%90-%EB%B3%B4%EC%83%81%EA%B8%88%EB%A7%8C-63%EC%96%B5%EC%9B%90%EC%9D%B8%EB%8D%B0-%EB%88%84%EA%B0%80-%EB%8D%B0%EB%A0%A4%EA%B0%80%EB%82%98-%EA%B7%B8%EB%9F%AC%EB%A9%B4-fa-%ED%8F%AC%EC%88%98-%EC%97%B0%EC%87%84%EC%9D%B4%EB%8F%99-%EC%97%86%EB%8B%A4-no-%EA%B0%80%EB%8A%A5%EC%84%B1-%EC%B6%A9%EB%B6%84%ED%95%98%EB%8B%A4/ar-AA2hwnTZ",
-   "source": "마이데일리 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T07:00+09:00",
-   "summary": "[마이데일리 = 김진성 기자] 보상금 63억원짜리 FA의 등장. 그러면 FA 포수 연쇄이동은 어떻게 되나. KBO는 16일 FA 자격을 신청한 선수 22명의 면면을 공개했다. 원태인, 전병우, 구자욱 김민수, 한승혁, 김상수, 오윤석, 김민혁, 배정대",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "전병우",
-    "구자욱",
-    "김민수",
-    "한승혁",
-    "김상수",
-    "오윤석",
-    "김민혁",
-    "배정대",
-    "양의지"
-   ],
-   "teams": [
-    "KT",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "2027 KBO FA 선수 22명 명단과 등급별 보상 및 이적 전망",
-   "url": "https://2days.kr/16/11/14/112228/korea-now/sports/",
-   "source": "2days.kr",
-   "kind": "기사",
-   "published": "2026-11-16T06:59+09:00",
-   "summary": "응원하는 팀의 주축 선수가 다른 유니폼을 입게 될지, 올겨울에는 어느 구단이 지갑을 열지 야구팬들의 관심이 쏠리고 있습니다. 2027 KBO FA 선수 22명이 최종 확정됐고, 11월 17일부터 본격적인 계약 협상이 시작됩니다. 원태인과 구자욱, 홍창",
-   "via": "bing_news",
-   "collected": "2026-11-17T11:03+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "KIA, FA 시장서 불펜 보강 나설까",
-   "url": "https://www.msn.com/ko-kr/news/other/kia-fa-%EC%8B%9C%EC%9E%A5%EC%84%9C-%EB%B6%88%ED%8E%9C-%EB%B3%B4%EA%B0%95-%EB%82%98%EC%84%A4%EA%B9%8C/ar-AA2hwg7z",
-   "source": "광주매일신문 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T06:37+09:00",
-   "summary": "[광주매일신문= 주홍철 기자] 프로야구 자유계약선수(FA) 시장이 오는 17일 문을 연다. KIA 타이거즈에는 ...",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "구자욱 4년 155억, 김지찬 6년 100억 딱 이 정도",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287514",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T04:43+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "[오피셜] '42억 포기' 양의지+'돌연 화제' 김호령 C등급 신청 확정! 최대어 원태인·구자욱도 나왔다→KBO, 22명 FA 승인 명단 공시",
-   "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EC%98%A4%ED%94%BC%EC%85%9C-42%EC%96%B5-%ED%8F%AC%EA%B8%B0-%EC%96%91%EC%9D%98%EC%A7%80-%EB%8F%8C%EC%97%B0-%ED%99%94%EC%A0%9C-%EA%B9%80%ED%98%B8%EB%A0%B9-c%EB%93%B1%EA%B8%89-%EC%8B%A0%EC%B2%AD-%ED%99%95%EC%A0%95-%EC%B5%9C%EB%8C%80%EC%96%B4-%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1%EB%8F%84-%EB%82%98%EC%99%94%EB%8B%A4-kbo-22%EB%AA%85-fa-%EC%8A%B9%EC%9D%B8-%EB%AA%85%EB%8B%A8-%EA%B3%B5%EC%8B%9C/ar-AA2hv1W7",
-   "source": "엑스포츠뉴스 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T04:18+09:00",
-   "summary": "(엑스포츠뉴스 김근한 기자) 두산 베어스 포수 양의지가 옵트아웃 권리를 행사하지 않고 자유계약선수(FA) 시장으로 나온다. 올겨울 FA 시장 최대어 삼성 라이온즈 구자욱과 원태인도 FA 선수 승인 명단에 이름을 올렸다. 한국야구위원회(KBO)는 16일",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "김호령",
-    "양의지"
-   ],
-   "teams": [
-    "KIA",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "구자욱은 직접 협상 하나봄",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287504",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T04:07+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "KBO, 2027 FA 승인 선수 명단 공시… 원태인·구자욱·양의지·홍창기 포함 22명",
-   "url": "https://www.msn.com/ko-kr/sports/basketball/kbo-2027-fa-%EC%8A%B9%EC%9D%B8-%EC%84%A0%EC%88%98-%EB%AA%85%EB%8B%A8-%EA%B3%B5%EC%8B%9C-%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%96%91%EC%9D%98%EC%A7%80-%ED%99%8D%EC%B0%BD%EA%B8%B0-%ED%8F%AC%ED%95%A8-22%EB%AA%85/ar-AA2hvohx",
-   "source": "톱스타뉴스 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:54+09:00",
-   "summary": "KBO가 2027년 FA 승인 선수 22명의 명단을 발표했다. 삼성 원태인·구자욱, LG 박동원·홍창기, 두산 양의지·정수빈 등 주요 선수들이 포함됐으며, 17일부터 해외 구단을 포함한 모든 구단과 계약 협상이 가능하다.",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "박동원",
-    "홍창기",
-    "양의지",
-    "정수빈"
-   ],
-   "teams": [
-    "LG",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "'두산 안방마님' 양의지, 2년 최대 42억 포기하고 FA 선언",
-   "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EB%91%90%EC%82%B0-%EC%95%88%EB%B0%A9%EB%A7%88%EB%8B%98-%EC%96%91%EC%9D%98%EC%A7%80-2%EB%85%84-%EC%B5%9C%EB%8C%80-42%EC%96%B5-%ED%8F%AC%EA%B8%B0%ED%95%98%EA%B3%A0-fa-%EC%84%A0%EC%96%B8/ar-AA2huZfO",
-   "source": "이데일리 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:52+09:00",
-   "summary": "[이데일리 스타in 이석무 기자] 듀산베어스 포수 양의지가 2년 최대 42억 원을 포기하고 자유계약선수(FA) 시장에 나왔다. FA 시장에 나온 양의지. 사진=연합뉴스 KBO는 16일 2027년 FA 자격 선수 28명 가운데 FA 승인을 받은 22명의",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "양의지"
-   ],
-   "teams": [
-    "두산"
-   ]
-  },
-  {
-   "title": "KBO, 2027 FA 22명 공시…원태인·구자욱 포함 전 구단 협상 가능",
-   "url": "https://www.msn.com/ko-kr/sports/baseball/kbo-2027-fa-22%EB%AA%85-%EA%B3%B5%EC%8B%9C-%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1-%ED%8F%AC%ED%95%A8-%EC%A0%84-%EA%B5%AC%EB%8B%A8-%ED%98%91%EC%83%81-%EA%B0%80%EB%8A%A5/ar-AA2hv9Hx",
-   "source": "톱스타뉴스 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:50+09:00",
-   "summary": "KBO가 2027시즌 프로야구 FA 승인 선수 22명을 공시했다. 삼성 원태인·구자욱, 두산 양의지·정수빈, LG 홍창기·박동원 등은 17일부터 모든 구단과 협상이 가능하며, 구단당 외부 FA는 최대 3명까지 영입할 수 있다.",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "박동원",
-    "홍창기",
-    "양의지",
-    "정수빈"
-   ],
-   "teams": [
-    "LG",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "원태인·구자욱·양의지 등 프로야구 FA 22명 확정...17일부터 전 구단과 협상 가능",
-   "url": "https://www.msn.com/ko-kr/sports/basketball/%EC%9B%90%ED%83%9C%EC%9D%B8-%EA%B5%AC%EC%9E%90%EC%9A%B1-%EC%96%91%EC%9D%98%EC%A7%80-%EB%93%B1-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC-fa-22%EB%AA%85-%ED%99%95%EC%A0%95-17%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A0%84-%EA%B5%AC%EB%8B%A8%EA%B3%BC-%ED%98%91%EC%83%81-%EA%B0%80%EB%8A%A5/ar-AA2hvDKB",
-   "source": "싱글리스트 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:44+09:00",
-   "summary": "프로야구 자유계약선수(FA) 시장에 원태인과 구자욱, 양의지 등 22명이 나온다.16일 연합뉴스에 따르면 한국야구위원회(KBO)는 이날 2026시즌 종료 후 FA 자격을 신청한 승인 선수 22명의 명단을 발표했다.FA 승인 선수들은 17일부터 원소속 ",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "양의지"
-   ],
-   "teams": [
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "8년 240억 구자욱 원태인 6 180이런느낌으로 가도 되지",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287482",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T03:32+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "[오피셜] FA 시장 열린다…양의지 등 FA 승인 선수 22명 공시",
-   "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EC%98%A4%ED%94%BC%EC%85%9C-fa-%EC%8B%9C%EC%9E%A5-%EC%97%B4%EB%A6%B0%EB%8B%A4-%EC%96%91%EC%9D%98%EC%A7%80-%EB%93%B1-fa-%EC%8A%B9%EC%9D%B8-%EC%84%A0%EC%88%98-22%EB%AA%85-%EA%B3%B5%EC%8B%9C/ar-AA2hvewI",
-   "source": "스포츠경향 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:31+09:00",
-   "summary": "KBO제공 2027년 FA 자격이 승인된 선수 22명이 16일 공개됐다. KBO는 FA 자격 선수로 공시된 28명 중 22명이 FA 자격을 승인 받았다고 16일 밝혔다. 원태인·전병우·구자욱(삼성), 김민수·한승혁·김상수·오윤석·김민혁·배정대(KT),",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "전병우",
-    "구자욱",
-    "김민수",
-    "한승혁",
-    "김상수",
-    "오윤석",
-    "김민혁",
-    "배정대",
-    "양의지"
-   ],
-   "teams": [
-    "KT",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "KBO, 2027년 FA 승인 선수 22명 공시...롯데·키움 내부 FA O명",
-   "url": "https://www.msn.com/ko-kr/sports/basketball/kbo-2027%EB%85%84-fa-%EC%8A%B9%EC%9D%B8-%EC%84%A0%EC%88%98-22%EB%AA%85-%EA%B3%B5%EC%8B%9C-%EB%A1%AF%EB%8D%B0-%ED%82%A4%EC%9B%80-%EB%82%B4%EB%B6%80-fa-o%EB%AA%85/ar-AA2hvybf",
-   "source": "일간스포츠 on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:29+09:00",
-   "summary": "한국야구위원회(KBO)가 16일 2027년 자유계약선수(FA)로 공시된 28명 중 승인 선수 22명 명단을 공개했다. 2027년 FA 승인 선수는 전 소속팀 기준으로 삼성 라이온즈 원태인·전병우·구자욱, KT 위즈 김민수·한승혁·김상수·오윤석·김민혁·",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "전병우",
-    "구자욱",
-    "김민수",
-    "한승혁",
-    "김상수",
-    "오윤석",
-    "김민혁"
-   ],
-   "teams": [
-    "KT",
-    "롯데",
-    "삼성",
-    "키움"
-   ]
-  },
-  {
-   "title": "드디어 FA 시장이 열렸다! KBO, FA 승인 선수 22명 명단 발표…17일부터 계약 체결 교섭 가능",
-   "url": "https://www.msn.com/ko-kr/sports/baseball/%EB%93%9C%EB%94%94%EC%96%B4-fa-%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EC%97%B4%EB%A0%B8%EB%8B%A4-kbo-fa-%EC%8A%B9%EC%9D%B8-%EC%84%A0%EC%88%98-22%EB%AA%85-%EB%AA%85%EB%8B%A8-%EB%B0%9C%ED%91%9C-17%EC%9D%BC%EB%B6%80%ED%84%B0-%EA%B3%84%EC%95%BD-%EC%B2%B4%EA%B2%B0-%EA%B5%90%EC%84%AD-%EA%B0%80%EB%8A%A5/ar-AA2hv703",
-   "source": "OSEN on MSN",
-   "kind": "기사",
-   "published": "2026-11-16T03:14+09:00",
-   "summary": "프로야구 2027년 FA 시장에 나설 선수 22명이 확정됐다. 삼성 라이온즈 구자욱과 원태인을 비롯해 두산 베어스 양의지, LG 트윈스 박동원과 홍창기 등이 FA 자격을 행사한다.KBO는 16일 2027년 FA 자격 선수로 공시된 2..",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "박동원",
-    "홍창기",
-    "양의지"
-   ],
-   "teams": [
-    "LG",
-    "두산",
-    "삼성"
-   ]
-  },
-  {
-   "title": "FA 포수 4인에 요동치는 각 구단 안방",
-   "url": "https://www.kmib.co.kr/article/20261116500978",
-   "source": "국민일보",
-   "kind": "기사",
-   "published": "2026-11-16T03:03+09:00",
-   "summary": "추운 겨울을 뜨겁게 달굴 프로야구 자유계약선수(FA) 시장이 문을 열었다. 베테랑 포수들이 대거 FA 자격을 얻으면서 4년 전 리그를 강타했던 ‘포수 대이동’이 재현될 수 있다는 전망이 나온다. 한국야구위원회(KBO)는 16일 “이번 시즌 총 22명의",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [],
-   "teams": []
-  },
-  {
-   "title": "구자욱 400억에 산다는썰 수도권팀",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287430",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T02:50+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "원태인 구자욱이 해외진출하는게 팀에 도움될듯",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287419",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T02:45+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "원태인",
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "원태인 뭐가 비싸다는것임 4년100억이하 이지랄",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287412",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T02:41+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "원태인"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "키움이 구자욱 영입한다고 하면 긴장해야됨",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287409",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T02:36+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성",
-    "키움"
-   ]
-  },
-  {
-   "title": "뜬금없이 겆이 구자욱 영입참전하면",
-   "url": "https://gall.dcinside.com/board/view/?id=samsunglions_new&no=19287407",
-   "source": "디시 삼성 갤러리",
-   "kind": "커뮤니티",
-   "published": "2026-11-16T02:34+09:00",
-   "summary": "",
-   "via": "dcinside",
-   "collected": "2026-11-16T06:23+09:00",
-   "players": [
-    "구자욱"
-   ],
-   "teams": [
-    "삼성"
-   ]
-  },
-  {
-   "title": "'13홈런·정상급 수비' 김호령이 보상 선수 없이 풀렸다…KIA의 '빗나간 계산'",
-   "url": "https://www.nocutnews.co.kr/news/6607541",
-   "source": "노컷뉴스",
-   "kind": "기사",
-   "published": "2026-11-16T02:28+09:00",
-   "summary": "단 한 계단의 차이가 스토브리그의 판도를 뒤흔들고 있다. 생애 첫 자유계약선수(FA) 자격을 얻은 외야수 김호령(34·KIA 타이거즈)이 전체 연봉 순위 61위로 C등급 판정을 받으면서, 그를 둘러싼 영입전이 뜨겁게 달아오르고 있다. 한국야구위원회(K",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "김호령"
-   ],
-   "teams": [
-    "KIA"
-   ]
-  },
-  {
-   "title": "FA 시장 열린다…양의지 사실상 두산 잔류, 구자욱·원태인 행선지는?",
-   "url": "https://sports.khan.co.kr/article/202611161516003",
-   "source": "스포츠경향",
-   "kind": "기사",
-   "published": "2026-11-16T02:20+09:00",
-   "summary": "두산 베테랑 포수 양의지(39)가 옵트아웃을 선택하지 않고 FA 자격을 신청했다. 사실상 두산에 잔류하겠다는 의지를 표명한 것이다. KBO가 16일 공개한 2027 FA 승인 선수 22명 명단에는 양의지도 ...",
-   "via": "bing_news",
-   "collected": "2026-11-16T17:07+09:00",
-   "players": [
-    "원태인",
-    "구자욱",
-    "양의지"
-   ],
-   "teams": [
-    "두산",
     "삼성"
    ]
   }
